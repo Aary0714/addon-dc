@@ -770,6 +770,22 @@ module.exports = [
     ]
   },
   {
+    "tmdbId": 378674,
+    "title": "DC Films Presents Dawn of the Justice League",
+    "type": "movie",
+    "imdbId": "tt5355872",
+    "id": "dc_tt5355872",
+    "releaseYear": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/jjYndp8PuLFNuIbGg6Zs7MkxWIc.jpg",
+    "ratings": [],
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ]
+  },
+  {
     "tmdbId": 297762,
     "title": "Wonder Woman",
     "type": "movie",
@@ -840,6 +856,50 @@ module.exports = [
       {
         "id": 878,
         "name": "Science Fiction"
+      }
+    ]
+  },
+  {
+    "tmdbId": 1255345,
+    "title": "Etta's Mission",
+    "type": "movie",
+    "imdbId": "tt7408556",
+    "id": "dc_tt7408556",
+    "releaseYear": "2017",
+    "poster": "https://image.tmdb.org/t/p/w500/piVyyIEtTYrWlQq9SHLXMnhsYFf.jpg",
+    "ratings": [],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ]
+  },
+  {
+    "tmdbId": 1657538,
+    "title": "Scalped",
+    "type": "movie",
+    "imdbId": "tt6634410",
+    "id": "dc_tt6634410",
+    "releaseYear": "2017",
+    "poster": "https://image.tmdb.org/t/p/w500/7fA9Jpcw0sOpB8iFvgKyRPBery9.jpg",
+    "ratings": [],
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 37,
+        "name": "Western"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10770,
+        "name": "TV Movie"
       }
     ]
   },
@@ -1374,6 +1434,102 @@ module.exports = [
       {
         "id": 878,
         "name": "Science Fiction"
+      }
+    ]
+  },
+  {
+    "tmdbId": 1081003,
+    "title": "Supergirl",
+    "type": "movie",
+    "imdbId": "tt8814476",
+    "id": "dc_tt8814476",
+    "releaseYear": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+    "ratings": [],
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ]
+  },
+  {
+    "tmdbId": 1400940,
+    "title": "Clayface",
+    "type": "movie",
+    "imdbId": "tt34890576",
+    "id": "dc_tt34890576",
+    "releaseYear": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+    "ratings": [],
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ]
+  },
+  {
+    "tmdbId": 1523140,
+    "title": "Man of Tomorrow",
+    "type": "movie",
+    "imdbId": "tt37833661",
+    "id": "dc_tt37833661",
+    "releaseYear": "2027",
+    "poster": "https://image.tmdb.org/t/p/w500/tYLgfKk3cEk7LskgxWyW37Nty01.jpg",
+    "ratings": [],
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ]
+  },
+  {
+    "tmdbId": 806704,
+    "title": "The Batman: Part II",
+    "type": "movie",
+    "imdbId": "tt19850008",
+    "id": "dc_tt19850008",
+    "releaseYear": "2028",
+    "poster": "https://image.tmdb.org/t/p/w500/caeBJHLNld1h14uvcLvzyHf3Rlk.jpg",
+    "ratings": [],
+    "genres": [
+      {
+        "id": 9648,
+        "name": "Mystery"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
       }
     ]
   }
