@@ -8,6 +8,7 @@ const BASE_URL = `https://api.themoviedb.org/3`;
 const OUTPUT_PATH = path.join(__dirname, `..`, `Data`, `moviesData.js`);
 const DC_COMPANY_IDS = `9993|184898|128064`;
 const SUPPLEMENTARY_LIST_IDS = [3, 94805, 105614];
+const ANIMATION_GENRE_ID = 16;
 
 if (!TMDB_API_KEY) {
   console.error(`Missing TMDB_API_KEY in environment.`);
@@ -44,7 +45,7 @@ async function fetchDiscoveredMovies() {
   do {
     const data = await tmdbGet(`/discover/movie`, {
       with_companies: DC_COMPANY_IDS,
-      without_genres: 16,
+      without_genres: ANIMATION_GENRE_ID,
       sort_by: `primary_release_date.asc`,
       "primary_release_date.gte": `1900-01-01`,
       page
@@ -96,7 +97,7 @@ async function fetchListMovies(listId) {
       let title = r.title;
       let genreIds = r.genre_ids || [];
 
-      if (!posterPath || !overview || !releaseDate) {
+      if (!posterPath || !overview || !releaseDate || !genreIds.length) {
         const details = await getMovieDetails(tmdbId);
         if (details) {
           posterPath = posterPath || details.poster_path;
@@ -108,7 +109,7 @@ async function fetchListMovies(listId) {
       }
 
       if (!posterPath || !overview || !title) continue;
-      if (genreIds.includes(16)) continue;
+      if (genreIds.includes(ANIMATION_GENRE_ID)) continue;
 
       const imdbId = await getImdbId(tmdbId);
       finalItems.push({
