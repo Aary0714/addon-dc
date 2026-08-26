@@ -1,6 +1,8 @@
 [
   {
-    "id": "tmdb_13640",
+    "id": "tt0934706",
+    "imdbId": "tt0934706",
+    "tmdbId": 13640,
     "type": "movie",
     "title": "Superman: Doomsday",
     "poster": "https://image.tmdb.org/t/p/w500/itvuWm7DFWWzWgW0xgiaKzzWszP.jpg",
@@ -8,7 +10,9 @@
     "releaseYear": "2007"
   },
   {
-    "id": "tmdb_14011",
+    "id": "tt0902272",
+    "imdbId": "tt0902272",
+    "tmdbId": 14011,
     "type": "movie",
     "title": "Justice League: The New Frontier",
     "poster": "https://image.tmdb.org/t/p/w500/bj25ueeYNkz4e5t8oMMaAOWmwOc.jpg",
@@ -16,7 +20,9 @@
     "releaseYear": "2008"
   },
   {
-    "id": "tmdb_13851",
+    "id": "tt1117563",
+    "imdbId": "tt1117563",
+    "tmdbId": 13851,
     "type": "movie",
     "title": "Batman: Gotham Knight",
     "poster": "https://image.tmdb.org/t/p/w500/3i1o0sHBP0VUpuSVmkdCRKYoDBC.jpg",
@@ -24,7 +30,9 @@
     "releaseYear": "2008"
   },
   {
-    "id": "tmdb_15359",
+    "id": "tt1186373",
+    "imdbId": "tt1186373",
+    "tmdbId": 15359,
     "type": "movie",
     "title": "Wonder Woman",
     "poster": "https://image.tmdb.org/t/p/w500/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg",
@@ -32,7 +40,9 @@
     "releaseYear": "2009"
   },
   {
-    "id": "tmdb_17445",
+    "id": "tt1384590",
+    "imdbId": "tt1384590",
+    "tmdbId": 17445,
     "type": "movie",
     "title": "Green Lantern: First Flight",
     "poster": "https://image.tmdb.org/t/p/w500/ii48ohKJrDPyrGGOBVJ8XSxr5Xk.jpg",
@@ -40,7 +50,9 @@
     "releaseYear": "2009"
   },
   {
-    "id": "tmdb_22855",
+    "id": "tt1398941",
+    "imdbId": "tt1398941",
+    "tmdbId": 22855,
     "type": "movie",
     "title": "Superman/Batman: Public Enemies",
     "poster": "https://image.tmdb.org/t/p/w500/izvMc22ywSLFWUXZEIuJJ8dms75.jpg",
@@ -48,7 +60,9 @@
     "releaseYear": "2009"
   },
   {
-    "id": "tmdb_30061",
+    "id": "tt1494772",
+    "imdbId": "tt1494772",
+    "tmdbId": 30061,
     "type": "movie",
     "title": "Justice League: Crisis on Two Earths",
     "poster": "https://image.tmdb.org/t/p/w500/tN2lodc5g7Fkkus6I6Ch2tNTgb5.jpg",
@@ -56,7 +70,9 @@
     "releaseYear": "2010"
   },
   {
-    "id": "tmdb_40662",
+    "id": "tt1569923",
+    "imdbId": "tt1569923",
+    "tmdbId": 40662,
     "type": "movie",
     "title": "Batman: Under the Red Hood",
     "poster": "https://image.tmdb.org/t/p/w500/7lmHqHg1rG9b4U8MjuyQjmJ7Qm0.jpg",
@@ -64,7 +80,9 @@
     "releaseYear": "2010"
   },
   {
-    "id": "tmdb_45162",
+    "id": "tt1673430",
+    "imdbId": "tt1673430",
+    "tmdbId": 45162,
     "type": "movie",
     "title": "Superman/Batman: Apocalypse",
     "poster": "https://image.tmdb.org/t/p/w500/3zZKtQAMcCWEq6EVh2mraJOAajY.jpg",
@@ -72,7 +90,9 @@
     "releaseYear": "2010"
   },
   {
-    "id": "tmdb_56590",
+    "id": "tt1699114",
+    "imdbId": "tt1699114",
+    "tmdbId": 56590,
     "type": "movie",
     "title": "All Star Superman",
     "poster": "https://image.tmdb.org/t/p/w500/cfVEMf0JgFEIG5i4gKHVac0CA2y.jpg",
@@ -80,7 +100,9 @@
     "releaseYear": "2011"
   },
   {
-    "id": "tmdb_65291",
+    "id": "tt1683043",
+    "imdbId": "tt1683043",
+    "tmdbId": 65291,
     "type": "movie",
     "title": "Green Lantern: Emerald Knights",
     "poster": "https://image.tmdb.org/t/p/w500/weth8sLv9y8L9GsEyLRBUZewXUt.jpg",
@@ -88,7 +110,9 @@
     "releaseYear": "2011"
   },
   {
-    "id": "tmdb_69735",
+    "id": "tt1672723",
+    "imdbId": "tt1672723",
+    "tmdbId": 69735,
     "type": "movie",
     "title": "Batman: Year One",
     "poster": "https://image.tmdb.org/t/p/w500/mLZRhulJcDsxZWTdfx0trtk6y07.jpg",
@@ -96,7 +120,9 @@
     "releaseYear": "2011"
   },
   {
-    "id": "tmdb_76589",
+    "id": "tt2027128",
+    "imdbId": "tt2027128",
+    "tmdbId": 76589,
     "type": "movie",
     "title": "Justice League: Doom",
     "poster": "https://image.tmdb.org/t/p/w500/jmEAGjDAIZdQQNASygPsATBgKBC.jpg",
@@ -104,7 +130,9 @@
     "releaseYear": "2012"
   },
   {
-    "id": "tmdb_103269",
+    "id": "tt2224455",
+    "imdbId": "tt2224455",
+    "tmdbId": 103269,
     "type": "movie",
     "title": "Superman vs. The Elite",
     "poster": "https://image.tmdb.org/t/p/w500/kozJARWRoGHlOu6UVCdVPD4n8Jm.jpg",
@@ -112,7 +140,9 @@
     "releaseYear": "2012"
   },
   {
-    "id": "tmdb_123025",
+    "id": "tt2313197",
+    "imdbId": "tt2313197",
+    "tmdbId": 123025,
     "type": "movie",
     "title": "Batman: The Dark Knight Returns, Part 1",
     "poster": "https://image.tmdb.org/t/p/w500/rVr2Tdp2LcL3DheXUrVN345Myhg.jpg",
@@ -120,7 +150,9 @@
     "releaseYear": "2012"
   },
   {
-    "id": "tmdb_142061",
+    "id": "tt2166834",
+    "imdbId": "tt2166834",
+    "tmdbId": 142061,
     "type": "movie",
     "title": "Batman: The Dark Knight Returns, Part 2",
     "poster": "https://image.tmdb.org/t/p/w500/d1TqoVkyL4x0dlu9w3F9Ah4LjNv.jpg",
@@ -128,7 +160,9 @@
     "releaseYear": "2013"
   },
   {
-    "id": "tmdb_166076",
+    "id": "tt2617456",
+    "imdbId": "tt2617456",
+    "tmdbId": 166076,
     "type": "movie",
     "title": "Superman: Unbound",
     "poster": "https://image.tmdb.org/t/p/w500/nnZKtmVSnueWd4pjk1BekLJxXRL.jpg",
@@ -136,7 +170,9 @@
     "releaseYear": "2013"
   },
   {
-    "id": "tmdb_183011",
+    "id": "tt2820466",
+    "imdbId": "tt2820466",
+    "tmdbId": 183011,
     "type": "movie",
     "title": "Justice League: The Flashpoint Paradox",
     "poster": "https://image.tmdb.org/t/p/w500/hg6RYpSb3vU4i3yQDtE1YhSZNh5.jpg",
@@ -144,7 +180,9 @@
     "releaseYear": "2013"
   },
   {
-    "id": "tmdb_217993",
+    "id": "tt3060952",
+    "imdbId": "tt3060952",
+    "tmdbId": 217993,
     "type": "movie",
     "title": "Justice League: War",
     "poster": "https://image.tmdb.org/t/p/w500/pdNprWYdgcB8z4FLD3BhRmhEys1.jpg",
@@ -152,7 +190,9 @@
     "releaseYear": "2014"
   },
   {
-    "id": "tmdb_251519",
+    "id": "tt3139072",
+    "imdbId": "tt3139072",
+    "tmdbId": 251519,
     "type": "movie",
     "title": "Son of Batman",
     "poster": "https://image.tmdb.org/t/p/w500/yHx8OLSKc3VtIBB5lIe90c0fHOX.jpg",

@@ -1,6 +1,8 @@
 [
   {
-    "id": "tmdb_1061474",
+    "id": "tt5950044",
+    "imdbId": "tt5950044",
+    "tmdbId": 1061474,
     "type": "movie",
     "title": "Superman",
     "poster": "https://image.tmdb.org/t/p/w500/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
@@ -8,7 +10,9 @@
     "releaseYear": "2025"
   },
   {
-    "id": "tmdb_1529346",
+    "id": "tt37900794",
+    "imdbId": "tt37900794",
+    "tmdbId": 1529346,
     "type": "movie",
     "title": "Krypto Saves the Day!: School Bus Scuffle",
     "poster": "https://image.tmdb.org/t/p/w500/giRBhQ8WSDdXR3WdcwzjAq6VYGJ.jpg",
@@ -16,7 +20,9 @@
     "releaseYear": "2025"
   },
   {
-    "id": "tmdb_1529648",
+    "id": "tt37930373",
+    "imdbId": "tt37930373",
+    "tmdbId": 1529648,
     "type": "movie",
     "title": "Krypto Saves the Day!: Halloween Havoc",
     "poster": "https://image.tmdb.org/t/p/w500/xVQgm5rZxmvRW8ttngCsnqmmitY.jpg",
@@ -24,7 +30,9 @@
     "releaseYear": "2025"
   },
   {
-    "id": "tmdb_1529650",
+    "id": "tt37930374",
+    "imdbId": "tt37930374",
+    "tmdbId": 1529650,
     "type": "movie",
     "title": "Krypto Saves the Day!: Package Pandemonium",
     "poster": "https://image.tmdb.org/t/p/w500/rmk3dVvXlIuZLkh776PIHOrqtJW.jpg",
@@ -32,7 +40,9 @@
     "releaseYear": "2025"
   },
   {
-    "id": "tmdb_1529651",
+    "id": "tt37930376",
+    "imdbId": "tt37930376",
+    "tmdbId": 1529651,
     "type": "movie",
     "title": "Krypto Saves the Day!: Coastal Catastrophe",
     "poster": "https://image.tmdb.org/t/p/w500/yOk1Rw2TAknrkGS3PKs3MUyNje4.jpg",
@@ -40,7 +50,9 @@
     "releaseYear": "2026"
   },
   {
-    "id": "tmdb_1081003",
+    "id": "tt8814476",
+    "imdbId": "tt8814476",
+    "tmdbId": 1081003,
     "type": "movie",
     "title": "Supergirl",
     "poster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
@@ -48,7 +60,9 @@
     "releaseYear": "2026"
   },
   {
-    "id": "tmdb_1400940",
+    "id": "tt34890576",
+    "imdbId": "tt34890576",
+    "tmdbId": 1400940,
     "type": "movie",
     "title": "Clayface",
     "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
@@ -56,7 +70,9 @@
     "releaseYear": "2026"
   },
   {
-    "id": "tmdb_1523140",
+    "id": "tt37833661",
+    "imdbId": "tt37833661",
+    "tmdbId": 1523140,
     "type": "movie",
     "title": "Man of Tomorrow",
     "poster": "https://image.tmdb.org/t/p/w500/tYLgfKk3cEk7LskgxWyW37Nty01.jpg",
@@ -64,7 +80,9 @@
     "releaseYear": "2027"
   },
   {
-    "id": "tmdb_806704",
+    "id": "tt19850008",
+    "imdbId": "tt19850008",
+    "tmdbId": 806704,
     "type": "movie",
     "title": "The Batman: Part II",
     "poster": "https://image.tmdb.org/t/p/w500/caeBJHLNld1h14uvcLvzyHf3Rlk.jpg",
@@ -72,7 +90,9 @@
     "releaseYear": "2028"
   },
   {
-    "id": "tmdb_1364797",
+    "id": "tt33549695",
+    "imdbId": "tt33549695",
+    "tmdbId": 1364797,
     "type": "movie",
     "title": "Dynamic Duo",
     "poster": "https://image.tmdb.org/t/p/w500/byZZQsE933kaBCq6i2yGQnJF6TN.jpg",
@@ -80,7 +100,9 @@
     "releaseYear": "2028"
   },
   {
-    "id": "tmdb_194764",
+    "id": "tt15435876",
+    "imdbId": "tt15435876",
+    "tmdbId": 194764,
     "type": "series",
     "title": "The Penguin",
     "poster": "https://image.tmdb.org/t/p/w500/vOWcqC4oDQws1doDWLO7d3dh5qc.jpg",
@@ -88,7 +110,9 @@
     "releaseYear": "2024"
   },
   {
-    "id": "tmdb_219543",
+    "id": "tt26545355",
+    "imdbId": "tt26545355",
+    "tmdbId": 219543,
     "type": "series",
     "title": "Creature Commandos",
     "poster": "https://image.tmdb.org/t/p/w500/bB3G6Ug1jfsOUptb0RJsqrgMVta.jpg",
@@ -96,7 +120,9 @@
     "releaseYear": "2024"
   },
   {
-    "id": "tmdb_323378",
+    "id": "tt34919753",
+    "imdbId": "tt34919753",
+    "tmdbId": 323378,
     "type": "series",
     "title": "DC Studios Showcase: The Official Podcast",
     "poster": "https://image.tmdb.org/t/p/w500/nIrLpT0654SPwNXCXB89dPsF5fd.jpg",
@@ -104,7 +130,9 @@
     "releaseYear": "2024"
   },
   {
-    "id": "tmdb_318471",
+    "id": "tt38132674",
+    "imdbId": "tt38132674",
+    "tmdbId": 318471,
     "type": "series",
     "title": "Peacemaker: The Official Podcast with James Gunn",
     "poster": "https://image.tmdb.org/t/p/w500/icTAzeZRJOX570ErAejgFhp0EIB.jpg",
@@ -112,7 +140,9 @@
     "releaseYear": "2025"
   },
   {
-    "id": "tmdb_320096",
+    "id": "tt37899471",
+    "imdbId": "tt37899471",
+    "tmdbId": 320096,
     "type": "series",
     "title": "Krypto Saves the Day!",
     "poster": "https://image.tmdb.org/t/p/w500/peMK4Kze9OxRGOdIOi0wn4lKYkr.jpg",
@@ -121,6 +151,8 @@
   },
   {
     "id": "tmdb_331555",
+    "imdbId": null,
+    "tmdbId": 331555,
     "type": "series",
     "title": "Lanterns: The Official Podcast",
     "poster": "https://image.tmdb.org/t/p/w500/5nGwcfb6oY5HvSakUqGIlBdserq.jpg",
@@ -128,7 +160,9 @@
     "releaseYear": "2026"
   },
   {
-    "id": "tmdb_95350",
+    "id": "tt26545992",
+    "imdbId": "tt26545992",
+    "tmdbId": 95350,
     "type": "series",
     "title": "Lanterns",
     "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
