@@ -5,13 +5,12 @@ const path = require(`path`);
 
 const TMDB_API_KEY = process.env.TMDB_API_KEY;
 const BASE_URL = `https://api.themoviedb.org/3`;
-const DATA_DIR = path.join(__dirname, `..`, `Data`);
+const OUTPUT_PATH = path.join(__dirname, `..`, `Data`, `dcu.json`);
 
 if (!TMDB_API_KEY) {
   console.error(`Missing TMDB_API_KEY in environment.`);
   process.exit(1);
 }
-if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
 
 async function tmdbGet(endpoint, params = {}) {
   const res = await axios.get(`${BASE_URL}${endpoint}`, {
@@ -31,19 +30,18 @@ async function getImdbId(tmdbId, type) {
 }
 
 async function toItem(item, type) {
-  const tmdbId = item.id;
-  const posterPath = item.poster_path;
   const releaseDate = item.release_date || item.first_air_date || ``;
-  const imdbId = await getImdbId(tmdbId, type);
+  const imdbId = await getImdbId(item.id, type);
   return {
-    id: imdbId || `tmdb_${tmdbId}`,
+    id: imdbId || `tmdb_${item.id}`,
     imdbId: imdbId || null,
-    tmdbId: tmdbId,
+    tmdbId: item.id,
     type,
     title: item.title || item.name,
-    poster: posterPath ? `https://image.tmdb.org/t/p/w500${posterPath}` : null,
+    poster: item.poster_path ? `https://image.tmdb.org/t/p/w500${item.poster_path}` : null,
     overview: item.overview || ``,
-    releaseYear: releaseDate ? releaseDate.split(`-`)[0] : `N/A`
+    releaseYear: releaseDate ? releaseDate.split(`-`)[0] : `N/A`,
+    releaseDate: releaseDate || null
   };
 }
 
@@ -84,33 +82,21 @@ async function fetchDCU() {
   return results;
 }
 
-async function fetchDCUAOM() {
-  const LIST_ID = 3255;
-  const data = await tmdbGet(`/list/${LIST_ID}`);
-  const items = data.items || [];
-  const results = [];
-  for (const r of items) {
-    const kind = r.media_type === `tv` ? `series` : `movie`;
-    results.push(await toItem(r, kind));
-  }
-  return results;
-}
-
 (async () => {
   try {
     console.log(`Fetching DCU (James Gunn universe)...`);
     const dcu = await fetchDCU();
-    fs.writeFileSync(path.join(DATA_DIR, `dcu.json`), JSON.stringify(dcu, null, 2));
+
+    dcu.sort((a, b) => {
+      if (!a.releaseDate) return 1;
+      if (!b.releaseDate) return -1;
+      return new Date(a.releaseDate) - new Date(b.releaseDate);
+    });
+
+    fs.writeFileSync(OUTPUT_PATH, JSON.stringify(dcu, null, 2));
     console.log(`  -> ${dcu.length} items saved to Data/dcu.json`);
-
-    console.log(`Fetching DC animated movies (DCUAOM line)...`);
-    const dcuaom = await fetchDCUAOM();
-    fs.writeFileSync(path.join(DATA_DIR, `dcuaom.json`), JSON.stringify(dcuaom, null, 2));
-    console.log(`  -> ${dcuaom.length} items saved to Data/dcuaom.json`);
-
-    console.log(`Both catalogs updated successfully.`);
   } catch (err) {
-    console.error(`Error updating DC catalogs:`, err.message);
+    console.error(`Error updating DCU catalog:`, err.message);
     process.exit(1);
   }
 })();
