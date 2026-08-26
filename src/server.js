@@ -868,4 +868,8 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
     console.log(`DC Universe Addon server running at http://localhost:${port}/`);
     console.log(`Configuration page: http://localhost:${port}/configure`);
-    console.log(`To install with custom catalogs: stremi
+    console.log(`To install with custom catalogs: stremio://localhost:${port}/catalog/CATALOG_IDS/manifest.json`);
+});
+
+// Export the fetchAdditionalData function for testing
+module.exports = { fetchAdditionalData };
