@@ -13,6 +13,8 @@ const supermanData = require('../Data/everythingsuperman');
 const supermanAnimationData = require('../Data/everythingsupermananimation');
 const dceuMoviesData = require('../Data/DCEUMovies');
 const modernDCSeriesData = require('../Data/DCSeries');
+const dcuData = require('../Data/dcu');
+const dcuaomData = require('../Data/dcuaom');
 
 require('dotenv').config();
 
@@ -290,6 +292,16 @@ function getAllCatalogs() {
             type: "DC",
             id: "dc-superman",
             name: "Superman Collection"
+        },
+        {
+            type: "DC",
+            id: "dcu",
+            name: "DC Universe (DCU)"
+        },
+        {
+            type: "DC",
+            id: "dcuaom",
+            name: "DC Animated Movies"
         }
     ];
 }
@@ -500,6 +512,20 @@ app.get('/api/catalogs', (req, res) => {
             category: 'Character',
             description: 'All Superman live-action movies',
             icon: 'shield-alt'
+        },
+        { 
+            id: 'dcu', 
+            name: 'DC Universe (DCU)', 
+            category: 'Curated',
+            description: 'New James Gunn DC Universe movies and shows',
+            icon: 'film'
+        },
+        { 
+            id: 'dcuaom', 
+            name: 'DC Animated Movies', 
+            category: 'Curated',
+            description: 'Ongoing DC animated original movies',
+            icon: 'play-circle'
         }
     ];
     
@@ -559,6 +585,14 @@ app.get('/rpdb/:rpdbKey/catalog/:type/:id.json', async (req, res) => {
             case 'dc_modern_series':
                 dataSource = modernDCSeriesData;
                 dataSourceName = 'DC Modern Series';
+                break;
+            case 'dcu':
+                dataSource = dcuData;
+                dataSourceName = 'DC Universe (DCU)';
+                break;
+            case 'dcuaom':
+                dataSource = dcuaomData;
+                dataSourceName = 'DC Animated Movies';
                 break;
             default:
                 console.warn(`Unrecognized catalog ID: ${id}`);
@@ -659,6 +693,14 @@ app.get('/catalog/:catalogsParam/catalog/:type/:id.json', async (req, res) => {
             case 'dc_modern_series':
                 dataSource = modernDCSeriesData;
                 dataSourceName = 'DC Modern Series';
+                break;
+            case 'dcu':
+                dataSource = dcuData;
+                dataSourceName = 'DC Universe (DCU)';
+                break;
+            case 'dcuaom':
+                dataSource = dcuaomData;
+                dataSourceName = 'DC Animated Movies';
                 break;
             default:
                 console.warn(`Unrecognized catalog ID: ${id}`);
@@ -775,6 +817,14 @@ app.get('/catalog/:type/:id.json', async (req, res) => {
                 dataSource = modernDCSeriesData;
                 dataSourceName = 'DC Modern Series';
                 break;
+            case 'dcu':
+                dataSource = dcuData;
+                dataSourceName = 'DC Universe (DCU)';
+                break;
+            case 'dcuaom':
+                dataSource = dcuaomData;
+                dataSourceName = 'DC Animated Movies';
+                break;
             default:
                 console.warn(`Unrecognized catalog ID: ${id}`);
                 return res.json({ metas: [] });
@@ -818,8 +868,4 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
     console.log(`DC Universe Addon server running at http://localhost:${port}/`);
     console.log(`Configuration page: http://localhost:${port}/configure`);
-    console.log(`To install with custom catalogs: stremio://localhost:${port}/catalog/CATALOG_IDS/manifest.json`);
-});
-
-// Export the fetchAdditionalData function for testing
-module.exports = { fetchAdditionalData };
+    console.log(`To install with custom catalogs: stremi
