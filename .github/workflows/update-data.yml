@@ -20,18 +20,30 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Rebuild release order data
-        run: node scripts/combineReleaseData.js
+      - name: Fetch all movies
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: node scripts/fetchAllMovies.js
 
-      - name: Fetch DCU / DCUAOM catalogs
+      - name: Fetch all series
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: node scripts/fetchAllSeries.js
+
+      - name: Fetch animations catalog
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: node scripts/fetchAnimationsAuto.js
+
+      - name: Fetch DCU catalog
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: node scripts/fetchDCUAuto.js
 
-      - name: Fetch DC animations catalog
+      - name: Fetch DCAU catalog
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-        run: node scripts/fetchAnimationsAuto.js
+        run: node scripts/fetchDCAU.js
 
       - name: Commit updated data
         run: git config user.name github-actions[bot] && git config user.email github-actions[bot]@users.noreply.github.com && git add Data/ && git diff --staged --quiet || (git commit -m Auto-update-DC-catalog-data && git push)
