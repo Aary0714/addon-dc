@@ -1,354 +1,1380 @@
 module.exports = [
   {
-    "id": "tt0348150",
-    "imdbId": "tt0348150",
-    "tmdbId": 1452,
-    "type": "movie",
-    "title": "Superman Returns",
-    "poster": "https://image.tmdb.org/t/p/w500/385XwTQZDpRX2d3kxtnpiLrjBXw.jpg",
-    "overview": "Superman returns to discover his 5-year absence has allowed Lex Luthor to walk free, and that those he was closest to felt abandoned and have moved on. Luthor plots his ultimate revenge that could see millions killed and change the face of the planet forever, as well as ridding himself of the Man of Steel.",
-    "releaseYear": "2006",
-    "releaseDate": "2006-06-28"
-  },
-  {
-    "id": "tt0468569",
-    "imdbId": "tt0468569",
-    "tmdbId": 155,
-    "type": "movie",
-    "title": "The Dark Knight",
-    "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
-    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
-    "releaseYear": "2008",
-    "releaseDate": "2008-07-16"
-  },
-  {
-    "id": "tt0409459",
-    "imdbId": "tt0409459",
-    "tmdbId": 13183,
-    "type": "movie",
-    "title": "Watchmen",
-    "poster": "https://image.tmdb.org/t/p/w500/aVURelN3pM56lFM7Dgfs5TixcIf.jpg",
-    "overview": "In a gritty and alternate 1985, the glory days of costumed vigilantes have been brought to a close by a government crackdown. But after one of the masked veterans is brutally murdered, an investigation into the killer is initiated. The reunited heroes set out to prevent their own destruction, but in doing so they uncover a sinister plot that puts all of humanity in grave danger.",
-    "releaseYear": "2009",
-    "releaseDate": "2009-03-04"
-  },
-  {
-    "id": "tt1075747",
-    "imdbId": "tt1075747",
-    "tmdbId": 20533,
-    "type": "movie",
-    "title": "Jonah Hex",
-    "poster": "https://image.tmdb.org/t/p/w500/xwAdu0lOO2Y5sXjK87glhJg3c6r.jpg",
-    "overview": "Gunslinger Jonah Hex is appointed by President Ulysses Grant to track down terrorist Quentin Turnbull, a former Confederate officer determined on unleashing hell on earth. Jonah not only secures freedom by accepting this task, he also gets revenge on the man who slew his wife and child.",
-    "releaseYear": "2010",
-    "releaseDate": "2010-06-18"
-  },
-  {
-    "id": "tt1133985",
-    "imdbId": "tt1133985",
-    "tmdbId": 44912,
-    "type": "movie",
-    "title": "Green Lantern",
-    "poster": "https://image.tmdb.org/t/p/w500/fj21HwUprqjjwTdkKC1XZurRSpV.jpg",
-    "overview": "For centuries, a small but powerful force of warriors called the Green Lantern Corps has sworn to keep intergalactic order. Each Green Lantern wears a ring that grants him superpowers. But when a new enemy called Parallax threatens to destroy the balance of power in the Universe, their fate and the fate of Earth lie in the hands of the first human ever recruited.",
-    "releaseYear": "2011",
-    "releaseDate": "2011-06-14"
-  },
-  {
-    "id": "tt1345836",
-    "imdbId": "tt1345836",
-    "tmdbId": 49026,
-    "type": "movie",
-    "title": "The Dark Knight Rises",
-    "poster": "https://image.tmdb.org/t/p/w500/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
-    "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
-    "releaseYear": "2012",
-    "releaseDate": "2012-07-17"
-  },
-  {
-    "id": "tt0770828",
-    "imdbId": "tt0770828",
-    "tmdbId": 49521,
-    "type": "movie",
-    "title": "Man of Steel",
-    "poster": "https://image.tmdb.org/t/p/w500/8GFtkImmK0K1VaUChR0n9O61CFU.jpg",
-    "overview": "A young boy learns that he has extraordinary powers and is not of this earth. As a young man, he journeys to discover where he came from and what he was sent here to do. But the hero in him must emerge if he is to save the world from annihilation and become the symbol of hope for all mankind.",
-    "releaseYear": "2013",
-    "releaseDate": "2013-06-12"
-  },
-  {
-    "id": "tt5355872",
-    "imdbId": "tt5355872",
-    "tmdbId": 378674,
-    "type": "movie",
-    "title": "DC Films Presents Dawn of the Justice League",
-    "poster": "https://image.tmdb.org/t/p/w500/jjYndp8PuLFNuIbGg6Zs7MkxWIc.jpg",
-    "overview": "A documentary special taking a look at the upcoming films making up the DC Universe. Kevin Smith hosts with Geoff Johns, as they take a look at Batman vs Superman: Dawn of Justice, Suicide Squad, the upcoming Wonder Woman and Justice League movies.",
-    "releaseYear": "2016",
-    "releaseDate": "2016-01-19"
-  },
-  {
-    "id": "tt2975590",
-    "imdbId": "tt2975590",
-    "tmdbId": 209112,
-    "type": "movie",
-    "title": "Batman v Superman: Dawn of Justice",
-    "poster": "https://image.tmdb.org/t/p/w500/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
-    "overview": "Fearing the actions of a god-like Super Hero left unchecked, Gotham City’s own formidable, forceful vigilante takes on Metropolis’s most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it’s ever known before.",
-    "releaseYear": "2016",
-    "releaseDate": "2016-03-23"
-  },
-  {
-    "id": "tt1386697",
-    "imdbId": "tt1386697",
-    "tmdbId": 297761,
-    "type": "movie",
-    "title": "Suicide Squad",
-    "poster": "https://image.tmdb.org/t/p/w500/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
-    "overview": "From DC Comics comes the Suicide Squad, an antihero team of incarcerated supervillains who act as deniable assets for the United States government, undertaking high-risk black ops missions in exchange for commuted prison sentences.",
-    "releaseYear": "2016",
-    "releaseDate": "2016-08-03"
-  },
-  {
-    "id": "tt0451279",
-    "imdbId": "tt0451279",
-    "tmdbId": 297762,
-    "type": "movie",
-    "title": "Wonder Woman",
-    "poster": "https://image.tmdb.org/t/p/w500/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
-    "overview": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
-    "releaseYear": "2017",
-    "releaseDate": "2017-05-30"
-  },
-  {
-    "id": "tt7408556",
-    "imdbId": "tt7408556",
-    "tmdbId": 1255345,
-    "type": "movie",
-    "title": "Etta's Mission",
-    "poster": "https://image.tmdb.org/t/p/w500/piVyyIEtTYrWlQq9SHLXMnhsYFf.jpg",
-    "overview": "Etta Candy and the rest of the Wonder Woman team meeting up to discuss a top-secret mission.",
-    "releaseYear": "2017",
-    "releaseDate": "2017-08-29"
-  },
-  {
-    "id": "tt6634410",
-    "imdbId": "tt6634410",
-    "tmdbId": 1657538,
-    "type": "movie",
-    "title": "Scalped",
-    "poster": "https://image.tmdb.org/t/p/w500/7fA9Jpcw0sOpB8iFvgKyRPBery9.jpg",
-    "overview": "A modern day crime story set in the world of a Native American Indian reservation, and explores power, loyalty, and spirituality in a community led by the ambitious Chief Lincoln Red Crow, as he reckons with Dashiell Bad Horse who has returned home after years away from the reservation.",
-    "releaseYear": "2017",
-    "releaseDate": "2017-11-01"
-  },
-  {
-    "id": "tt0974015",
-    "imdbId": "tt0974015",
-    "tmdbId": 141052,
-    "type": "movie",
-    "title": "Justice League",
-    "poster": "https://image.tmdb.org/t/p/w500/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
-    "overview": "Fuelled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.",
-    "releaseYear": "2017",
-    "releaseDate": "2017-11-15"
-  },
-  {
-    "id": "tt1477834",
-    "imdbId": "tt1477834",
-    "tmdbId": 297802,
-    "type": "movie",
-    "title": "Aquaman",
-    "poster": "https://image.tmdb.org/t/p/w500/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg",
-    "overview": "Half-human, half-Atlantean Arthur Curry is taken on the journey of his lifetime to discover if he is worth of being a king.",
-    "releaseYear": "2018",
-    "releaseDate": "2018-12-07"
-  },
-  {
-    "id": "tt0448115",
-    "imdbId": "tt0448115",
-    "tmdbId": 287947,
-    "type": "movie",
-    "title": "Shazam!",
-    "poster": "https://image.tmdb.org/t/p/w500/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
-    "overview": "A boy is given the ability to become an adult superhero in times of need with a single magic word.",
-    "releaseYear": "2019",
-    "releaseDate": "2019-03-29"
-  },
-  {
-    "id": "tt7286456",
-    "imdbId": "tt7286456",
-    "tmdbId": 475557,
-    "type": "movie",
-    "title": "Joker",
-    "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
-    "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
-    "releaseYear": "2019",
-    "releaseDate": "2019-10-01"
-  },
-  {
-    "id": "tt7713068",
-    "imdbId": "tt7713068",
-    "tmdbId": 495764,
-    "type": "movie",
-    "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
-    "poster": "https://image.tmdb.org/t/p/w500/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
-    "overview": "Harley Quinn joins forces with a singer, an assassin and a police detective to help a young girl who had a hit placed on her after she stole a rare diamond from a crime lord.",
-    "releaseYear": "2020",
-    "releaseDate": "2020-02-05"
-  },
-  {
-    "id": "tt7126948",
-    "imdbId": "tt7126948",
-    "tmdbId": 464052,
-    "type": "movie",
-    "title": "Wonder Woman 1984",
-    "poster": "https://image.tmdb.org/t/p/w500/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
-    "overview": "A botched store robbery places Wonder Woman in a global battle against a powerful and mysterious ancient force that puts her powers in jeopardy.",
-    "releaseYear": "2020",
-    "releaseDate": "2020-12-16"
-  },
-  {
-    "id": "tt12361974",
-    "imdbId": "tt12361974",
-    "tmdbId": 791373,
-    "type": "movie",
-    "title": "Zack Snyder's Justice League",
-    "poster": "https://image.tmdb.org/t/p/w500/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
-    "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
-    "releaseYear": "2021",
-    "releaseDate": "2021-03-18"
-  },
-  {
-    "id": "tt6334354",
-    "imdbId": "tt6334354",
-    "tmdbId": 436969,
-    "type": "movie",
-    "title": "The Suicide Squad",
-    "poster": "https://image.tmdb.org/t/p/w500/q61qEyssk2ku3okWICKArlAdhBn.jpg",
-    "overview": "Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
-    "releaseYear": "2021",
-    "releaseDate": "2021-07-28"
-  },
-  {
-    "id": "tt1877830",
-    "imdbId": "tt1877830",
-    "tmdbId": 414906,
-    "type": "movie",
-    "title": "The Batman",
-    "poster": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
-    "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
-    "releaseYear": "2022",
-    "releaseDate": "2022-03-01"
-  },
-  {
-    "id": "tt6443346",
-    "imdbId": "tt6443346",
-    "tmdbId": 436270,
-    "type": "movie",
-    "title": "Black Adam",
-    "poster": "https://image.tmdb.org/t/p/w500/rCtreCr4xiYEWDQTebybolIh6Xe.jpg",
-    "overview": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods—and imprisoned just as quickly—Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
-    "releaseYear": "2022",
-    "releaseDate": "2022-10-19"
-  },
-  {
-    "id": "tt10151854",
-    "imdbId": "tt10151854",
-    "tmdbId": 594767,
-    "type": "movie",
-    "title": "Shazam! Fury of the Gods",
-    "poster": "https://image.tmdb.org/t/p/w500/3GrRgt6CiLIUXUtoktcv1g2iwT5.jpg",
-    "overview": "Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
-    "releaseYear": "2023",
-    "releaseDate": "2023-03-15"
-  },
-  {
-    "id": "tt0439572",
-    "imdbId": "tt0439572",
-    "tmdbId": 298618,
-    "type": "movie",
-    "title": "The Flash",
-    "poster": "https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
-    "overview": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?",
-    "releaseYear": "2023",
-    "releaseDate": "2023-06-13"
-  },
-  {
-    "id": "tt9362930",
-    "imdbId": "tt9362930",
-    "tmdbId": 565770,
-    "type": "movie",
-    "title": "Blue Beetle",
-    "poster": "https://image.tmdb.org/t/p/w500/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",
-    "overview": "Recent college grad Jaime Reyes returns home full of aspirations for his future, only to find that home is not quite as he left it. As he searches to find his purpose in the world, fate intervenes when Jaime unexpectedly finds himself in possession of an ancient relic of alien biotechnology: the Scarab.",
-    "releaseYear": "2023",
-    "releaseDate": "2023-08-16"
-  },
-  {
-    "id": "tt9663764",
-    "imdbId": "tt9663764",
-    "tmdbId": 572802,
-    "type": "movie",
-    "title": "Aquaman and the Lost Kingdom",
-    "poster": "https://image.tmdb.org/t/p/w500/7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg",
-    "overview": "Black Manta seeks revenge on Aquaman for his father's death. Wielding the Black Trident's power, he becomes a formidable foe. To defend Atlantis, Arthur (Aquaman) forges an alliance with his imprisoned brother. They must protect the kingdom.",
-    "releaseYear": "2023",
-    "releaseDate": "2023-12-20"
-  },
-  {
-    "id": "tt5950044",
-    "imdbId": "tt5950044",
-    "tmdbId": 1061474,
-    "type": "movie",
+    "tmdbId": 1924,
     "title": "Superman",
-    "poster": "https://image.tmdb.org/t/p/w500/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
-    "overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+    "type": "movie",
+    "imdbId": "tt0078346",
+    "id": "dc_tt0078346",
+    "releaseYear": "1978",
+    "poster": "https://image.tmdb.org/t/p/w500/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "93%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "82/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ]
+  },
+  {
+    "tmdbId": 8536,
+    "title": "Superman II",
+    "type": "movie",
+    "imdbId": "tt0081573",
+    "id": "dc_tt0081573",
+    "releaseYear": "1980",
+    "poster": "https://image.tmdb.org/t/p/w500/3xk5cno9BHcnwc97XO9k21aI1Zi.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "83%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "83/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ]
+  },
+  {
+    "tmdbId": 9531,
+    "title": "Superman III",
+    "type": "movie",
+    "imdbId": "tt0086393",
+    "id": "dc_tt0086393",
+    "releaseYear": "1983",
+    "poster": "https://image.tmdb.org/t/p/w500/aac3vujaTWRLARNDEcMyGSvJfsx.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "29%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "44/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ]
+  },
+  {
+    "tmdbId": 11411,
+    "title": "Superman IV: The Quest for Peace",
+    "type": "movie",
+    "imdbId": "tt0094074",
+    "id": "dc_tt0094074",
+    "releaseYear": "1987",
+    "poster": "https://image.tmdb.org/t/p/w500/aQ1d9OB0xtAenIL0Ke3xV17St4S.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "3.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "10%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "24/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ]
+  },
+  {
+    "tmdbId": 268,
+    "title": "Batman",
+    "type": "movie",
+    "imdbId": "tt0096895",
+    "id": "dc_tt0096895",
+    "releaseYear": "1989",
+    "poster": "https://image.tmdb.org/t/p/w500/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "77%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "69/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      }
+    ]
+  },
+  {
+    "tmdbId": 364,
+    "title": "Batman Returns",
+    "type": "movie",
+    "imdbId": "tt0103776",
+    "id": "dc_tt0103776",
+    "releaseYear": "1992",
+    "poster": "https://image.tmdb.org/t/p/w500/uEIvgvxzK08922iU61OvO3ORs0s.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "82%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "68/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ]
+  },
+  {
+    "tmdbId": 414,
+    "title": "Batman Forever",
+    "type": "movie",
+    "imdbId": "tt0112462",
+    "id": "dc_tt0112462",
+    "releaseYear": "1995",
+    "poster": "https://image.tmdb.org/t/p/w500/i0fJS8M5UKoETjjJ0zwUiKaR8tr.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "39%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "54/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ]
+  },
+  {
+    "tmdbId": 415,
+    "title": "Batman & Robin",
+    "type": "movie",
+    "imdbId": "tt0118688",
+    "id": "dc_tt0118688",
+    "releaseYear": "1997",
+    "poster": "https://image.tmdb.org/t/p/w500/cGRDufDDSrFrv7VI4YnmWnslne0.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "3.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "11%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "29/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ]
+  },
+  {
+    "tmdbId": 8854,
+    "title": "Steel",
+    "type": "movie",
+    "imdbId": "tt0120207",
+    "id": "dc_tt0120207",
+    "releaseYear": "1997",
+    "poster": "https://image.tmdb.org/t/p/w500/hbH8oXJZPwcYxaa1JrUMq4ogg7G.jpg",
+    "ratings": [],
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ]
+  },
+  {
+    "tmdbId": 314,
+    "title": "Catwoman",
+    "type": "movie",
+    "imdbId": "tt0327554",
+    "id": "dc_tt0327554",
+    "releaseYear": "2004",
+    "poster": "https://image.tmdb.org/t/p/w500/pvnPgukFyEKgCzyOxyLiwyZ8T1C.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "3.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "8%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "27/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      }
+    ]
+  },
+  {
+    "tmdbId": 272,
+    "title": "Batman Begins",
+    "type": "movie",
+    "imdbId": "tt0372784",
+    "id": "dc_tt0372784",
+    "releaseYear": "2005",
+    "poster": "https://image.tmdb.org/t/p/w500/4MpN4kIEqUjW8OPtOQJXlTdHiJV.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "85%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "70/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ]
+  },
+  {
+    "tmdbId": 561,
+    "title": "Constantine",
+    "type": "movie",
+    "imdbId": "tt0360486",
+    "id": "dc_tt0360486",
+    "releaseYear": "2005",
+    "poster": "https://image.tmdb.org/t/p/w500/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "46%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "50/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Horror"
+      }
+    ]
+  },
+  {
+    "tmdbId": 1452,
+    "title": "Superman Returns",
+    "type": "movie",
+    "imdbId": "tt0348150",
+    "id": "dc_tt0348150",
+    "releaseYear": "2006",
+    "poster": "https://image.tmdb.org/t/p/w500/385XwTQZDpRX2d3kxtnpiLrjBXw.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "74%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "72/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ]
+  },
+  {
+    "tmdbId": 155,
+    "title": "The Dark Knight",
+    "type": "movie",
+    "imdbId": "tt0468569",
+    "id": "dc_tt0468569",
+    "releaseYear": "2008",
+    "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "9.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "94%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "84/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ]
+  },
+  {
+    "tmdbId": 13183,
+    "title": "Watchmen",
+    "type": "movie",
+    "imdbId": "tt0409459",
+    "id": "dc_tt0409459",
+    "releaseYear": "2009",
+    "poster": "https://image.tmdb.org/t/p/w500/aVURelN3pM56lFM7Dgfs5TixcIf.jpg",
+    "ratings": [],
+    "genres": [
+      {
+        "id": 9648,
+        "name": "Mystery"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ]
+  },
+  {
+    "tmdbId": 20533,
+    "title": "Jonah Hex",
+    "type": "movie",
+    "imdbId": "tt1075747",
+    "id": "dc_tt1075747",
+    "releaseYear": "2010",
+    "poster": "https://image.tmdb.org/t/p/w500/b1BLIXEe9zzaFvuWdYGoeuhuh75.jpg",
+    "ratings": [],
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 37,
+        "name": "Western"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ]
+  },
+  {
+    "tmdbId": 44912,
+    "title": "Green Lantern",
+    "type": "movie",
+    "imdbId": "tt1133985",
+    "id": "dc_tt1133985",
+    "releaseYear": "2011",
+    "poster": "https://image.tmdb.org/t/p/w500/fj21HwUprqjjwTdkKC1XZurRSpV.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "26%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "39/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ]
+  },
+  {
+    "tmdbId": 49026,
+    "title": "The Dark Knight Rises",
+    "type": "movie",
+    "imdbId": "tt1345836",
+    "id": "dc_tt1345836",
+    "releaseYear": "2012",
+    "poster": "https://image.tmdb.org/t/p/w500/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "87%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "78/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ]
+  },
+  {
+    "tmdbId": 49521,
+    "title": "Man of Steel",
+    "type": "movie",
+    "imdbId": "tt0770828",
+    "id": "dc_tt0770828",
+    "releaseYear": "2013",
+    "poster": "https://image.tmdb.org/t/p/w500/dksTL9NXc3GqPBRHYHcy1aIwjS.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "57%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "55/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ]
+  },
+  {
+    "tmdbId": 209112,
+    "title": "Batman v Superman: Dawn of Justice",
+    "type": "movie",
+    "imdbId": "tt2975590",
+    "id": "dc_tt2975590",
+    "releaseYear": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "29%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "44/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ]
+  },
+  {
+    "tmdbId": 297761,
+    "title": "Suicide Squad",
+    "type": "movie",
+    "imdbId": "tt1386697",
+    "id": "dc_tt1386697",
+    "releaseYear": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "26%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "40/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ]
+  },
+  {
+    "tmdbId": 297762,
+    "title": "Wonder Woman",
+    "type": "movie",
+    "imdbId": "tt0451279",
+    "id": "dc_tt0451279",
+    "releaseYear": "2017",
+    "poster": "https://image.tmdb.org/t/p/w500/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "93%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "76/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ]
+  },
+  {
+    "tmdbId": 141052,
+    "title": "Justice League",
+    "type": "movie",
+    "imdbId": "tt0974015",
+    "id": "dc_tt0974015",
+    "releaseYear": "2017",
+    "poster": "https://image.tmdb.org/t/p/w500/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "39%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "45/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ]
+  },
+  {
+    "tmdbId": 297802,
+    "title": "Aquaman",
+    "type": "movie",
+    "imdbId": "tt1477834",
+    "id": "dc_tt1477834",
+    "releaseYear": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/oIDpaHSnTMYK0Cf5RkEoQzXPpBE.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "66%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "55/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ]
+  },
+  {
+    "tmdbId": 287947,
+    "title": "Shazam!",
+    "type": "movie",
+    "imdbId": "tt0448115",
+    "id": "dc_tt0448115",
+    "releaseYear": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "90%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "71/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ]
+  },
+  {
+    "tmdbId": 475557,
+    "title": "Joker",
+    "type": "movie",
+    "imdbId": "tt7286456",
+    "id": "dc_tt7286456",
+    "releaseYear": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "68%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "59/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ]
+  },
+  {
+    "tmdbId": 495764,
+    "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+    "type": "movie",
+    "imdbId": "tt7713068",
+    "id": "dc_tt7713068",
+    "releaseYear": "2020",
+    "poster": "https://image.tmdb.org/t/p/w500/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "79%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "60/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      }
+    ]
+  },
+  {
+    "tmdbId": 464052,
+    "title": "Wonder Woman 1984",
+    "type": "movie",
+    "imdbId": "tt7126948",
+    "id": "dc_tt7126948",
+    "releaseYear": "2020",
+    "poster": "https://image.tmdb.org/t/p/w500/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "58%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "60/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ]
+  },
+  {
+    "tmdbId": 791373,
+    "title": "Zack Snyder's Justice League",
+    "type": "movie",
+    "imdbId": "tt12361974",
+    "id": "dc_tt12361974",
+    "releaseYear": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "71%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "54/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ]
+  },
+  {
+    "tmdbId": 436969,
+    "title": "The Suicide Squad",
+    "type": "movie",
+    "imdbId": "tt6334354",
+    "id": "dc_tt6334354",
+    "releaseYear": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/q61qEyssk2ku3okWICKArlAdhBn.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.2/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "72/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ]
+  },
+  {
+    "tmdbId": 436270,
+    "title": "Black Adam",
+    "type": "movie",
+    "imdbId": "tt6443346",
+    "id": "dc_tt6443346",
+    "releaseYear": "2022",
+    "poster": "https://image.tmdb.org/t/p/w500/rCtreCr4xiYEWDQTebybolIh6Xe.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "39%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "41/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ]
+  },
+  {
+    "tmdbId": 414906,
+    "title": "The Batman",
+    "type": "movie",
+    "imdbId": "tt1877830",
+    "id": "dc_tt1877830",
+    "releaseYear": "2022",
+    "poster": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "85%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "72/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ]
+  },
+  {
+    "tmdbId": 594767,
+    "title": "Shazam! Fury of the Gods",
+    "type": "movie",
+    "imdbId": "tt10151854",
+    "id": "dc_tt10151854",
+    "releaseYear": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "49%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "47/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ]
+  },
+  {
+    "tmdbId": 298618,
+    "title": "The Flash",
+    "type": "movie",
+    "imdbId": "tt0439572",
+    "id": "dc_tt0439572",
+    "releaseYear": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "63%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "55/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ]
+  },
+  {
+    "tmdbId": 565770,
+    "title": "Blue Beetle",
+    "type": "movie",
+    "imdbId": "tt9362930",
+    "id": "dc_tt9362930",
+    "releaseYear": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "78%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "61/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ]
+  },
+  {
+    "tmdbId": 572802,
+    "title": "Aquaman and the Lost Kingdom",
+    "type": "movie",
+    "imdbId": "tt9663764",
+    "id": "dc_tt9663764",
+    "releaseYear": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/oEyIhY1WzoFHUDE7U3p1AWwyoSN.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "33%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "42/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ]
+  },
+  {
+    "tmdbId": 889737,
+    "title": "Joker: Folie à Deux",
+    "type": "movie",
+    "imdbId": "tt11315808",
+    "id": "dc_tt11315808",
+    "releaseYear": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/zPOOyw6HBb5Qo6uaWJ5UxrBR6Ll.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "31%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "45/100"
+      }
+    ],
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ]
+  },
+  {
+    "tmdbId": 1061474,
+    "title": "Superman",
+    "type": "movie",
+    "imdbId": "tt5950044",
+    "id": "dc_tt5950044",
     "releaseYear": "2025",
-    "releaseDate": "2025-07-09"
-  },
-  {
-    "id": "tt8814476",
-    "imdbId": "tt8814476",
-    "tmdbId": 1081003,
-    "type": "movie",
-    "title": "Supergirl",
-    "poster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-    "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-    "releaseYear": "2026",
-    "releaseDate": "2026-06-24"
-  },
-  {
-    "id": "tt34890576",
-    "imdbId": "tt34890576",
-    "tmdbId": 1400940,
-    "type": "movie",
-    "title": "Clayface",
-    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-    "overview": "Follow the terrifying descent into hell of a promising Hollywood actor who has become a monster driven by revenge, exploring the loss of identity and humanity, the ravages of toxic love and the dark side of scientific ambition.",
-    "releaseYear": "2026",
-    "releaseDate": "2026-10-21"
-  },
-  {
-    "id": "tt37833661",
-    "imdbId": "tt37833661",
-    "tmdbId": 1523140,
-    "type": "movie",
-    "title": "Man of Tomorrow",
-    "poster": "https://image.tmdb.org/t/p/w500/tYLgfKk3cEk7LskgxWyW37Nty01.jpg",
-    "overview": "Superman and Lex Luthor find themselves forced to work together—to a certain degree—against a much, much bigger threat when Brainiac sets his sights on Earth.",
-    "releaseYear": "2027",
-    "releaseDate": "2027-07-07"
-  },
-  {
-    "id": "tt19850008",
-    "imdbId": "tt19850008",
-    "tmdbId": 806704,
-    "type": "movie",
-    "title": "The Batman: Part II",
-    "poster": "https://image.tmdb.org/t/p/w500/caeBJHLNld1h14uvcLvzyHf3Rlk.jpg",
-    "overview": "Sequel to the 2022 film The Batman.",
-    "releaseYear": "2028",
-    "releaseDate": "2028-02-17"
+    "poster": "https://image.tmdb.org/t/p/w500/wPLysNDLffQLOVebZQCbXJEv6E6.jpg",
+    "ratings": [],
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ]
   }
 ];
