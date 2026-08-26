@@ -20,12 +20,25 @@ async function tmdbGet(endpoint, params = {}) {
   return res.data;
 }
 
-function toItem(item, type) {
+async function getImdbId(tmdbId, type) {
+  try {
+    const endpoint = type === `series` ? `/tv/${tmdbId}/external_ids` : `/movie/${tmdbId}/external_ids`;
+    const data = await tmdbGet(endpoint);
+    return data.imdb_id || null;
+  } catch (err) {
+    return null;
+  }
+}
+
+async function toItem(item, type) {
   const tmdbId = item.id;
   const posterPath = item.poster_path;
   const releaseDate = item.release_date || item.first_air_date || ``;
+  const imdbId = await getImdbId(tmdbId, type);
   return {
-    id: `tmdb_${tmdbId}`,
+    id: imdbId || `tmdb_${tmdbId}`,
+    imdbId: imdbId || null,
+    tmdbId: tmdbId,
     type,
     title: item.title || item.name,
     poster: posterPath ? `https://image.tmdb.org/t/p/w500${posterPath}` : null,
@@ -47,7 +60,9 @@ async function fetchDCU() {
       page
     });
     totalPages = data.total_pages;
-    results.push(...data.results.map(r => toItem(r, `movie`)));
+    for (const r of data.results) {
+      results.push(await toItem(r, `movie`));
+    }
     page++;
   } while (page <= totalPages);
 
@@ -60,7 +75,9 @@ async function fetchDCU() {
       page
     });
     totalPages = data.total_pages;
-    results.push(...data.results.map(r => toItem(r, `series`)));
+    for (const r of data.results) {
+      results.push(await toItem(r, `series`));
+    }
     page++;
   } while (page <= totalPages);
 
@@ -71,10 +88,12 @@ async function fetchDCUAOM() {
   const LIST_ID = 3255;
   const data = await tmdbGet(`/list/${LIST_ID}`);
   const items = data.items || [];
-  return items.map(function (r) {
+  const results = [];
+  for (const r of items) {
     const kind = r.media_type === `tv` ? `series` : `movie`;
-    return toItem(r, kind);
-  });
+    results.push(await toItem(r, kind));
+  }
+  return results;
 }
 
 (async () => {
