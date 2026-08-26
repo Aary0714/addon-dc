@@ -73,4 +73,4 @@ async function fetchDCUAOM() {
   const LIST_ID = 3255; // "DC Universe Animated Original Movies" community-maintained TMDb list
   const data = await tmdbGet(`/list/${LIST_ID}`);
   return (data.items || []).map(r =>
-    toItem(r, r.media_type === 'tv' ? 'series
+    toItem(r, r.media_type === 'tv' ? 'series' : 'movie')
