@@ -20,33 +20,17 @@ async function tmdbGet(endpoint, params = {}) {
   return res.data;
 }
 
-function simplifyMovie(item) {
+function toItem(item, type) {
+  const tmdbId = item.id;
+  const posterPath = item.poster_path;
+  const releaseDate = item.release_date || item.first_air_date || '';
   return {
-    id: item.id,
-    tmdb_id: item.id,
-    type: 'movie',
-    title: item.title,
-    name: item.title,
-    overview: item.overview,
-    poster_path: item.poster_path,
-    backdrop_path: item.backdrop_path,
-    release_date: item.release_date,
-    vote_average: item.vote_average
-  };
-}
-
-function simplifySeries(item) {
-  return {
-    id: item.id,
-    tmdb_id: item.id,
-    type: 'series',
-    title: item.name,
-    name: item.name,
-    overview: item.overview,
-    poster_path: item.poster_path,
-    backdrop_path: item.backdrop_path,
-    release_date: item.first_air_date,
-    vote_average: item.vote_average
+    id: `tmdb_${tmdbId}`,
+    type,
+    title: item.title || item.name,
+    poster: posterPath ? `https://image.tmdb.org/t/p/w500${posterPath}` : null,
+    overview: item.overview || '',
+    releaseYear: releaseDate ? releaseDate.split('-')[0] : 'N/A'
   };
 }
 
@@ -64,7 +48,7 @@ async function fetchDCU() {
       page
     });
     totalPages = data.total_pages;
-    results.push(...data.results.map(simplifyMovie));
+    results.push(...data.results.map(r => toItem(r, 'movie')));
     page++;
   } while (page <= totalPages);
 
@@ -77,7 +61,7 @@ async function fetchDCU() {
       page
     });
     totalPages = data.total_pages;
-    results.push(...data.results.map(simplifySeries));
+    results.push(...data.results.map(r => toItem(r, 'series')));
     page++;
   } while (page <= totalPages);
 
@@ -88,27 +72,5 @@ async function fetchDCU() {
 async function fetchDCUAOM() {
   const LIST_ID = 3255; // "DC Universe Animated Original Movies" community-maintained TMDb list
   const data = await tmdbGet(`/list/${LIST_ID}`);
-  return (data.items || []).map(item =>
-    item.media_type === 'tv' ? simplifySeries(item) : simplifyMovie(item)
-  );
-}
-
-// ---------- main ----------
-(async () => {
-  try {
-    console.log('Fetching DCU (James Gunn universe)...');
-    const dcu = await fetchDCU();
-    fs.writeFileSync(path.join(DATA_DIR, 'dcu.json'), JSON.stringify(dcu, null, 2));
-    console.log(`  -> ${dcu.length} items saved to Data/dcu.json`);
-
-    console.log('Fetching DC animated movies (DCUAOM line)...');
-    const dcuaom = await fetchDCUAOM();
-    fs.writeFileSync(path.join(DATA_DIR, 'dcuaom.json'), JSON.stringify(dcuaom, null, 2));
-    console.log(`  -> ${dcuaom.length} items saved to Data/dcuaom.json`);
-
-    console.log('Both catalogs updated successfully.');
-  } catch (err) {
-    console.error('Error updating DC catalogs:', err.message);
-    process.exit(1);
-  }
-})();
+  return (data.items || []).map(r =>
+    toItem(r, r.media_type === 'tv' ? 'series
