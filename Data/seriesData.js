@@ -1,883 +1,343 @@
 module.exports = [
   {
-    "tmdbId": 12662,
-    "title": "Adventures of Superman",
-    "type": "series",
-    "imdbId": "tt0044231",
-    "id": "dc_tt0044231",
-    "releaseYear": "1952",
-    "poster": "https://image.tmdb.org/t/p/w500/sg51T20FN5Dccj7JLzRdLWge0Ct.jpg",
-    "ratings": [],
-    "genres": [
-      {
-        "id": 10759,
-        "name": "Action & Adventure"
-      },
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 35,
-        "name": "Comedy"
-      },
-      {
-        "id": 10751,
-        "name": "Family"
-      }
-    ]
-  },
-  {
-    "tmdbId": 2287,
-    "title": "Batman",
-    "type": "series",
-    "imdbId": "tt0059968",
-    "id": "dc_tt0059968",
-    "releaseYear": "1966",
-    "poster": "https://image.tmdb.org/t/p/w500/1ZEJuuDh0Zpi5ELM3Zev0GBhQ3R.jpg",
-    "ratings": [],
-    "genres": [
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      },
-      {
-        "id": 35,
-        "name": "Comedy"
-      },
-      {
-        "id": 10759,
-        "name": "Action & Adventure"
-      }
-    ]
-  },
-  {
-    "tmdbId": 10444,
-    "title": "Shazam!",
-    "type": "series",
-    "imdbId": "tt0071050",
-    "id": "dc_tt0071050",
-    "releaseYear": "1974",
-    "poster": "https://image.tmdb.org/t/p/w500/iXNoY4ThylStpcDKrGJ3LIYiasE.jpg",
-    "ratings": [],
-    "genres": [
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      },
-      {
-        "id": 10759,
-        "name": "Action & Adventure"
-      }
-    ]
-  },
-  {
-    "tmdbId": 12072,
-    "title": "Isis",
-    "type": "series",
-    "imdbId": "tt0072516",
-    "id": "dc_tt0072516",
-    "releaseYear": "1975",
-    "poster": "https://image.tmdb.org/t/p/w500/lIc5LUIoshHlFXrC40e229Bu6IU.jpg",
-    "ratings": [],
-    "genres": [
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      }
-    ]
-  },
-  {
-    "tmdbId": 4331,
-    "title": "Wonder Woman",
-    "type": "series",
-    "imdbId": "tt0074074",
-    "id": "dc_tt0074074",
-    "releaseYear": "1975",
-    "poster": "https://image.tmdb.org/t/p/w500/7vHxWO6ahByDWzWufFL48MXaktT.jpg",
-    "ratings": [],
-    "genres": [
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      },
-      {
-        "id": 10759,
-        "name": "Action & Adventure"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ]
-  },
-  {
-    "tmdbId": 4532,
-    "title": "Superboy",
-    "type": "series",
-    "imdbId": "tt0094559",
-    "id": "dc_tt0094559",
-    "releaseYear": "1988",
-    "poster": "https://image.tmdb.org/t/p/w500/g8QxvkOSGiGRk0nW6U8QLX0Y8NV.jpg",
-    "ratings": [],
-    "genres": [
-      {
-        "id": 10759,
-        "name": "Action & Adventure"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      }
-    ]
-  },
-  {
-    "tmdbId": 236,
-    "title": "The Flash",
-    "type": "series",
-    "imdbId": "tt0098798",
-    "id": "dc_tt0098798",
-    "releaseYear": "1990",
-    "poster": "https://image.tmdb.org/t/p/w500/kkPYezpeDV6qEPdwvqko9NqTN1A.jpg",
-    "ratings": [],
-    "genres": [
-      {
-        "id": 10759,
-        "name": "Action & Adventure"
-      },
-      {
-        "id": 80,
-        "name": "Crime"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      }
-    ]
-  },
-  {
-    "tmdbId": 31919,
-    "title": "Human Target",
-    "type": "series",
-    "imdbId": "tt0103447",
-    "id": "dc_tt0103447",
-    "releaseYear": "1992",
-    "poster": "https://image.tmdb.org/t/p/w500/550hahC7sDSi3UEvBxCmrIDJrHD.jpg",
-    "ratings": [],
-    "genres": [
-      {
-        "id": 10759,
-        "name": "Action & Adventure"
-      }
-    ]
-  },
-  {
-    "tmdbId": 4515,
-    "title": "Lois & Clark: The New Adventures of Superman",
-    "type": "series",
-    "imdbId": "tt0106057",
-    "id": "dc_tt0106057",
-    "releaseYear": "1993",
-    "poster": "https://image.tmdb.org/t/p/w500/1LbPs6i1h4BKjVUwK5S9GjPCydi.jpg",
-    "ratings": [],
-    "genres": [
-      {
-        "id": 10759,
-        "name": "Action & Adventure"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      },
-      {
-        "id": 35,
-        "name": "Comedy"
-      }
-    ]
-  },
-  {
-    "tmdbId": 4604,
-    "title": "Smallville",
-    "type": "series",
-    "imdbId": "tt0279600",
-    "id": "dc_tt0279600",
-    "releaseYear": "2001",
-    "poster": "https://image.tmdb.org/t/p/w500/dc9a9n4g9Ibs485t5eBtyNG0mcr.jpg",
-    "ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.5/10"
-      }
-    ],
-    "genres": [
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      },
-      {
-        "id": 10759,
-        "name": "Action & Adventure"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ]
-  },
-  {
-    "tmdbId": 1469,
-    "title": "Birds of Prey",
-    "type": "series",
-    "imdbId": "tt0312098",
-    "id": "dc_tt0312098",
-    "releaseYear": "2002",
-    "poster": "https://image.tmdb.org/t/p/w500/gXeFSST0xqy5XNgrbuEaa5BxvDM.jpg",
-    "ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "6.4/10"
-      }
-    ],
-    "genres": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10759,
-        "name": "Action & Adventure"
-      },
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      }
-    ]
-  },
-  {
-    "tmdbId": 18653,
-    "title": "Human Target",
-    "type": "series",
-    "imdbId": "tt1439741",
-    "id": "dc_tt1439741",
-    "releaseYear": "2010",
-    "poster": "https://image.tmdb.org/t/p/w500/28DQmHuzVetpvq3dcK0snfEXflG.jpg",
-    "ratings": [],
-    "genres": [
-      {
-        "id": 10759,
-        "name": "Action & Adventure"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ]
-  },
-  {
-    "tmdbId": 1412,
-    "title": "Arrow",
-    "type": "series",
+    "id": "tt2193021",
     "imdbId": "tt2193021",
-    "id": "dc_tt2193021",
-    "releaseYear": "2012",
+    "tmdbId": 1412,
+    "type": "series",
+    "title": "Arrow",
     "poster": "https://image.tmdb.org/t/p/w500/u8ZHFj1jC384JEkTt3vNg1DfWEb.jpg",
-    "ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.5/10"
-      }
-    ],
-    "genres": [
-      {
-        "id": 80,
-        "name": "Crime"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10759,
-        "name": "Action & Adventure"
-      }
-    ]
+    "overview": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.",
+    "releaseYear": "2012",
+    "releaseDate": "2012-10-10"
   },
   {
-    "tmdbId": 60708,
-    "title": "Gotham",
-    "type": "series",
+    "id": "tt3749900",
     "imdbId": "tt3749900",
-    "id": "dc_tt3749900",
+    "tmdbId": 60708,
+    "type": "series",
+    "title": "Gotham",
+    "poster": "https://image.tmdb.org/t/p/w500/zLpSNnVoL2bjQdc1PcaHUPUzttP.jpg",
+    "overview": "Everyone knows the name Commissioner Gordon. He is one of the crime world's greatest foes, a man whose reputation is synonymous with law and order. But what is known of Gordon's story and his rise from rookie detective to Police Commissioner? What did it take to navigate the multiple layers of corruption that secretly ruled Gotham City, the spawning ground of the world's most iconic villains? And what circumstances created them – the larger-than-life personas who would become Catwoman, The Penguin, The Riddler, Two-Face and The Joker?",
     "releaseYear": "2014",
-    "poster": "https://image.tmdb.org/t/p/w500/wt3uwxSKbMg5ZNJBUOrsJoDnNWX.jpg",
-    "ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.8/10"
-      }
-    ],
-    "genres": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 80,
-        "name": "Crime"
-      },
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      }
-    ]
+    "releaseDate": "2014-09-22"
   },
   {
-    "tmdbId": 60735,
-    "title": "The Flash",
-    "type": "series",
+    "id": "tt3107288",
     "imdbId": "tt3107288",
-    "id": "dc_tt3107288",
-    "releaseYear": "2014",
+    "tmdbId": 60735,
+    "type": "series",
+    "title": "The Flash",
     "poster": "https://image.tmdb.org/t/p/w500/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
-    "ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.5/10"
-      }
-    ],
-    "genres": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      }
-    ]
-  },
-  {
-    "tmdbId": 60743,
-    "title": "Constantine",
-    "type": "series",
-    "imdbId": "tt3489184",
-    "id": "dc_tt3489184",
+    "overview": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
     "releaseYear": "2014",
-    "poster": "https://image.tmdb.org/t/p/w500/gQ3bA1DBKyZwkDCHJFEAT0MkKpu.jpg",
-    "ratings": [],
-    "genres": [
-      {
-        "id": 10759,
-        "name": "Action & Adventure"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      }
-    ]
+    "releaseDate": "2014-10-07"
   },
   {
-    "tmdbId": 62688,
-    "title": "Supergirl",
+    "id": "tt4818178",
+    "imdbId": "tt4818178",
+    "tmdbId": 100535,
     "type": "series",
-    "imdbId": "tt4016454",
-    "id": "dc_tt4016454",
+    "title": "Batman Unlimited",
+    "poster": "https://image.tmdb.org/t/p/w500/xwFsHsa8VQeUUuiLygiDmypLo0D.jpg",
+    "overview": "This merchandise show displays short episodic battles, and other encounters, around Batman and his Batfamily like Nightwing, Red Robin and Robin. The episodes manage without dialogues.",
     "releaseYear": "2015",
-    "poster": "https://image.tmdb.org/t/p/w500/cFO65xb0xiXKqk5BmgHawCXB1i0.jpg",
-    "ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "6.2/10"
-      }
-    ],
-    "genres": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      },
-      {
-        "id": 10759,
-        "name": "Action & Adventure"
-      }
-    ]
+    "releaseDate": "2015-05-04"
   },
   {
-    "tmdbId": 62643,
-    "title": "DC's Legends of Tomorrow",
+    "id": "tt4016454",
+    "imdbId": "tt4016454",
+    "tmdbId": 62688,
     "type": "series",
+    "title": "Supergirl",
+    "poster": "https://image.tmdb.org/t/p/w500/90mSQajf4STPROA6H7Hh8OvyWdK.jpg",
+    "overview": "Twenty-four-year-old Kara Zor-El, who was taken in by the Danvers family when she was 13 after being sent away from Krypton, must learn to embrace her powers after previously hiding them. The Danvers teach her to be careful with her powers, until she has to reveal them during an unexpected disaster, setting her on her journey of heroism.",
+    "releaseYear": "2015",
+    "releaseDate": "2015-10-26"
+  },
+  {
+    "id": "tt4532368",
     "imdbId": "tt4532368",
-    "id": "dc_tt4532368",
-    "releaseYear": "2016",
+    "tmdbId": 62643,
+    "type": "series",
+    "title": "DC's Legends of Tomorrow",
     "poster": "https://image.tmdb.org/t/p/w500/qNgAcg4gNYbZ9mySLB9ZX4ehZb6.jpg",
-    "ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "6.7/10"
-      }
-    ],
-    "genres": [
-      {
-        "id": 10759,
-        "name": "Action & Adventure"
-      },
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ]
-  },
-  {
-    "tmdbId": 63174,
-    "title": "Lucifer",
-    "type": "series",
-    "imdbId": "tt4052886",
-    "id": "dc_tt4052886",
+    "overview": "When heroes alone are not enough ... the world needs legends. Having seen the future, one he will desperately try to prevent from happening, time-traveling rogue Rip Hunter is tasked with assembling a disparate group of both heroes and villains to confront an unstoppable threat — one in which not only is the planet at stake, but all of time itself. Can this ragtag team defeat an immortal threat unlike anything they have ever known?",
     "releaseYear": "2016",
+    "releaseDate": "2016-01-21"
+  },
+  {
+    "id": "tt4052886",
+    "imdbId": "tt4052886",
+    "tmdbId": 63174,
+    "type": "series",
+    "title": "Lucifer",
     "poster": "https://image.tmdb.org/t/p/w500/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
-    "ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "8.0/10"
-      }
-    ],
-    "genres": [
-      {
-        "id": 80,
-        "name": "Crime"
-      },
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      }
-    ]
+    "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+    "releaseYear": "2016",
+    "releaseDate": "2016-01-25"
   },
   {
-    "tmdbId": 68001,
-    "title": "Powerless",
+    "id": "tt5654736",
+    "imdbId": "tt5654736",
+    "tmdbId": 74556,
     "type": "series",
+    "title": "The Flash: Chronicles of Cisco",
+    "poster": "https://image.tmdb.org/t/p/w500/bOtZcYsBkgwMJQ3ULweCW8wDpdM.jpg",
+    "overview": "Follows \"The Flash\" character Cisco Ramon as he works late at S.T.A.R. Labs making improvements to the Flash's suit.",
+    "releaseYear": "2016",
+    "releaseDate": "2016-04-19"
+  },
+  {
+    "id": "tt5083928",
     "imdbId": "tt5083928",
-    "id": "dc_tt5083928",
-    "releaseYear": "2017",
+    "tmdbId": 68001,
+    "type": "series",
+    "title": "Powerless",
     "poster": "https://image.tmdb.org/t/p/w500/oAAAqgKiWVeZbotsR0zukHjM9B1.jpg",
-    "ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "6.4/10"
-      }
-    ],
-    "genres": [
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      },
-      {
-        "id": 35,
-        "name": "Comedy"
-      }
-    ]
+    "overview": "Emily Locke lands her dream job as Director of Research and Development for Wayne Security in Charm City, home to super heroes and villains and citizens fed up with the collateral damage of their constant fighting.",
+    "releaseYear": "2017",
+    "releaseDate": "2017-02-02"
   },
   {
-    "tmdbId": 71663,
-    "title": "Black Lightning",
-    "type": "series",
-    "imdbId": "tt6045840",
-    "id": "dc_tt6045840",
-    "releaseYear": "2018",
-    "poster": "https://image.tmdb.org/t/p/w500/h1xbvvO6oqchfLe6xh0yLNnQxeM.jpg",
-    "ratings": [],
-    "genres": [
-      {
-        "id": 10759,
-        "name": "Action & Adventure"
-      },
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ]
-  },
-  {
-    "tmdbId": 71340,
-    "title": "Krypton",
-    "type": "series",
+    "id": "tt4276624",
     "imdbId": "tt4276624",
-    "id": "dc_tt4276624",
+    "tmdbId": 71340,
+    "type": "series",
+    "title": "Krypton",
+    "poster": "https://image.tmdb.org/t/p/w500/kMMWb4zIZKBnO3lOpVBXCL1BeNI.jpg",
+    "overview": "Set two generations before the destruction of the legendary Man of Steel’s home planet, Krypton follows Superman’s grandfather — whose House of El was ostracized and shamed — as he fights to redeem his family’s honor and save his beloved world from chaos.",
     "releaseYear": "2018",
-    "poster": "https://image.tmdb.org/t/p/w500/uiinjmSkka6JOrk4FsZmrjlNM26.jpg",
-    "ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "6.8/10"
-      }
-    ],
-    "genres": [
-      {
-        "id": 10759,
-        "name": "Action & Adventure"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      }
-    ]
+    "releaseDate": "2018-03-21"
   },
   {
-    "tmdbId": 75450,
-    "title": "Titans",
-    "type": "series",
+    "id": "tt1043813",
     "imdbId": "tt1043813",
-    "id": "dc_tt1043813",
-    "releaseYear": "2018",
+    "tmdbId": 75450,
+    "type": "series",
+    "title": "Titans",
     "poster": "https://image.tmdb.org/t/p/w500/8e6QiSexmYKaiHGPvbhaFMmQEhc.jpg",
-    "ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.5/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "50%"
-      }
-    ],
-    "genres": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10759,
-        "name": "Action & Adventure"
-      },
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      }
-    ]
+    "overview": "A team of young superheroes led by Nightwing (formerly Batman's first Robin) form to combat evil and other perils.",
+    "releaseYear": "2018",
+    "releaseDate": "2018-10-12"
   },
   {
-    "tmdbId": 79501,
-    "title": "Doom Patrol",
+    "id": "tt6927444",
+    "imdbId": "tt6927444",
+    "tmdbId": 232618,
     "type": "series",
+    "title": "DC Super Hero Girls: Super Shorts",
+    "poster": "https://image.tmdb.org/t/p/w500/AtEumN6EOqR1mO7n9fzybBrICZc.jpg",
+    "overview": "Following the adventures of teen-aged versions of DC's superheroines and female supervillains attending Super Hero High.",
+    "releaseYear": "2019",
+    "releaseDate": "2019-01-17"
+  },
+  {
+    "id": "tt8416494",
     "imdbId": "tt8416494",
-    "id": "dc_tt8416494",
+    "tmdbId": 79501,
+    "type": "series",
+    "title": "Doom Patrol",
+    "poster": "https://image.tmdb.org/t/p/w500/nVN7Dt0Xr78gnJepRsRLaLYklbY.jpg",
+    "overview": "The Doom Patrol’s members each suffered horrible accidents that gave them superhuman abilities — but also left them scarred and disfigured. Traumatized and downtrodden, the team found purpose through The Chief, who brought them together to investigate the weirdest phenomena in existence — and to protect Earth from what they find.",
     "releaseYear": "2019",
-    "poster": "https://image.tmdb.org/t/p/w500/blkXhlNspC4vJol7QJ2e3Prt5tC.jpg",
-    "ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.7/10"
-      }
-    ],
-    "genres": [
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ]
+    "releaseDate": "2019-02-15"
   },
   {
-    "tmdbId": 79240,
-    "title": "Swamp Thing",
-    "type": "series",
+    "id": "tt8362852",
     "imdbId": "tt8362852",
-    "id": "dc_tt8362852",
-    "releaseYear": "2019",
+    "tmdbId": 79240,
+    "type": "series",
+    "title": "Swamp Thing",
     "poster": "https://image.tmdb.org/t/p/w500/dD3HcMczLC9wNvfNzx4pZVyl6q8.jpg",
-    "ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.4/10"
-      }
-    ],
-    "genres": [
-      {
-        "id": 9648,
-        "name": "Mystery"
-      },
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ]
+    "overview": "CDC researcher Abby Arcane investigates what seems to be a deadly swamp-born virus in a small town in Louisiana but she soon discovers that the swamp holds mystical and terrifying secrets. When unexplainable and chilling horrors emerge from the murky marsh, no one is safe.",
+    "releaseYear": "2019",
+    "releaseDate": "2019-05-31"
   },
   {
-    "tmdbId": 80986,
-    "title": "DC's Stargirl",
+    "id": "tt8425532",
+    "imdbId": "tt8425532",
+    "tmdbId": 79588,
     "type": "series",
+    "title": "Pennyworth: The Origin of Batman's Butler",
+    "poster": "https://image.tmdb.org/t/p/w500/mEHMfWe7pCWMelEkdrtRvVULopT.jpg",
+    "overview": "The origin story of Bruce Wayne's legendary butler, Alfred Pennyworth, a former British SAS soldier who forms a security company in 1960s London and goes to work with young billionaire Thomas Wayne and his wife Martha, before they become Bruce Wayne’s parents.",
+    "releaseYear": "2019",
+    "releaseDate": "2019-07-28"
+  },
+  {
+    "id": "tt8712204",
+    "imdbId": "tt8712204",
+    "tmdbId": 89247,
+    "type": "series",
+    "title": "Batwoman",
+    "poster": "https://image.tmdb.org/t/p/w500/pBpxKiitMuYXvtsXNSzya8DKKzV.jpg",
+    "overview": "Kate Kane, armed with a passion for social justice and a flair for speaking her mind, soars onto the streets of Gotham as Batwoman, an out lesbian and highly trained street fighter primed to snuff out the failing city's criminal resurgence. But don't call her a hero yet. In a city desperate for a savior, Kate must overcome her own demons before embracing the call to be Gotham's symbol of hope",
+    "releaseYear": "2019",
+    "releaseDate": "2019-10-06"
+  },
+  {
+    "id": "tt7049682",
+    "imdbId": "tt7049682",
+    "tmdbId": 79788,
+    "type": "series",
+    "title": "Watchmen",
+    "poster": "https://image.tmdb.org/t/p/w500/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg",
+    "overview": "Set in an alternate history where “superheroes” are treated as outlaws, “Watchmen” embraces the nostalgia of the original groundbreaking graphic novel while attempting to break new ground of its own.",
+    "releaseYear": "2019",
+    "releaseDate": "2019-10-20"
+  },
+  {
+    "id": "tt11262172",
+    "imdbId": "tt11262172",
+    "tmdbId": 98069,
+    "type": "series",
+    "title": "Crisis Aftermath",
+    "poster": "https://image.tmdb.org/t/p/w500/kaCjmS5tyAcfCrcdKuqxQ1CwvZ9.jpg",
+    "overview": "Join Kevin Smith as he takes you into one of the greatest crossover events in television history.",
+    "releaseYear": "2019",
+    "releaseDate": "2019-12-08"
+  },
+  {
+    "id": "tt8722888",
     "imdbId": "tt8722888",
-    "id": "dc_tt8722888",
+    "tmdbId": 80986,
+    "type": "series",
+    "title": "DC's Stargirl",
+    "poster": "https://image.tmdb.org/t/p/w500/JJxVsQPPiuLcArALotMHsCubeo.jpg",
+    "overview": "Courtney Whitmore, a smart, athletic and above all else kind girl, discovers her step-father has a secret: he used to be the sidekick to a superhero. \"Borrowing\" the long-lost hero’s cosmic staff, she becomes the unlikely inspiration for an entirely new generation of superheroes.",
     "releaseYear": "2020",
-    "poster": "https://image.tmdb.org/t/p/w500/ogntmK9hwBomhajqYrHXUAaqkd7.jpg",
-    "ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.1/10"
-      }
-    ],
-    "genres": [
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      },
-      {
-        "id": 10759,
-        "name": "Action & Adventure"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ]
+    "releaseDate": "2020-05-18"
   },
   {
-    "tmdbId": 96195,
-    "title": "Paradise Lost",
-    "type": "series",
-    "imdbId": "tt10306320",
-    "id": "dc_tt10306320",
-    "releaseYear": "2020",
-    "poster": "https://image.tmdb.org/t/p/w500/ddmZnaxFkAl2yTCjiaHnxsaydtT.jpg",
-    "ratings": [],
-    "genres": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 9648,
-        "name": "Mystery"
-      }
-    ]
-  },
-  {
-    "tmdbId": 95057,
-    "title": "Superman & Lois",
-    "type": "series",
+    "id": "tt11192306",
     "imdbId": "tt11192306",
-    "id": "dc_tt11192306",
+    "tmdbId": 95057,
+    "type": "series",
+    "title": "Superman & Lois",
+    "poster": "https://image.tmdb.org/t/p/w500/vlv1gn98GqMnKHLSh0dNciqGfBl.jpg",
+    "overview": "After years of facing megalomaniacal supervillains, monsters wreaking havoc on Metropolis, and alien invaders intent on wiping out the human race, The Man of Steel aka Clark Kent and Lois Lane come face to face with one of their greatest challenges ever: dealing with all the stress, pressures and complexities that come with being working parents in today's society.",
     "releaseYear": "2021",
-    "poster": "https://image.tmdb.org/t/p/w500/qJ6ndkbqgqS1n7ETi0YHhcjASym.jpg",
-    "ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.8/10"
-      }
-    ],
-    "genres": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      }
-    ]
+    "releaseDate": "2021-02-23"
   },
   {
-    "tmdbId": 125474,
-    "title": "Naomi",
+    "id": "tt12809988",
+    "imdbId": "tt12809988",
+    "tmdbId": 103768,
     "type": "series",
+    "title": "Sweet Tooth",
+    "poster": "https://image.tmdb.org/t/p/w500/rgMfhcrVZjuy5b7Pn0KzCRCEnMX.jpg",
+    "overview": "On an epic adventure across a postapocalyptic world, a lovable boy who's part human and part deer searches for family and home with a gruff protector.",
+    "releaseYear": "2021",
+    "releaseDate": "2021-06-04"
+  },
+  {
+    "id": "tt13624900",
     "imdbId": "tt13624900",
-    "id": "dc_tt13624900",
-    "releaseYear": "2022",
+    "tmdbId": 125474,
+    "type": "series",
+    "title": "Naomi",
     "poster": "https://image.tmdb.org/t/p/w500/xwS6ggTI8hTkVTz1I4U6BZ48pgZ.jpg",
-    "ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "4.9/10"
-      }
-    ],
-    "genres": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      }
-    ]
+    "overview": "Follow a teen girl’s journey from her small northwestern town to the heights of the multiverse. When a supernatural event shakes her hometown to the core, Naomi sets out to uncover its origins, and what she discovers will challenge everything we believe about our heroes",
+    "releaseYear": "2022",
+    "releaseDate": "2022-01-11"
   },
   {
-    "tmdbId": 110492,
-    "title": "Peacemaker",
-    "type": "series",
+    "id": "tt13146488",
     "imdbId": "tt13146488",
-    "id": "dc_tt13146488",
+    "tmdbId": 110492,
+    "type": "series",
+    "title": "Peacemaker",
+    "poster": "https://image.tmdb.org/t/p/w500/eYzbGcYnOUlvj2fa76pTgIXogd7.jpg",
+    "overview": "The continuing story of Peacemaker, a vainglorious superhero/supervillain who believes in peace at any cost — no matter how many people he has to kill. After a miraculous recovery from his duel with Bloodsport, Peacemaker soon discovers that his freedom comes at a price.",
     "releaseYear": "2022",
-    "poster": "https://image.tmdb.org/t/p/w500/hE3LRZAY84fG19a18pzpkZERjTE.jpg",
-    "ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "8.3/10"
-      }
-    ],
-    "genres": [
-      {
-        "id": 10759,
-        "name": "Action & Adventure"
-      },
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ]
+    "releaseDate": "2022-01-13"
   },
   {
-    "tmdbId": 90802,
-    "title": "The Sandman",
-    "type": "series",
+    "id": "tt1751634",
     "imdbId": "tt1751634",
-    "id": "dc_tt1751634",
+    "tmdbId": 90802,
+    "type": "series",
+    "title": "The Sandman",
+    "poster": "https://image.tmdb.org/t/p/w500/q54qEgagGOYCq5D1903eBVMNkbo.jpg",
+    "overview": "After years of imprisonment, Morpheus — the King of Dreams — embarks on a journey across worlds to find what was stolen from him and restore his power.",
     "releaseYear": "2022",
-    "poster": "https://image.tmdb.org/t/p/w500/vfJ1nBnqiiRWZWv3ZvtFWO5zccg.jpg",
-    "ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.7/10"
-      }
-    ],
-    "genres": [
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10759,
-        "name": "Action & Adventure"
-      }
-    ]
+    "releaseDate": "2022-08-05"
   },
   {
-    "tmdbId": 195868,
-    "title": "Gotham Knights",
-    "type": "series",
+    "id": "tt16418896",
     "imdbId": "tt16418896",
-    "id": "dc_tt16418896",
-    "releaseYear": "2023",
+    "tmdbId": 195868,
+    "type": "series",
+    "title": "Gotham Knights",
     "poster": "https://image.tmdb.org/t/p/w500/5riy7SdIhMhhYcDqeEOICVvXEHS.jpg",
-    "ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "5.3/10"
-      }
-    ],
-    "genres": [
-      {
-        "id": 10759,
-        "name": "Action & Adventure"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ]
+    "overview": "In the aftermath of Bruce Wayne's murder, his rebellious adopted son forges an unlikely alliance with the children of Batman's enemies when they are all framed for killing the Caped Crusader.",
+    "releaseYear": "2023",
+    "releaseDate": "2023-03-14"
   },
   {
-    "tmdbId": 132750,
-    "title": "Dead Boy Detectives",
-    "type": "series",
+    "id": "tt15358446",
     "imdbId": "tt15358446",
-    "id": "dc_tt15358446",
-    "releaseYear": "2024",
+    "tmdbId": 132750,
+    "type": "series",
+    "title": "Dead Boy Detectives",
     "poster": "https://image.tmdb.org/t/p/w500/346ju9C5zy0tkzfQoetOYtM74gw.jpg",
-    "ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.5/10"
-      }
-    ],
-    "genres": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 9648,
-        "name": "Mystery"
-      },
-      {
-        "id": 10765,
-        "name": "Sci-Fi & Fantasy"
-      }
-    ]
+    "overview": "Two teen ghosts work alongside a clairvoyant to solve mysteries for their supernatural clientele — until a powerful witch complicates their plans.",
+    "releaseYear": "2024",
+    "releaseDate": "2024-04-25"
   },
   {
-    "tmdbId": 194764,
-    "title": "The Penguin",
-    "type": "series",
+    "id": "tt15435876",
     "imdbId": "tt15435876",
-    "id": "dc_tt15435876",
-    "releaseYear": "2024",
+    "tmdbId": 194764,
+    "type": "series",
+    "title": "The Penguin",
     "poster": "https://image.tmdb.org/t/p/w500/vOWcqC4oDQws1doDWLO7d3dh5qc.jpg",
-    "ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "8.6/10"
-      }
-    ],
-    "genres": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 80,
-        "name": "Crime"
-      }
-    ]
+    "overview": "With the city in peril following the seawall's collapse, Oswald \"Oz\" Cobb seeks to fill the power vacuum left by the death of Carmine Falcone and finally give his mother Francis the life he's always promised. But first, Oz must confront his enemies and his own demoralizing reputation as \"the Penguin.\"",
+    "releaseYear": "2024",
+    "releaseDate": "2024-09-19"
+  },
+  {
+    "id": "tt34919753",
+    "imdbId": "tt34919753",
+    "tmdbId": 323378,
+    "type": "series",
+    "title": "DC Studios Showcase: The Official Podcast",
+    "poster": "https://image.tmdb.org/t/p/w500/nIrLpT0654SPwNXCXB89dPsF5fd.jpg",
+    "overview": "Hosted by Frankey Smith and Tyler Coates, and joined by on-air comic correspondent Coy Jandreau, this biweekly podcast series takes a deep dive into the history of the iconic DC brand while charting the future of the DCU as DC Studios kicks off its ambitious cross-platform slate.",
+    "releaseYear": "2024",
+    "releaseDate": "2024-12-06"
+  },
+  {
+    "id": "tt38132674",
+    "imdbId": "tt38132674",
+    "tmdbId": 318471,
+    "type": "series",
+    "title": "Peacemaker: The Official Podcast with James Gunn",
+    "poster": "https://image.tmdb.org/t/p/w500/icTAzeZRJOX570ErAejgFhp0EIB.jpg",
+    "overview": "Get ready for Peacemaker: The Official Podcast with James Gunn, where James Gunn, co-hosts Jennifer Hollandand Steve Agee and surprise guests break down each episode of Peacemaker.",
+    "releaseYear": "2025",
+    "releaseDate": "2025-07-24"
+  },
+  {
+    "id": "tmdb_331555",
+    "imdbId": null,
+    "tmdbId": 331555,
+    "type": "series",
+    "title": "Lanterns: The Official Podcast",
+    "poster": "https://image.tmdb.org/t/p/w500/5nGwcfb6oY5HvSakUqGIlBdserq.jpg",
+    "overview": "Through interviews with the creators, cast and crew, the podcast goes inside the making of Lanterns, from the murder mystery at the heart of the story to the characters, comic lore, and dive into the worldbuilding, and the relationship between Hal Jordan and John Stewart.",
+    "releaseYear": "2026",
+    "releaseDate": "2026-08-16"
+  },
+  {
+    "id": "tt26545992",
+    "imdbId": "tt26545992",
+    "tmdbId": 95350,
+    "type": "series",
+    "title": "Lanterns",
+    "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+    "releaseYear": "2026",
+    "releaseDate": "2026-08-16"
   }
 ];

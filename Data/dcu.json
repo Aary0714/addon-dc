@@ -1,105 +1,5 @@
 [
   {
-    "id": "tt5950044",
-    "imdbId": "tt5950044",
-    "tmdbId": 1061474,
-    "type": "movie",
-    "title": "Superman",
-    "poster": "https://image.tmdb.org/t/p/w500/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
-    "overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
-    "releaseYear": "2025"
-  },
-  {
-    "id": "tt37900794",
-    "imdbId": "tt37900794",
-    "tmdbId": 1529346,
-    "type": "movie",
-    "title": "Krypto Saves the Day!: School Bus Scuffle",
-    "poster": "https://image.tmdb.org/t/p/w500/giRBhQ8WSDdXR3WdcwzjAq6VYGJ.jpg",
-    "overview": "Krypto embarks on a high-flying chase that creates major mayhem for a bus driver on his way to school.",
-    "releaseYear": "2025"
-  },
-  {
-    "id": "tt37930373",
-    "imdbId": "tt37930373",
-    "tmdbId": 1529648,
-    "type": "movie",
-    "title": "Krypto Saves the Day!: Halloween Havoc",
-    "poster": "https://image.tmdb.org/t/p/w500/xVQgm5rZxmvRW8ttngCsnqmmitY.jpg",
-    "overview": "When a black cat crosses Krypto's path, he's determined to catch it before Halloween night is through!",
-    "releaseYear": "2025"
-  },
-  {
-    "id": "tt37930374",
-    "imdbId": "tt37930374",
-    "tmdbId": 1529650,
-    "type": "movie",
-    "title": "Krypto Saves the Day!: Package Pandemonium",
-    "poster": "https://image.tmdb.org/t/p/w500/rmk3dVvXlIuZLkh776PIHOrqtJW.jpg",
-    "overview": "Krypto smells something special in a holiday package, and in his eagerness to grab the gift he makes a mess of Metropolis's festivities.",
-    "releaseYear": "2025"
-  },
-  {
-    "id": "tt37930376",
-    "imdbId": "tt37930376",
-    "tmdbId": 1529651,
-    "type": "movie",
-    "title": "Krypto Saves the Day!: Coastal Catastrophe",
-    "poster": "https://image.tmdb.org/t/p/w500/yOk1Rw2TAknrkGS3PKs3MUyNje4.jpg",
-    "overview": "A fun day at the beach goes sideways when some sneaky foes get between Krypto and his hot dog.",
-    "releaseYear": "2026"
-  },
-  {
-    "id": "tt8814476",
-    "imdbId": "tt8814476",
-    "tmdbId": 1081003,
-    "type": "movie",
-    "title": "Supergirl",
-    "poster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-    "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-    "releaseYear": "2026"
-  },
-  {
-    "id": "tt34890576",
-    "imdbId": "tt34890576",
-    "tmdbId": 1400940,
-    "type": "movie",
-    "title": "Clayface",
-    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-    "overview": "Follow the terrifying descent into hell of a promising Hollywood actor who has become a monster driven by revenge, exploring the loss of identity and humanity, the ravages of toxic love and the dark side of scientific ambition.",
-    "releaseYear": "2026"
-  },
-  {
-    "id": "tt37833661",
-    "imdbId": "tt37833661",
-    "tmdbId": 1523140,
-    "type": "movie",
-    "title": "Man of Tomorrow",
-    "poster": "https://image.tmdb.org/t/p/w500/tYLgfKk3cEk7LskgxWyW37Nty01.jpg",
-    "overview": "Superman and Lex Luthor find themselves forced to work together—to a certain degree—against a much, much bigger threat when Brainiac sets his sights on Earth.",
-    "releaseYear": "2027"
-  },
-  {
-    "id": "tt19850008",
-    "imdbId": "tt19850008",
-    "tmdbId": 806704,
-    "type": "movie",
-    "title": "The Batman: Part II",
-    "poster": "https://image.tmdb.org/t/p/w500/caeBJHLNld1h14uvcLvzyHf3Rlk.jpg",
-    "overview": "Sequel to the 2022 film The Batman.",
-    "releaseYear": "2028"
-  },
-  {
-    "id": "tt33549695",
-    "imdbId": "tt33549695",
-    "tmdbId": 1364797,
-    "type": "movie",
-    "title": "Dynamic Duo",
-    "poster": "https://image.tmdb.org/t/p/w500/byZZQsE933kaBCq6i2yGQnJF6TN.jpg",
-    "overview": "Follow the early days of Dick Grayson and Jason Todd and explore how their friendship becomes tested by their diverging ideas for what their future should be.",
-    "releaseYear": "2028"
-  },
-  {
     "id": "tt15435876",
     "imdbId": "tt15435876",
     "tmdbId": 194764,
@@ -107,7 +7,8 @@
     "title": "The Penguin",
     "poster": "https://image.tmdb.org/t/p/w500/vOWcqC4oDQws1doDWLO7d3dh5qc.jpg",
     "overview": "With the city in peril following the seawall's collapse, Oswald \"Oz\" Cobb seeks to fill the power vacuum left by the death of Carmine Falcone and finally give his mother Francis the life he's always promised. But first, Oz must confront his enemies and his own demoralizing reputation as \"the Penguin.\"",
-    "releaseYear": "2024"
+    "releaseYear": "2024",
+    "releaseDate": "2024-09-19"
   },
   {
     "id": "tt26545355",
@@ -117,7 +18,8 @@
     "title": "Creature Commandos",
     "poster": "https://image.tmdb.org/t/p/w500/bB3G6Ug1jfsOUptb0RJsqrgMVta.jpg",
     "overview": "Follow the exploits of the Creature Commandos, a secret team of incarcerated monsters recruited for missions deemed too dangerous for humans. When all else fails... they're your last, worst option.",
-    "releaseYear": "2024"
+    "releaseYear": "2024",
+    "releaseDate": "2024-12-05"
   },
   {
     "id": "tt34919753",
@@ -127,7 +29,19 @@
     "title": "DC Studios Showcase: The Official Podcast",
     "poster": "https://image.tmdb.org/t/p/w500/nIrLpT0654SPwNXCXB89dPsF5fd.jpg",
     "overview": "Hosted by Frankey Smith and Tyler Coates, and joined by on-air comic correspondent Coy Jandreau, this biweekly podcast series takes a deep dive into the history of the iconic DC brand while charting the future of the DCU as DC Studios kicks off its ambitious cross-platform slate.",
-    "releaseYear": "2024"
+    "releaseYear": "2024",
+    "releaseDate": "2024-12-06"
+  },
+  {
+    "id": "tt5950044",
+    "imdbId": "tt5950044",
+    "tmdbId": 1061474,
+    "type": "movie",
+    "title": "Superman",
+    "poster": "https://image.tmdb.org/t/p/w500/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
+    "overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+    "releaseYear": "2025",
+    "releaseDate": "2025-07-09"
   },
   {
     "id": "tt38132674",
@@ -137,7 +51,19 @@
     "title": "Peacemaker: The Official Podcast with James Gunn",
     "poster": "https://image.tmdb.org/t/p/w500/icTAzeZRJOX570ErAejgFhp0EIB.jpg",
     "overview": "Get ready for Peacemaker: The Official Podcast with James Gunn, where James Gunn, co-hosts Jennifer Hollandand Steve Agee and surprise guests break down each episode of Peacemaker.",
-    "releaseYear": "2025"
+    "releaseYear": "2025",
+    "releaseDate": "2025-07-24"
+  },
+  {
+    "id": "tt37900794",
+    "imdbId": "tt37900794",
+    "tmdbId": 1529346,
+    "type": "movie",
+    "title": "Krypto Saves the Day!: School Bus Scuffle",
+    "poster": "https://image.tmdb.org/t/p/w500/giRBhQ8WSDdXR3WdcwzjAq6VYGJ.jpg",
+    "overview": "Krypto embarks on a high-flying chase that creates major mayhem for a bus driver on his way to school.",
+    "releaseYear": "2025",
+    "releaseDate": "2025-08-13"
   },
   {
     "id": "tt37899471",
@@ -147,7 +73,52 @@
     "title": "Krypto Saves the Day!",
     "poster": "https://image.tmdb.org/t/p/w500/peMK4Kze9OxRGOdIOi0wn4lKYkr.jpg",
     "overview": "Krypto the Superdog wants to be a good boy, but he can't help but make mischief for the citizens of Metropolis.",
-    "releaseYear": "2025"
+    "releaseYear": "2025",
+    "releaseDate": "2025-08-13"
+  },
+  {
+    "id": "tt37930373",
+    "imdbId": "tt37930373",
+    "tmdbId": 1529648,
+    "type": "movie",
+    "title": "Krypto Saves the Day!: Halloween Havoc",
+    "poster": "https://image.tmdb.org/t/p/w500/xVQgm5rZxmvRW8ttngCsnqmmitY.jpg",
+    "overview": "When a black cat crosses Krypto's path, he's determined to catch it before Halloween night is through!",
+    "releaseYear": "2025",
+    "releaseDate": "2025-09-30"
+  },
+  {
+    "id": "tt37930374",
+    "imdbId": "tt37930374",
+    "tmdbId": 1529650,
+    "type": "movie",
+    "title": "Krypto Saves the Day!: Package Pandemonium",
+    "poster": "https://image.tmdb.org/t/p/w500/rmk3dVvXlIuZLkh776PIHOrqtJW.jpg",
+    "overview": "Krypto smells something special in a holiday package, and in his eagerness to grab the gift he makes a mess of Metropolis's festivities.",
+    "releaseYear": "2025",
+    "releaseDate": "2025-11-28"
+  },
+  {
+    "id": "tt37930376",
+    "imdbId": "tt37930376",
+    "tmdbId": 1529651,
+    "type": "movie",
+    "title": "Krypto Saves the Day!: Coastal Catastrophe",
+    "poster": "https://image.tmdb.org/t/p/w500/yOk1Rw2TAknrkGS3PKs3MUyNje4.jpg",
+    "overview": "A fun day at the beach goes sideways when some sneaky foes get between Krypto and his hot dog.",
+    "releaseYear": "2026",
+    "releaseDate": "2026-04-18"
+  },
+  {
+    "id": "tt8814476",
+    "imdbId": "tt8814476",
+    "tmdbId": 1081003,
+    "type": "movie",
+    "title": "Supergirl",
+    "poster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+    "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+    "releaseYear": "2026",
+    "releaseDate": "2026-06-24"
   },
   {
     "id": "tmdb_331555",
@@ -157,7 +128,8 @@
     "title": "Lanterns: The Official Podcast",
     "poster": "https://image.tmdb.org/t/p/w500/5nGwcfb6oY5HvSakUqGIlBdserq.jpg",
     "overview": "Through interviews with the creators, cast and crew, the podcast goes inside the making of Lanterns, from the murder mystery at the heart of the story to the characters, comic lore, and dive into the worldbuilding, and the relationship between Hal Jordan and John Stewart.",
-    "releaseYear": "2026"
+    "releaseYear": "2026",
+    "releaseDate": "2026-08-16"
   },
   {
     "id": "tt26545992",
@@ -167,6 +139,51 @@
     "title": "Lanterns",
     "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
     "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-    "releaseYear": "2026"
+    "releaseYear": "2026",
+    "releaseDate": "2026-08-16"
+  },
+  {
+    "id": "tt34890576",
+    "imdbId": "tt34890576",
+    "tmdbId": 1400940,
+    "type": "movie",
+    "title": "Clayface",
+    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+    "overview": "Follow the terrifying descent into hell of a promising Hollywood actor who has become a monster driven by revenge, exploring the loss of identity and humanity, the ravages of toxic love and the dark side of scientific ambition.",
+    "releaseYear": "2026",
+    "releaseDate": "2026-10-21"
+  },
+  {
+    "id": "tt37833661",
+    "imdbId": "tt37833661",
+    "tmdbId": 1523140,
+    "type": "movie",
+    "title": "Man of Tomorrow",
+    "poster": "https://image.tmdb.org/t/p/w500/tYLgfKk3cEk7LskgxWyW37Nty01.jpg",
+    "overview": "Superman and Lex Luthor find themselves forced to work together—to a certain degree—against a much, much bigger threat when Brainiac sets his sights on Earth.",
+    "releaseYear": "2027",
+    "releaseDate": "2027-07-07"
+  },
+  {
+    "id": "tt19850008",
+    "imdbId": "tt19850008",
+    "tmdbId": 806704,
+    "type": "movie",
+    "title": "The Batman: Part II",
+    "poster": "https://image.tmdb.org/t/p/w500/caeBJHLNld1h14uvcLvzyHf3Rlk.jpg",
+    "overview": "Sequel to the 2022 film The Batman.",
+    "releaseYear": "2028",
+    "releaseDate": "2028-02-17"
+  },
+  {
+    "id": "tt33549695",
+    "imdbId": "tt33549695",
+    "tmdbId": 1364797,
+    "type": "movie",
+    "title": "Dynamic Duo",
+    "poster": "https://image.tmdb.org/t/p/w500/byZZQsE933kaBCq6i2yGQnJF6TN.jpg",
+    "overview": "Follow the early days of Dick Grayson and Jason Todd and explore how their friendship becomes tested by their diverging ideas for what their future should be.",
+    "releaseYear": "2028",
+    "releaseDate": "2028-06-29"
   }
 ]
