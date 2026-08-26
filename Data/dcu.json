@@ -1,206 +1,138 @@
 [
   {
-    "id": 1061474,
-    "tmdb_id": 1061474,
+    "id": "tmdb_1061474",
     "type": "movie",
     "title": "Superman",
-    "name": "Superman",
+    "poster": "https://image.tmdb.org/t/p/w500/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
     "overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
-    "poster_path": "/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
-    "backdrop_path": "/eGX66zonvc4bXg3rM08RUxdYSDx.jpg",
-    "release_date": "2025-07-09",
-    "vote_average": 7.329
+    "releaseYear": "2025"
   },
   {
-    "id": 1529346,
-    "tmdb_id": 1529346,
+    "id": "tmdb_1529346",
     "type": "movie",
     "title": "Krypto Saves the Day!: School Bus Scuffle",
-    "name": "Krypto Saves the Day!: School Bus Scuffle",
+    "poster": "https://image.tmdb.org/t/p/w500/giRBhQ8WSDdXR3WdcwzjAq6VYGJ.jpg",
     "overview": "Krypto embarks on a high-flying chase that creates major mayhem for a bus driver on his way to school.",
-    "poster_path": "/giRBhQ8WSDdXR3WdcwzjAq6VYGJ.jpg",
-    "backdrop_path": "/pYMXfAEcJriegcAZjNl4GYGsL5g.jpg",
-    "release_date": "2025-08-13",
-    "vote_average": 6.455
+    "releaseYear": "2025"
   },
   {
-    "id": 1529648,
-    "tmdb_id": 1529648,
+    "id": "tmdb_1529648",
     "type": "movie",
     "title": "Krypto Saves the Day!: Halloween Havoc",
-    "name": "Krypto Saves the Day!: Halloween Havoc",
+    "poster": "https://image.tmdb.org/t/p/w500/xVQgm5rZxmvRW8ttngCsnqmmitY.jpg",
     "overview": "When a black cat crosses Krypto's path, he's determined to catch it before Halloween night is through!",
-    "poster_path": "/xVQgm5rZxmvRW8ttngCsnqmmitY.jpg",
-    "backdrop_path": "/tof8ovnN0CIwi2I6qIa5zE0LHfm.jpg",
-    "release_date": "2025-09-30",
-    "vote_average": 6.2
+    "releaseYear": "2025"
   },
   {
-    "id": 1529650,
-    "tmdb_id": 1529650,
+    "id": "tmdb_1529650",
     "type": "movie",
     "title": "Krypto Saves the Day!: Package Pandemonium",
-    "name": "Krypto Saves the Day!: Package Pandemonium",
+    "poster": "https://image.tmdb.org/t/p/w500/rmk3dVvXlIuZLkh776PIHOrqtJW.jpg",
     "overview": "Krypto smells something special in a holiday package, and in his eagerness to grab the gift he makes a mess of Metropolis's festivities.",
-    "poster_path": "/rmk3dVvXlIuZLkh776PIHOrqtJW.jpg",
-    "backdrop_path": "/czJyil5XbEq81K6Gw2arzUUcMUo.jpg",
-    "release_date": "2025-11-28",
-    "vote_average": 5.7
+    "releaseYear": "2025"
   },
   {
-    "id": 1529651,
-    "tmdb_id": 1529651,
+    "id": "tmdb_1529651",
     "type": "movie",
     "title": "Krypto Saves the Day!: Coastal Catastrophe",
-    "name": "Krypto Saves the Day!: Coastal Catastrophe",
+    "poster": "https://image.tmdb.org/t/p/w500/yOk1Rw2TAknrkGS3PKs3MUyNje4.jpg",
     "overview": "A fun day at the beach goes sideways when some sneaky foes get between Krypto and his hot dog.",
-    "poster_path": "/yOk1Rw2TAknrkGS3PKs3MUyNje4.jpg",
-    "backdrop_path": "/hJdMvBGRGSdZx9zglcyVLLIKoJT.jpg",
-    "release_date": "2026-04-18",
-    "vote_average": 6
+    "releaseYear": "2026"
   },
   {
-    "id": 1081003,
-    "tmdb_id": 1081003,
+    "id": "tmdb_1081003",
     "type": "movie",
     "title": "Supergirl",
-    "name": "Supergirl",
+    "poster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
     "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-    "poster_path": "/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-    "backdrop_path": "/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
-    "release_date": "2026-06-24",
-    "vote_average": 6.73
+    "releaseYear": "2026"
   },
   {
-    "id": 1400940,
-    "tmdb_id": 1400940,
+    "id": "tmdb_1400940",
     "type": "movie",
     "title": "Clayface",
-    "name": "Clayface",
+    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
     "overview": "Follow the terrifying descent into hell of a promising Hollywood actor who has become a monster driven by revenge, exploring the loss of identity and humanity, the ravages of toxic love and the dark side of scientific ambition.",
-    "poster_path": "/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-    "backdrop_path": "/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
-    "release_date": "2026-10-21",
-    "vote_average": 0
+    "releaseYear": "2026"
   },
   {
-    "id": 1523140,
-    "tmdb_id": 1523140,
+    "id": "tmdb_1523140",
     "type": "movie",
     "title": "Man of Tomorrow",
-    "name": "Man of Tomorrow",
+    "poster": "https://image.tmdb.org/t/p/w500/tYLgfKk3cEk7LskgxWyW37Nty01.jpg",
     "overview": "Superman and Lex Luthor find themselves forced to work together—to a certain degree—against a much, much bigger threat when Brainiac sets his sights on Earth.",
-    "poster_path": "/tYLgfKk3cEk7LskgxWyW37Nty01.jpg",
-    "backdrop_path": "/lX2TpAZxdIus6cnMCDBOrs96NBY.jpg",
-    "release_date": "2027-07-07",
-    "vote_average": 0
+    "releaseYear": "2027"
   },
   {
-    "id": 806704,
-    "tmdb_id": 806704,
+    "id": "tmdb_806704",
     "type": "movie",
     "title": "The Batman: Part II",
-    "name": "The Batman: Part II",
+    "poster": "https://image.tmdb.org/t/p/w500/caeBJHLNld1h14uvcLvzyHf3Rlk.jpg",
     "overview": "Sequel to the 2022 film The Batman.",
-    "poster_path": "/caeBJHLNld1h14uvcLvzyHf3Rlk.jpg",
-    "backdrop_path": "/4uaHnYDDpUTj0nCg6YqBKab50YW.jpg",
-    "release_date": "2028-02-17",
-    "vote_average": 0
+    "releaseYear": "2028"
   },
   {
-    "id": 1364797,
-    "tmdb_id": 1364797,
+    "id": "tmdb_1364797",
     "type": "movie",
     "title": "Dynamic Duo",
-    "name": "Dynamic Duo",
+    "poster": "https://image.tmdb.org/t/p/w500/byZZQsE933kaBCq6i2yGQnJF6TN.jpg",
     "overview": "Follow the early days of Dick Grayson and Jason Todd and explore how their friendship becomes tested by their diverging ideas for what their future should be.",
-    "poster_path": "/byZZQsE933kaBCq6i2yGQnJF6TN.jpg",
-    "backdrop_path": "/3HJtQ5Z04d1Gx4UQBPSOTgXsfwL.jpg",
-    "release_date": "2028-06-29",
-    "vote_average": 0
+    "releaseYear": "2028"
   },
   {
-    "id": 194764,
-    "tmdb_id": 194764,
+    "id": "tmdb_194764",
     "type": "series",
     "title": "The Penguin",
-    "name": "The Penguin",
+    "poster": "https://image.tmdb.org/t/p/w500/vOWcqC4oDQws1doDWLO7d3dh5qc.jpg",
     "overview": "With the city in peril following the seawall's collapse, Oswald \"Oz\" Cobb seeks to fill the power vacuum left by the death of Carmine Falcone and finally give his mother Francis the life he's always promised. But first, Oz must confront his enemies and his own demoralizing reputation as \"the Penguin.\"",
-    "poster_path": "/vOWcqC4oDQws1doDWLO7d3dh5qc.jpg",
-    "backdrop_path": "/4TdmuuwiIiKw3JOjIuhdgYxRXnN.jpg",
-    "release_date": "2024-09-19",
-    "vote_average": 8.346
+    "releaseYear": "2024"
   },
   {
-    "id": 219543,
-    "tmdb_id": 219543,
+    "id": "tmdb_219543",
     "type": "series",
     "title": "Creature Commandos",
-    "name": "Creature Commandos",
+    "poster": "https://image.tmdb.org/t/p/w500/bB3G6Ug1jfsOUptb0RJsqrgMVta.jpg",
     "overview": "Follow the exploits of the Creature Commandos, a secret team of incarcerated monsters recruited for missions deemed too dangerous for humans. When all else fails... they're your last, worst option.",
-    "poster_path": "/bB3G6Ug1jfsOUptb0RJsqrgMVta.jpg",
-    "backdrop_path": "/y8T8BhptuHFPR0hCGcUSMyUfUfm.jpg",
-    "release_date": "2024-12-05",
-    "vote_average": 7.782
+    "releaseYear": "2024"
   },
   {
-    "id": 323378,
-    "tmdb_id": 323378,
+    "id": "tmdb_323378",
     "type": "series",
     "title": "DC Studios Showcase: The Official Podcast",
-    "name": "DC Studios Showcase: The Official Podcast",
+    "poster": "https://image.tmdb.org/t/p/w500/nIrLpT0654SPwNXCXB89dPsF5fd.jpg",
     "overview": "Hosted by Frankey Smith and Tyler Coates, and joined by on-air comic correspondent Coy Jandreau, this biweekly podcast series takes a deep dive into the history of the iconic DC brand while charting the future of the DCU as DC Studios kicks off its ambitious cross-platform slate.",
-    "poster_path": "/nIrLpT0654SPwNXCXB89dPsF5fd.jpg",
-    "backdrop_path": "/8AVRIbBxlsnul7kgirGCGY0YKbP.jpg",
-    "release_date": "2024-12-06",
-    "vote_average": 8
+    "releaseYear": "2024"
   },
   {
-    "id": 318471,
-    "tmdb_id": 318471,
+    "id": "tmdb_318471",
     "type": "series",
     "title": "Peacemaker: The Official Podcast with James Gunn",
-    "name": "Peacemaker: The Official Podcast with James Gunn",
+    "poster": "https://image.tmdb.org/t/p/w500/icTAzeZRJOX570ErAejgFhp0EIB.jpg",
     "overview": "Get ready for Peacemaker: The Official Podcast with James Gunn, where James Gunn, co-hosts Jennifer Hollandand Steve Agee and surprise guests break down each episode of Peacemaker.",
-    "poster_path": "/icTAzeZRJOX570ErAejgFhp0EIB.jpg",
-    "backdrop_path": "/dQQ6MzmMAG2JDYWpnhcegVSId9W.jpg",
-    "release_date": "2025-07-24",
-    "vote_average": 6.333
+    "releaseYear": "2025"
   },
   {
-    "id": 320096,
-    "tmdb_id": 320096,
+    "id": "tmdb_320096",
     "type": "series",
     "title": "Krypto Saves the Day!",
-    "name": "Krypto Saves the Day!",
+    "poster": "https://image.tmdb.org/t/p/w500/peMK4Kze9OxRGOdIOi0wn4lKYkr.jpg",
     "overview": "Krypto the Superdog wants to be a good boy, but he can't help but make mischief for the citizens of Metropolis.",
-    "poster_path": "/peMK4Kze9OxRGOdIOi0wn4lKYkr.jpg",
-    "backdrop_path": "/yG833eoUb4hw9vfwj7OD2ElN89G.jpg",
-    "release_date": "2025-08-13",
-    "vote_average": 0
+    "releaseYear": "2025"
   },
   {
-    "id": 331555,
-    "tmdb_id": 331555,
+    "id": "tmdb_331555",
     "type": "series",
     "title": "Lanterns: The Official Podcast",
-    "name": "Lanterns: The Official Podcast",
+    "poster": "https://image.tmdb.org/t/p/w500/5nGwcfb6oY5HvSakUqGIlBdserq.jpg",
     "overview": "Through interviews with the creators, cast and crew, the podcast goes inside the making of Lanterns, from the murder mystery at the heart of the story to the characters, comic lore, and dive into the worldbuilding, and the relationship between Hal Jordan and John Stewart.",
-    "poster_path": "/5nGwcfb6oY5HvSakUqGIlBdserq.jpg",
-    "backdrop_path": "/l2LHC8Z1anH8G7xQ46SquQP6sia.jpg",
-    "release_date": "2026-08-16",
-    "vote_average": 5.5
+    "releaseYear": "2026"
   },
   {
-    "id": 95350,
-    "tmdb_id": 95350,
+    "id": "tmdb_95350",
     "type": "series",
     "title": "Lanterns",
-    "name": "Lanterns",
+    "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
     "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-    "poster_path": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-    "backdrop_path": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
-    "release_date": "2026-08-16",
-    "vote_average": 8.158
+    "releaseYear": "2026"
   }
 ]

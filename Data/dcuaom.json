@@ -1,242 +1,162 @@
 [
   {
-    "id": 13640,
-    "tmdb_id": 13640,
+    "id": "tmdb_13640",
     "type": "movie",
     "title": "Superman: Doomsday",
-    "name": "Superman: Doomsday",
+    "poster": "https://image.tmdb.org/t/p/w500/itvuWm7DFWWzWgW0xgiaKzzWszP.jpg",
     "overview": "When LexCorp accidentally unleashes a murderous creature, Superman meets his greatest challenge as a champion. Based on the \"The Death of Superman\" storyline that appeared in DC Comics' publications in the 1990s.",
-    "poster_path": "/itvuWm7DFWWzWgW0xgiaKzzWszP.jpg",
-    "backdrop_path": "/oTPSjQyETTFYDehdbiG8yi2oDmL.jpg",
-    "release_date": "2007-09-18",
-    "vote_average": 6.726
+    "releaseYear": "2007"
   },
   {
-    "id": 14011,
-    "tmdb_id": 14011,
+    "id": "tmdb_14011",
     "type": "movie",
     "title": "Justice League: The New Frontier",
-    "name": "Justice League: The New Frontier",
+    "poster": "https://image.tmdb.org/t/p/w500/bj25ueeYNkz4e5t8oMMaAOWmwOc.jpg",
     "overview": "The human race is threatened by a powerful creature, and only the combined power of Superman, Batman, Wonder Woman, Green Lantern, Martian Manhunter and The Flash can stop it. But can they overcome their differences to thwart this enemy using the combined strength of their newly formed Justice League?",
-    "poster_path": "/bj25ueeYNkz4e5t8oMMaAOWmwOc.jpg",
-    "backdrop_path": "/aKQqtcdgFOQ1WsDi0g2FCtxMTnr.jpg",
-    "release_date": "2008-02-26",
-    "vote_average": 6.824
+    "releaseYear": "2008"
   },
   {
-    "id": 13851,
-    "tmdb_id": 13851,
+    "id": "tmdb_13851",
     "type": "movie",
     "title": "Batman: Gotham Knight",
-    "name": "Batman: Gotham Knight",
+    "poster": "https://image.tmdb.org/t/p/w500/3i1o0sHBP0VUpuSVmkdCRKYoDBC.jpg",
     "overview": "Six interlocking stories reveal Bruce Wayne's earliest adventures as Batman and the steps he took to become the grim avenger of Gotham City.",
-    "poster_path": "/3i1o0sHBP0VUpuSVmkdCRKYoDBC.jpg",
-    "backdrop_path": "/niRgVCgvDVxD67u6gjKZnkBO1AD.jpg",
-    "release_date": "2008-07-08",
-    "vote_average": 6.717
+    "releaseYear": "2008"
   },
   {
-    "id": 15359,
-    "tmdb_id": 15359,
+    "id": "tmdb_15359",
     "type": "movie",
     "title": "Wonder Woman",
-    "name": "Wonder Woman",
+    "poster": "https://image.tmdb.org/t/p/w500/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg",
     "overview": "On the mystical island of Themyscira, a proud and fierce warrior race of Amazons have raised a daughter of untold beauty, grace and strength: Princess Diana. When an Army fighter pilot, Steve Trevor, crash-lands on the island, the rebellious and headstrong Diana defies Amazonian law by accompanying Trevor back to civilization.",
-    "poster_path": "/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg",
-    "backdrop_path": "/bbkIwWJ6OjgppRFWvITlwXqmr8z.jpg",
-    "release_date": "2009-03-03",
-    "vote_average": 7.198
+    "releaseYear": "2009"
   },
   {
-    "id": 17445,
-    "tmdb_id": 17445,
+    "id": "tmdb_17445",
     "type": "movie",
     "title": "Green Lantern: First Flight",
-    "name": "Green Lantern: First Flight",
+    "poster": "https://image.tmdb.org/t/p/w500/ii48ohKJrDPyrGGOBVJ8XSxr5Xk.jpg",
     "overview": "Test pilot Hal Jordan finds himself recruited as the newest member of the intergalactic police force, The Green Lantern Corps.",
-    "poster_path": "/ii48ohKJrDPyrGGOBVJ8XSxr5Xk.jpg",
-    "backdrop_path": "/zYARGakIhHUvPuVJzlbqU40FrnV.jpg",
-    "release_date": "2009-07-28",
-    "vote_average": 6.9
+    "releaseYear": "2009"
   },
   {
-    "id": 22855,
-    "tmdb_id": 22855,
+    "id": "tmdb_22855",
     "type": "movie",
     "title": "Superman/Batman: Public Enemies",
-    "name": "Superman/Batman: Public Enemies",
+    "poster": "https://image.tmdb.org/t/p/w500/izvMc22ywSLFWUXZEIuJJ8dms75.jpg",
     "overview": "United States President Lex Luthor uses the oncoming trajectory of a Kryptonite meteor to frame Superman and declare a $1 billion bounty on the heads of the Man of Steel and his ‘partner in crime’, Batman. Heroes and villains alike launch a relentless pursuit of Superman and Batman, who must unite—and recruit help—to try and stave off the action-packed onslaught, stop the meteor Luthors plot.",
-    "poster_path": "/izvMc22ywSLFWUXZEIuJJ8dms75.jpg",
-    "backdrop_path": "/bRCP3D2QuR1UiFue6DCyznmRnyc.jpg",
-    "release_date": "2009-09-29",
-    "vote_average": 7.086
+    "releaseYear": "2009"
   },
   {
-    "id": 30061,
-    "tmdb_id": 30061,
+    "id": "tmdb_30061",
     "type": "movie",
     "title": "Justice League: Crisis on Two Earths",
-    "name": "Justice League: Crisis on Two Earths",
+    "poster": "https://image.tmdb.org/t/p/w500/tN2lodc5g7Fkkus6I6Ch2tNTgb5.jpg",
     "overview": "A heroic version of Lex Luthor from an alternate universe appears to recruit the Justice League to help save his Earth from the Crime Syndicate, an evil version of the League. What ensues is the ultimate battle of good versus evil in a war that threatens both planets and, through a devious plan launched by Batman's counterpart Owlman, puts the balance of all existence in peril.",
-    "poster_path": "/tN2lodc5g7Fkkus6I6Ch2tNTgb5.jpg",
-    "backdrop_path": "/okRY6YHbakM9cQz08EfcaLfzDoX.jpg",
-    "release_date": "2010-02-23",
-    "vote_average": 7.306
+    "releaseYear": "2010"
   },
   {
-    "id": 40662,
-    "tmdb_id": 40662,
+    "id": "tmdb_40662",
     "type": "movie",
     "title": "Batman: Under the Red Hood",
-    "name": "Batman: Under the Red Hood",
+    "poster": "https://image.tmdb.org/t/p/w500/7lmHqHg1rG9b4U8MjuyQjmJ7Qm0.jpg",
     "overview": "One part vigilante, one part criminal kingpin, Red Hood begins cleaning up Gotham with the efficiency of Batman, but without following the same ethical code.",
-    "poster_path": "/7lmHqHg1rG9b4U8MjuyQjmJ7Qm0.jpg",
-    "backdrop_path": "/jFEy7DClkMm8nGXAwmpe577Vlq0.jpg",
-    "release_date": "2010-07-27",
-    "vote_average": 7.764
+    "releaseYear": "2010"
   },
   {
-    "id": 45162,
-    "tmdb_id": 45162,
+    "id": "tmdb_45162",
     "type": "movie",
     "title": "Superman/Batman: Apocalypse",
-    "name": "Superman/Batman: Apocalypse",
+    "poster": "https://image.tmdb.org/t/p/w500/3zZKtQAMcCWEq6EVh2mraJOAajY.jpg",
     "overview": "Batman discovers a mysterious teen-aged girl with superhuman powers and a connection to Superman. When the girl comes to the attention of Darkseid, the evil overlord of Apokolips, events take a decidedly dangerous turn.",
-    "poster_path": "/3zZKtQAMcCWEq6EVh2mraJOAajY.jpg",
-    "backdrop_path": "/74H4XXU0q22TSrkPmlqkcWoX5ZZ.jpg",
-    "release_date": "2010-09-28",
-    "vote_average": 7.2
+    "releaseYear": "2010"
   },
   {
-    "id": 56590,
-    "tmdb_id": 56590,
+    "id": "tmdb_56590",
     "type": "movie",
     "title": "All Star Superman",
-    "name": "All Star Superman",
+    "poster": "https://image.tmdb.org/t/p/w500/cfVEMf0JgFEIG5i4gKHVac0CA2y.jpg",
     "overview": "Lex Luthor enacts his plan to rid the world of Superman, once and for all. Succeeding with solar radiation poisoning, the Man of Steel is slowly dying. With what little times remains, the Last Son of Krypton must confront the revealing of his secret identity to Lois Lane and face Luthor in a final battle.",
-    "poster_path": "/cfVEMf0JgFEIG5i4gKHVac0CA2y.jpg",
-    "backdrop_path": "/FTpFec420ztDa6HSpwLxGuwzis.jpg",
-    "release_date": "2011-01-01",
-    "vote_average": 6.875
+    "releaseYear": "2011"
   },
   {
-    "id": 65291,
-    "tmdb_id": 65291,
+    "id": "tmdb_65291",
     "type": "movie",
     "title": "Green Lantern: Emerald Knights",
-    "name": "Green Lantern: Emerald Knights",
+    "poster": "https://image.tmdb.org/t/p/w500/weth8sLv9y8L9GsEyLRBUZewXUt.jpg",
     "overview": "As the home planet of the Green Lantern Corps faces a battle with an ancient enemy, Hal Jordan prepares new recruit Arisia for the coming conflict by relating stories of the first Green Lantern and several of Hal's comrades.",
-    "poster_path": "/weth8sLv9y8L9GsEyLRBUZewXUt.jpg",
-    "backdrop_path": "/5XQobwJuqx0UFCHVDooWUBraeID.jpg",
-    "release_date": "2011-06-07",
-    "vote_average": 6.643
+    "releaseYear": "2011"
   },
   {
-    "id": 69735,
-    "tmdb_id": 69735,
+    "id": "tmdb_69735",
     "type": "movie",
     "title": "Batman: Year One",
-    "name": "Batman: Year One",
+    "poster": "https://image.tmdb.org/t/p/w500/mLZRhulJcDsxZWTdfx0trtk6y07.jpg",
     "overview": "A wealthy playboy named Bruce Wayne and a Chicago cop named Jim Gordon both return to Gotham City where their lives unexpectedly intersect.",
-    "poster_path": "/mLZRhulJcDsxZWTdfx0trtk6y07.jpg",
-    "backdrop_path": "/bNMw3onveTYU7PpLQRK0HQK8JRb.jpg",
-    "release_date": "2011-09-27",
-    "vote_average": 7.248
+    "releaseYear": "2011"
   },
   {
-    "id": 76589,
-    "tmdb_id": 76589,
+    "id": "tmdb_76589",
     "type": "movie",
     "title": "Justice League: Doom",
-    "name": "Justice League: Doom",
+    "poster": "https://image.tmdb.org/t/p/w500/jmEAGjDAIZdQQNASygPsATBgKBC.jpg",
     "overview": "An adaptation of Mark Waid's \"Tower of Babel\" story from the JLA comic. Vandal Savage steals confidential files Batman has compiled on the members of the Justice League, and learns all their weaknesses.",
-    "poster_path": "/jmEAGjDAIZdQQNASygPsATBgKBC.jpg",
-    "backdrop_path": "/8EKxPfuEMg1qP0E1r1ZAk56J7MP.jpg",
-    "release_date": "2012-02-28",
-    "vote_average": 7.413
+    "releaseYear": "2012"
   },
   {
-    "id": 103269,
-    "tmdb_id": 103269,
+    "id": "tmdb_103269",
     "type": "movie",
     "title": "Superman vs. The Elite",
-    "name": "Superman vs. The Elite",
+    "poster": "https://image.tmdb.org/t/p/w500/kozJARWRoGHlOu6UVCdVPD4n8Jm.jpg",
     "overview": "The Man of Steel finds himself outshone by a new team of ruthless superheroes who hold his idealism in contempt.",
-    "poster_path": "/kozJARWRoGHlOu6UVCdVPD4n8Jm.jpg",
-    "backdrop_path": "/mBwnZsZj6W0Gm1sUQDkUQEdY9lT.jpg",
-    "release_date": "2012-06-12",
-    "vote_average": 6.9
+    "releaseYear": "2012"
   },
   {
-    "id": 123025,
-    "tmdb_id": 123025,
+    "id": "tmdb_123025",
     "type": "movie",
     "title": "Batman: The Dark Knight Returns, Part 1",
-    "name": "Batman: The Dark Knight Returns, Part 1",
+    "poster": "https://image.tmdb.org/t/p/w500/rVr2Tdp2LcL3DheXUrVN345Myhg.jpg",
     "overview": "Batman has not been seen for ten years. A new breed of criminal ravages Gotham City, forcing 55-year-old Bruce Wayne back into the cape and cowl. But, does he still have what it takes to fight crime in a new era?",
-    "poster_path": "/rVr2Tdp2LcL3DheXUrVN345Myhg.jpg",
-    "backdrop_path": "/bNLLjc6NT80FmFknvHn8demDHhl.jpg",
-    "release_date": "2012-09-25",
-    "vote_average": 7.74
+    "releaseYear": "2012"
   },
   {
-    "id": 142061,
-    "tmdb_id": 142061,
+    "id": "tmdb_142061",
     "type": "movie",
     "title": "Batman: The Dark Knight Returns, Part 2",
-    "name": "Batman: The Dark Knight Returns, Part 2",
+    "poster": "https://image.tmdb.org/t/p/w500/d1TqoVkyL4x0dlu9w3F9Ah4LjNv.jpg",
     "overview": "Batman has stopped the reign of terror that The Mutants had cast upon his city.  Now an old foe wants a reunion and the government wants The Man of Steel to put a stop to Batman.",
-    "poster_path": "/d1TqoVkyL4x0dlu9w3F9Ah4LjNv.jpg",
-    "backdrop_path": "/zHqptza1ttGa7hkYNEXP7ECIyA9.jpg",
-    "release_date": "2013-01-03",
-    "vote_average": 7.926
+    "releaseYear": "2013"
   },
   {
-    "id": 166076,
-    "tmdb_id": 166076,
+    "id": "tmdb_166076",
     "type": "movie",
     "title": "Superman: Unbound",
-    "name": "Superman: Unbound",
+    "poster": "https://image.tmdb.org/t/p/w500/nnZKtmVSnueWd4pjk1BekLJxXRL.jpg",
     "overview": "Superman and Supergirl take on the cybernetic being known as Brainiac, who boasts that he possesses \"the knowledge and strength of 10,000 worlds.\"",
-    "poster_path": "/nnZKtmVSnueWd4pjk1BekLJxXRL.jpg",
-    "backdrop_path": "/y53r9qgxybrfuknz9356I7V8CP4.jpg",
-    "release_date": "2013-04-23",
-    "vote_average": 6.602
+    "releaseYear": "2013"
   },
   {
-    "id": 183011,
-    "tmdb_id": 183011,
+    "id": "tmdb_183011",
     "type": "movie",
     "title": "Justice League: The Flashpoint Paradox",
-    "name": "Justice League: The Flashpoint Paradox",
+    "poster": "https://image.tmdb.org/t/p/w500/hg6RYpSb3vU4i3yQDtE1YhSZNh5.jpg",
     "overview": "The Flash finds himself in a war-torn alternate timeline and teams up with alternate versions of his fellow heroes to restore the timeline.",
-    "poster_path": "/hg6RYpSb3vU4i3yQDtE1YhSZNh5.jpg",
-    "backdrop_path": "/35RYg50KXsenD4TrpZzzBm2X4cK.jpg",
-    "release_date": "2013-07-30",
-    "vote_average": 7.884
+    "releaseYear": "2013"
   },
   {
-    "id": 217993,
-    "tmdb_id": 217993,
+    "id": "tmdb_217993",
     "type": "movie",
     "title": "Justice League: War",
-    "name": "Justice League: War",
+    "poster": "https://image.tmdb.org/t/p/w500/pdNprWYdgcB8z4FLD3BhRmhEys1.jpg",
     "overview": "The world is under attack by an alien armada led by the powerful Apokoliptian, Darkseid. A group of superheroes consisting of Superman, Batman, Wonder Woman, The Flash, Green Lantern, Cyborg, and Shazam must set aside their differences and gather together to defend Earth.",
-    "poster_path": "/pdNprWYdgcB8z4FLD3BhRmhEys1.jpg",
-    "backdrop_path": "/uD6AG36ykWAwKfSrLBuaVmpRC0.jpg",
-    "release_date": "2014-01-21",
-    "vote_average": 7.436
+    "releaseYear": "2014"
   },
   {
-    "id": 251519,
-    "tmdb_id": 251519,
+    "id": "tmdb_251519",
     "type": "movie",
     "title": "Son of Batman",
-    "name": "Son of Batman",
+    "poster": "https://image.tmdb.org/t/p/w500/yHx8OLSKc3VtIBB5lIe90c0fHOX.jpg",
     "overview": "Batman learns he has a violent, unruly pre-teen son, secretly raised by the terrorist group known as The League of Assassins.",
-    "poster_path": "/yHx8OLSKc3VtIBB5lIe90c0fHOX.jpg",
-    "backdrop_path": "/jYqOnJDPI7QD9cGbE6CwDTp1tID.jpg",
-    "release_date": "2014-05-13",
-    "vote_average": 7.085
+    "releaseYear": "2014"
   }
 ]
