@@ -7,6 +7,7 @@ const TMDB_API_KEY = process.env.TMDB_API_KEY;
 const BASE_URL = `https://api.themoviedb.org/3`;
 const OUTPUT_PATH = path.join(__dirname, `..`, `Data`, `seriesData.js`);
 const DC_COMPANY_IDS = `9993|184898|128064|2785`;
+const ANIMATION_GENRE_ID = 16;
 
 if (!TMDB_API_KEY) {
   console.error(`Missing TMDB_API_KEY in environment.`);
@@ -35,7 +36,7 @@ async function fetchDiscoveredSeries() {
   do {
     const data = await tmdbGet(`/discover/tv`, {
       with_companies: DC_COMPANY_IDS,
-      without_genres: 16,
+      without_genres: ANIMATION_GENRE_ID,
       sort_by: `first_air_date.asc`,
       "first_air_date.gte": `1900-01-01`,
       page
