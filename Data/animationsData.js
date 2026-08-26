@@ -1,5 +1,1072 @@
 module.exports = [
   {
+    "id": "tt0080587",
+    "imdbId": "tt0080587",
+    "tmdbId": 197762,
+    "type": "movie",
+    "title": "Daffy Flies North",
+    "poster": "https://image.tmdb.org/t/p/w500/7YWOecqT3ETP1Ft0ipHnqVwFdN6.jpg",
+    "overview": "Refusing to go with the flock, Daffy seeks an easier way to travel north.",
+    "releaseYear": "1980",
+    "releaseDate": "1980-04-01"
+  },
+  {
+    "id": "tt0081791",
+    "imdbId": "tt0081791",
+    "tmdbId": 197757,
+    "type": "movie",
+    "title": "The Yolks on You",
+    "poster": "https://image.tmdb.org/t/p/w500/l4hpDkQHwzAr1Phhof2SwAxElAz.jpg",
+    "overview": "Foghorn Leghorn assigns Prissy, who's been laying some odd, unsatisfactory eggs, to lay turquoise eggs for Easter...",
+    "releaseYear": "1980",
+    "releaseDate": "1980-04-01"
+  },
+  {
+    "id": "tt0303804",
+    "imdbId": "tt0303804",
+    "tmdbId": 353062,
+    "type": "movie",
+    "title": "The Bugs Bunny Mystery Special",
+    "poster": "https://image.tmdb.org/t/p/w500/2TnldAE78qA1uN9ByXdIYK1m7gK.jpg",
+    "overview": "Porky Pig introduces tonight's feature à la Hitchcock: F.B.I./C.I.A. agent Elmer Fudd is after a tall dark stranger who robbed a bank. After confusing him with Bugs Bunny, the chase is on through various classic Warner Bros. shorts themed around crime.",
+    "releaseYear": "1980",
+    "releaseDate": "1980-10-26"
+  },
+  {
+    "id": "tt0336233",
+    "imdbId": "tt0336233",
+    "tmdbId": 480856,
+    "type": "movie",
+    "title": "Daffy Duck's Thanks-for-Giving Special",
+    "poster": "https://image.tmdb.org/t/p/w500/8qKErxJKIyeqJVhGKEXm95He7kX.jpg",
+    "overview": "A 1980 Looney Tunes Thanksgiving special, starring Daffy Duck.  Cartoons featured  \"The Scarlet Pumpernickel\"  \"Robin Hood Daffy\"  \"Drip-Along Daffy\"  \"His Bitter Half\"",
+    "releaseYear": "1980",
+    "releaseDate": "1980-11-20"
+  },
+  {
+    "id": "tt0092938",
+    "imdbId": "tt0092938",
+    "tmdbId": 84599,
+    "type": "movie",
+    "title": "The Duxorcist",
+    "poster": "https://image.tmdb.org/t/p/w500/yHpZwp8LhwijSvCco5qEZCIrgIq.jpg",
+    "overview": "Daffy is a professional paranormal investigator come to help a possessed damsel in distress.",
+    "releaseYear": "1987",
+    "releaseDate": "1987-11-20"
+  },
+  {
+    "id": "tt0095737",
+    "imdbId": "tt0095737",
+    "tmdbId": 84600,
+    "type": "movie",
+    "title": "The Night of the Living Duck",
+    "poster": "https://image.tmdb.org/t/p/w500/ig8ptjEB4rYbZRgYR2rkSSF8TLk.jpg",
+    "overview": "After indulging in horror comic book reading, Daffy has a dream where he is singing in a nightclub for monsters.",
+    "releaseYear": "1988",
+    "releaseDate": "1988-09-23"
+  },
+  {
+    "id": "tt0094939",
+    "imdbId": "tt0094939",
+    "tmdbId": 23521,
+    "type": "movie",
+    "title": "Daffy Duck's Quackbusters",
+    "poster": "https://image.tmdb.org/t/p/w500/d9s1aOsnXfeSOlzYuX6VVmORrFo.jpg",
+    "overview": "In this feature-length film combining footage from classic Warner Brothers cartoon shorts with newly animated bridging sequences, Daffy Duck, after having induced laughter in an ailing millionaire and forestalled the millionaire's death for a time (as chronicled in Daffy Dilly (1948), is the beneficiary for the deceased millionaire's assets. But the millionaire's will clearly stipulates that Daffy must use the money for the common good, by providing a service, and should Daffy think of pursuing selfish aims, the millionaire's ghost will \"repossess\" his millions by making them disappear from Earthly existence. Under the pretense of community service, Daffy opens an exorcism agency and employs Porky Pig, Sylvester Cat, and Bugs Bunny to track and eliminate ghosts, ghouls, and other monsters, while Daffy secretly schemes to use his learned \"ghost-busting\" talents to rid himself of the millionaire's nagging spirit.",
+    "releaseYear": "1988",
+    "releaseDate": "1988-09-24"
+  },
+  {
+    "id": "tt0155572",
+    "imdbId": "tt0155572",
+    "tmdbId": 404561,
+    "type": "movie",
+    "title": "Bugs Bunny's Wild World of Sports",
+    "poster": "https://image.tmdb.org/t/p/w500/a9e0cdWXdCGQb0dv9UmMz2RWhbt.jpg",
+    "overview": "A TV special that aired on February 15, 1989 on CBS. It was the final production in which Mel Blanc voiced the Looney Tunes before his death on July 10, 1989",
+    "releaseYear": "1989",
+    "releaseDate": "1989-02-15"
+  },
+  {
+    "id": "tt0278993",
+    "imdbId": "tt0278993",
+    "tmdbId": 154023,
+    "type": "movie",
+    "title": "Bugs Bunny's Lunar Tunes",
+    "poster": "https://image.tmdb.org/t/p/w500/Wa3BrbU6jvIFZLlVy4dIebRDzA.jpg",
+    "overview": "Bugs has to defend the Earth's right to exist in an intergalactic court.",
+    "releaseYear": "1991",
+    "releaseDate": "1991-01-01"
+  },
+  {
+    "id": "tt0099171",
+    "imdbId": "tt0099171",
+    "tmdbId": 197749,
+    "type": "movie",
+    "title": "Box-Office Bunny",
+    "poster": "https://image.tmdb.org/t/p/w500/micKDYBBVIwy85WlX61kwvAt9Cf.jpg",
+    "overview": "Bugs Bunny partakes of the multiplex cinema that has been instantly built over his hole over the objection of usher Elmer Fudd.",
+    "releaseYear": "1991",
+    "releaseDate": "1991-02-08"
+  },
+  {
+    "id": "tt0244444",
+    "imdbId": "tt0244444",
+    "tmdbId": 554300,
+    "type": "movie",
+    "title": "Bugs Bunny's Overtures to Disaster",
+    "poster": "https://image.tmdb.org/t/p/w500/529UkxAG3tDSPFpRKGJprr1yJpm.jpg",
+    "overview": "Bugs Bunny conducts an orchestra of all his greatest operatic hits.",
+    "releaseYear": "1991",
+    "releaseDate": "1991-04-17"
+  },
+  {
+    "id": "tt0103562",
+    "imdbId": "tt0103562",
+    "tmdbId": 10126,
+    "type": "series",
+    "title": "Taz-Mania",
+    "poster": "https://image.tmdb.org/t/p/w500/ozqJKBZq3k7BjyAwv2A7V1Zv6Ba.jpg",
+    "overview": "The wildest teenager south of the Equator, Taz lives to party. With his insatiable appetite, he tends to eat everything in sight. The oldest child in a family of five, Taz works at a rather bizarre coastal resort, the Hotel Tasmania, as a bellhop, busboy to earn party money.",
+    "releaseYear": "1991",
+    "releaseDate": "1991-09-07"
+  },
+  {
+    "id": "tt0356447",
+    "imdbId": "tt0356447",
+    "tmdbId": 555458,
+    "type": "movie",
+    "title": "Bugs Bunny's Creature Features",
+    "poster": "https://image.tmdb.org/t/p/w500/16IFqXoNZTHZ4ggRBtRj4iLMHGs.jpg",
+    "overview": "\"The Duxorcist\", \"Night of the Living Duck\" and \"Invasion of the Bunny Snatchers\" are combined to form this TV special.",
+    "releaseYear": "1992",
+    "releaseDate": "1992-02-01"
+  },
+  {
+    "id": "tt0104527",
+    "imdbId": "tt0104527",
+    "tmdbId": 197746,
+    "type": "movie",
+    "title": "Invasion of the Bunny Snatchers",
+    "poster": "https://image.tmdb.org/t/p/w500/xICibBHOmPyOxH1OrICVYe4QW3t.jpg",
+    "overview": "Daffy Duck, Yosemite Sam, and Elmer Fudd have all been captured, and badly animated pod-people versions have taken their places. Is Bugs next?",
+    "releaseYear": "1992",
+    "releaseDate": "1992-02-01"
+  },
+  {
+    "id": "tt0105598",
+    "imdbId": "tt0105598",
+    "tmdbId": 36257,
+    "type": "movie",
+    "title": "Tiny Toon Adventures: How I Spent My Vacation",
+    "poster": "https://image.tmdb.org/t/p/w500/pU8FKgY6PVGanq8xJDNaamRuRnq.jpg",
+    "overview": "Term-time ends at Acme Looniversity and the Tiny Toon characters look forward to a summer filled with fun. Buster and Babs Bunny turn a water fight into a white-water rafting trip through the dangerous Deep South; Plucky Duck and Hamton Pig share the most impossibly awful car journey imaginable on the way to HappyWorldLand; Fifi's blind date becomes a \"skunknophobic\" nightmare; and a safari park is turned upside-down by Elmyra's search for \"cute little kitties to hug and squeeze\".",
+    "releaseYear": "1992",
+    "releaseDate": "1992-03-11"
+  },
+  {
+    "id": "tt0105941",
+    "imdbId": "tt0105941",
+    "tmdbId": 82,
+    "type": "series",
+    "title": "Animaniacs",
+    "poster": "https://image.tmdb.org/t/p/w500/c1b2UtrhbMOdHKISB2ZvINo9eyc.jpg",
+    "overview": "The two Warner Brothers Yakko and Wakko and their Warner sister Dot had been (supposedly) created in the 1930's, but their cartoons were too screwy for the general public to handle. The three Warners were locked up in the studio water tower until they escaped in the 90's. There, they run wild, causing chaos everywhere!",
+    "releaseYear": "1993",
+    "releaseDate": "1993-09-13"
+  },
+  {
+    "id": "tt0108343",
+    "imdbId": "tt0108343",
+    "tmdbId": 203848,
+    "type": "movie",
+    "title": "Tiny Toon Spring Break",
+    "poster": "https://image.tmdb.org/t/p/w500/v8YTsq4jIIbLH7OF9ruqK8iKORn.jpg",
+    "overview": "Buster, Babs and the entire 'Tiny Toons' gang decided to take a trip to Ft. Lauderdale for Spring Break. Meanwhile, Elmrya believes that Buster is the Easter Bunny, and with the help of Samuel Gerard(Tommy Lee Jones in 'The Fugitive') they go on a mission to capture Buster. Plucky tries to make a quick buck by sellin' \"The Tan Meiser 6000\" but quickly turns his sights on a blonde duck that passes him by. Spoofs of music videos and films of that time (1994) are some of the highlights",
+    "releaseYear": "1994",
+    "releaseDate": "1994-03-27"
+  },
+  {
+    "id": "tt0110098",
+    "imdbId": "tt0110098",
+    "tmdbId": 385920,
+    "type": "movie",
+    "title": "I'm Mad",
+    "poster": "https://image.tmdb.org/t/p/w500/wYwOlwpwz9j55bVjJNpCCTgHoYh.jpg",
+    "overview": "The Warner Brothers, Yakko and Wakko, and their sister Dot star in their first theater short. Yakko and Dot are constantly bickering while Wakko is complaining during a car ride with their psychiatrist Dr. Otto Scratchansniff. A mostly musical cartoon.",
+    "releaseYear": "1994",
+    "releaseDate": "1994-03-30"
+  },
+  {
+    "id": "tt0179569",
+    "imdbId": "tt0179569",
+    "tmdbId": 10289,
+    "type": "series",
+    "title": "Free Willy",
+    "poster": "https://image.tmdb.org/t/p/w500/vierk56JaFusGYIOV4b0nY0DWKE.jpg",
+    "overview": "Free Willy is an animated television series, inspired by the 1993 film of the same name.\n\nThis television series was produced by Warner Bros. Television, Regency Enterprises and the Canadian company Nelvana for Warner Bros. Studios. The show, which aired for one season on American Broadcasting Company, continues the adventures of the orca Willy and Jesse, the boy who freed him from captivity as shown in the film. In retrospect, the series also anticipates multiple plot elements of the film sequel, Free Willy 2: The Adventure Home, released the following summer. The overarching conflict is reminiscent of Moby-Dick: a powerful oil baron, known to the main characters only as a cyborg called \"The Machine\" until the final episodes, loses his arm and part of his face to Willy while committing an environmental atrocity and wants revenge upon \"that rotten whale... and his boy\".",
+    "releaseYear": "1994",
+    "releaseDate": "1994-09-24"
+  },
+  {
+    "id": "tt0109399",
+    "imdbId": "tt0109399",
+    "tmdbId": 197740,
+    "type": "movie",
+    "title": "Chariots of Fur",
+    "poster": "https://image.tmdb.org/t/p/w500/AaakTeCBYe3SEfT2jPQjYp3iyPY.jpg",
+    "overview": "In his ongoing quest to eat a decent meal just once, Coyote is still hunting down the roadrunner, despite a warning from the surgeon general that it can damage your health. Undeterred, Coyote employs bird seed, giant mouse traps (or traps for giant mice?) and springs in an attempt to catch the tricky bird.",
+    "releaseYear": "1994",
+    "releaseDate": "1994-12-20"
+  },
+  {
+    "id": "tt0123298",
+    "imdbId": "tt0123298",
+    "tmdbId": 203847,
+    "type": "movie",
+    "title": "Tiny Toon Night Ghoulery",
+    "poster": "https://image.tmdb.org/t/p/w500/zBMHp3S0kPFtElVqrtE7vSZX9Kd.jpg",
+    "overview": "In this Halloween Special, Babs Bunny plays the part of host as she and the Tiny Toons gang spoof various popular horror movies and TV shows.  Among the works parodied are \"Night Gallery\", \"The Twilight Zone\", \"The Devil and Daniel Webster\", \"Frankenstein\" and the \"Abbott and Costello Meet...\" films.",
+    "releaseYear": "1995",
+    "releaseDate": "1995-05-28"
+  },
+  {
+    "id": "tt0112638",
+    "imdbId": "tt0112638",
+    "tmdbId": 146747,
+    "type": "movie",
+    "title": "Carrotblanca",
+    "poster": "https://image.tmdb.org/t/p/w500/qj2JMHzIzTKZtxWHFs1MnvF0Coj.jpg",
+    "overview": "A re-telling of \"Casablanca\" starring Bugs Bunny and the Looney Tunes cast.",
+    "releaseYear": "1995",
+    "releaseDate": "1995-08-25"
+  },
+  {
+    "id": "tt0112186",
+    "imdbId": "tt0112186",
+    "tmdbId": 9867,
+    "type": "series",
+    "title": "The Sylvester & Tweety Mysteries",
+    "poster": "https://image.tmdb.org/t/p/w500/b8AkMeacC71nABALm5GgT1x5nMo.jpg",
+    "overview": "Sylvester and Tweety help out when Granny opens a detective agency.",
+    "releaseYear": "1995",
+    "releaseDate": "1995-09-09"
+  },
+  {
+    "id": "tt0111970",
+    "imdbId": "tt0111970",
+    "tmdbId": 4334,
+    "type": "series",
+    "title": "Freakazoid!",
+    "poster": "https://image.tmdb.org/t/p/w500/ig0pc2AhY5d3GEghcxEWwo9AUtg.jpg",
+    "overview": "The adventures of  Freakazoid, a manic, insane superhero who battles with an array of super villains.",
+    "releaseYear": "1995",
+    "releaseDate": "1995-09-09"
+  },
+  {
+    "id": "tt0112123",
+    "imdbId": "tt0112123",
+    "tmdbId": 2228,
+    "type": "series",
+    "title": "Pinky and the Brain",
+    "poster": "https://image.tmdb.org/t/p/w500/69Hrbgi2qcy8xjcwad94VNHpXLI.jpg",
+    "overview": "Pinky and Brain are genetically enhanced laboratory mice who reside in a cage in the Acme Labs research facility. Brain is self-centered and scheming; Pinky is good-natured but feebleminded. In each episode, Brain devises a new plan to take over the world, which ultimately ends in failure, usually due to Pinky's idiocy, the impossibility of Brain's plan, Brain's own arrogance, or just circumstances beyond their control.",
+    "releaseYear": "1995",
+    "releaseDate": "1995-09-09"
+  },
+  {
+    "id": "tt0112377",
+    "imdbId": "tt0112377",
+    "tmdbId": 83674,
+    "type": "movie",
+    "title": "Another Froggy Evening",
+    "poster": "https://image.tmdb.org/t/p/w500/elqGhzkVyESY2hQjWHKFH7NO6Zd.jpg",
+    "overview": "Michigan J. Frog pops in and out of people's lives through history.",
+    "releaseYear": "1995",
+    "releaseDate": "1995-10-06"
+  },
+  {
+    "id": "tt0117787",
+    "imdbId": "tt0117787",
+    "tmdbId": 140695,
+    "type": "movie",
+    "title": "Superior Duck",
+    "poster": "https://image.tmdb.org/t/p/w500/8Na6AbtqAYGt07CTXUAP8JIM2Sd.jpg",
+    "overview": "Daffy is supposedly a super hero and tries to show off his \"super powers.\"",
+    "releaseYear": "1996",
+    "releaseDate": "1996-08-23"
+  },
+  {
+    "id": "tt0115378",
+    "imdbId": "tt0115378",
+    "tmdbId": 4303,
+    "type": "series",
+    "title": "Superman: The Animated Series",
+    "poster": "https://image.tmdb.org/t/p/w500/p7FauEh0yeZtIPWnD3pBvG6j8sd.jpg",
+    "overview": "Superman, an incredibly powerful alien from the planet Krypton, defends Metropolis from supercriminals. Superman hides his identity behind the glasses of Clark Kent; a mild-mannered reporter for the newspaper the Daily Planet. At the Daily Planet Superman works with fellow reporter Lois Lane and photographer Jimmy Olsen.",
+    "releaseYear": "1996",
+    "releaseDate": "1996-09-06"
+  },
+  {
+    "id": "tt0115336",
+    "imdbId": "tt0115336",
+    "tmdbId": 3530,
+    "type": "series",
+    "title": "Road Rovers",
+    "poster": "https://image.tmdb.org/t/p/w500/pzfFiYmyv2tgApUNZUNaPwXh1jR.jpg",
+    "overview": "The Road Rovers are a team of five super-powered crime-fighting anthropomorphic dogs known as \"cano-sapiens\". Their leader is Hunter, a golden retriever mix from the United States. The Rovers' boss is a scientist known as The Master who oversees their operations and supplies them with equipment from their subterranean headquarters.",
+    "releaseYear": "1996",
+    "releaseDate": "1996-09-07"
+  },
+  {
+    "id": "tt0278882",
+    "imdbId": "tt0278882",
+    "tmdbId": 10865,
+    "type": "series",
+    "title": "Waynehead",
+    "poster": "https://image.tmdb.org/t/p/w500/drTvl84tHBjHCEBv3VIDiXOCTfY.jpg",
+    "overview": "Ten-Year-Old Damien \"Damey\" Wayne, living with little money, tries to deal with life as a pre-adolescent.",
+    "releaseYear": "1996",
+    "releaseDate": "1996-10-19"
+  },
+  {
+    "id": "tt0119108",
+    "imdbId": "tt0119108",
+    "tmdbId": 83762,
+    "type": "movie",
+    "title": "Father Of The Bird",
+    "poster": "https://image.tmdb.org/t/p/w500/shLPK582B3HtHi5L8ERyC2WhfTV.jpg",
+    "overview": "Sylvester meets up with an adorable new character named Cornbread.",
+    "releaseYear": "1997",
+    "releaseDate": "1997-01-01"
+  },
+  {
+    "id": "tt0119963",
+    "imdbId": "tt0119963",
+    "tmdbId": 50219,
+    "type": "movie",
+    "title": "Pullet Surprise",
+    "poster": "https://image.tmdb.org/t/p/w500/jp5esB0T3ajD7u5jr37J9Fw1OT2.jpg",
+    "overview": "Pete Puma is trying to raid the henhouse Foghorn Leghorn is guarding; Foggy decides to have some fun with Pete.",
+    "releaseYear": "1997",
+    "releaseDate": "1997-03-26"
+  },
+  {
+    "id": "tt0101484",
+    "imdbId": "tt0101484",
+    "tmdbId": 197748,
+    "type": "movie",
+    "title": "(Blooper) Bunny!",
+    "poster": "https://image.tmdb.org/t/p/w500/eUXOkwRSKcrnA7q0we84Iorkb3B.jpg",
+    "overview": "A behind-the-scenes look at the making of \"The Bugs Bunny 51st-and-a-Half Anniversary Spectacular,\" complete with shaky camera and a variety of outtakes from stars Bugs Bunny, Daffy Duck, Elmer Fudd, and Yosemite Sam.",
+    "releaseYear": "1997",
+    "releaseDate": "1997-06-13"
+  },
+  {
+    "id": "tt0118266",
+    "imdbId": "tt0118266",
+    "tmdbId": 4625,
+    "type": "series",
+    "title": "The New Batman Adventures",
+    "poster": "https://image.tmdb.org/t/p/w500/s40Ji11SBKaEYDgJmDc0ifklM59.jpg",
+    "overview": "After a long hiatus -- The Caped Crusader is back and cooler then ever, in the animated action-packed series -- The New Batman Adventures. Picking up years after Batman: The Animated Series, the series highlights Batman and his crimefighting cadre of Nightwing, Robin and Batgirl, as they join forces to battle Gotham City's classic super-villains.",
+    "releaseYear": "1997",
+    "releaseDate": "1997-09-13"
+  },
+  {
+    "id": "tt0125628",
+    "imdbId": "tt0125628",
+    "tmdbId": 12942,
+    "type": "series",
+    "title": "The Legend of Calamity Jane",
+    "poster": "https://image.tmdb.org/t/p/w500/dZVpRkDJkakz3j2yOWw3s7dc4CE.jpg",
+    "overview": "Slow drawls, quick draws, heroes and outlaws all have one thing in common -- \"The Legend of Calamity Jane.\" Fast with the whip, and even faster with a smile, Jane rides the trails and backwoods in search of truth and justice, showing what real heroes are made of in this animated western adventure series.",
+    "releaseYear": "1997",
+    "releaseDate": "1997-09-14"
+  },
+  {
+    "id": "tt0119160",
+    "imdbId": "tt0119160",
+    "tmdbId": 83787,
+    "type": "movie",
+    "title": "From Hare to Eternity",
+    "poster": "https://image.tmdb.org/t/p/w500/zzkOh8IThqXSGyaEbuliymqF8Hi.jpg",
+    "overview": "Yosemite Sam the pirate finds a treasure chest which belongs to Bugs Bunny. Bugs is determined to get it back, and boards Sam's ship to battle wits with Pirate Sam.",
+    "releaseYear": "1997",
+    "releaseDate": "1997-11-04"
+  },
+  {
+    "id": "tt0143127",
+    "imdbId": "tt0143127",
+    "tmdbId": 15805,
+    "type": "movie",
+    "title": "Batman & Mr. Freeze: SubZero",
+    "poster": "https://image.tmdb.org/t/p/w500/kjjz8mVNrwNUa9uz8IMnqS79rxj.jpg",
+    "overview": "When Mr. Freeze kidnaps Barbara Gordon, as an involuntary organ donor to save his dying wife, Batman and Robin must find her before the operation can begin.",
+    "releaseYear": "1998",
+    "releaseDate": "1998-02-11"
+  },
+  {
+    "id": "tt0170996",
+    "imdbId": "tt0170996",
+    "tmdbId": 4190,
+    "type": "series",
+    "title": "Pinky, Elmyra & The Brain",
+    "poster": "https://image.tmdb.org/t/p/w500/1B0DN2ri7klVzbKuP8VVSGpCgMx.jpg",
+    "overview": "The popular animated characters Pinky and the Brain continue to concoct schemes to rule the world while hiding out in the suburbs where they live with Elmyra, a hyperactive tot of Tiny Toon Adventures fame.",
+    "releaseYear": "1998",
+    "releaseDate": "1998-09-19"
+  },
+  {
+    "id": "tt0231237",
+    "imdbId": "tt0231237",
+    "tmdbId": 64202,
+    "type": "movie",
+    "title": "Batman Beyond: The Movie",
+    "poster": "https://image.tmdb.org/t/p/w500/8YgqCWC9Vf9732oa4uUcQRR38GC.jpg",
+    "overview": "Fuelled by remorse and vengeance, a high schooler named Terry McGinnis becomes the new Batman as he fights crime in the futuristic Neo-Gotham City.",
+    "releaseYear": "1999",
+    "releaseDate": "1999-01-10"
+  },
+  {
+    "id": "tt0147746",
+    "imdbId": "tt0147746",
+    "tmdbId": 513,
+    "type": "series",
+    "title": "Batman Beyond",
+    "poster": "https://image.tmdb.org/t/p/w500/rpbHPyhLstNd5qgtjaDMdPtyPeQ.jpg",
+    "overview": "As new villains overrun Gotham City of the future, the aging Bruce Wayne hangs up the cape of the once invincible Batman. But when troubled teenager Terry McGinnis stumbles upon the Dark Knight's secret, a new alliance is forged. And a triumphant new Batman is born.",
+    "releaseYear": "1999",
+    "releaseDate": "1999-01-10"
+  },
+  {
+    "id": "tt0218759",
+    "imdbId": "tt0218759",
+    "tmdbId": 15905,
+    "type": "series",
+    "title": "Detention",
+    "poster": "https://image.tmdb.org/t/p/w500/zdfBoUwTksKhd42eZ2ROdvfm6j5.jpg",
+    "overview": "A group of eight troubled 6th grade students from Benedict Arnold Middle School in Oak Forest who continually find themselves in detention. The kids are constantly trying to stay out of detention and out of trouble.",
+    "releaseYear": "1999",
+    "releaseDate": "1999-09-11"
+  },
+  {
+    "id": "tt0196931",
+    "imdbId": "tt0196931",
+    "tmdbId": 17681,
+    "type": "movie",
+    "title": "Scooby-Doo! and the Witch's Ghost",
+    "poster": "https://image.tmdb.org/t/p/w500/ljEEGImypBFGoXU7eZSTo4vE9nC.jpg",
+    "overview": "Scooby-Doo and the Mystery Gang visit Oakhaven, Massachusetts to seek strange goings on involving a famous horror novelist and his ancestor who is rumored to have been a witch.",
+    "releaseYear": "1999",
+    "releaseDate": "1999-10-05"
+  },
+  {
+    "id": "tt0164226",
+    "imdbId": "tt0164226",
+    "tmdbId": 73901,
+    "type": "movie",
+    "title": "Animaniacs: Wakko's Wish",
+    "poster": "https://image.tmdb.org/t/p/w500/lNVhFOzd939TlI9r1uKVZKrmKFn.jpg",
+    "overview": "The Warner Brothers (and the Warner Sister) go on a quest to find a fallen wishing star to help Dot with her illness. Unfortunately the rest of the town, including an evil king, also hear about the star and want to get to it first to have their own wishes come true. It's a race against time and it's up to the three zany siblings to get there first.",
+    "releaseYear": "1999",
+    "releaseDate": "1999-12-20"
+  },
+  {
+    "id": "tt6075386",
+    "imdbId": "tt6075386",
+    "tmdbId": 68698,
+    "type": "series",
+    "title": "Lobo",
+    "poster": "https://image.tmdb.org/t/p/w500/9BonwECHOPY5yyE6INgIbcenqMM.jpg",
+    "overview": "The many gory adventures of the Main Man Lobo, a galactic bounty hunter in this not-so-kid-friendly DCAU? Web Cartoon.",
+    "releaseYear": "2000",
+    "releaseDate": "2000-06-15"
+  },
+  {
+    "id": "tt0337763",
+    "imdbId": "tt0337763",
+    "tmdbId": 15185,
+    "type": "series",
+    "title": "Gotham Girls",
+    "poster": "https://image.tmdb.org/t/p/w500/nx5288muDMdOM5fNHEovKYEnDCo.jpg",
+    "overview": "A Flash animation series staring Harley Quinn, Poison Ivy, Batgirl, Catwoman and Zatanna in short stories about the daily lives of the characters.",
+    "releaseYear": "2000",
+    "releaseDate": "2000-07-27"
+  },
+  {
+    "id": "tt0248575",
+    "imdbId": "tt0248575",
+    "tmdbId": 89473,
+    "type": "movie",
+    "title": "Tweety's High Flying Adventure",
+    "poster": "https://image.tmdb.org/t/p/w500/aZH3zVisuVAg6Krx3V1i4JVo9rN.jpg",
+    "overview": "A full-length animated feature starring the little yellow bird. When Col. Rimfire announces at the Looney Club his belief that cats are the most intelligent animals, Granny, hoping to raise enough money to save a nearby children's park, makes a wager that her Tweety can fly around the world in 80 days, collecting the pawprints of 80 cats in the process. Sylvester, still hoping to make Tweety his personal snack, is incensed at the thought of some other cat getting the little bird first and vows to follow Tweety around the world and catch the canary himself.",
+    "releaseYear": "2000",
+    "releaseDate": "2000-09-12"
+  },
+  {
+    "id": "tt0247729",
+    "imdbId": "tt0247729",
+    "tmdbId": 1487,
+    "type": "series",
+    "title": "Static Shock",
+    "poster": "https://image.tmdb.org/t/p/w500/c4bMyE2SZv9B6rS0Anvlwej14R1.jpg",
+    "overview": "An ordinary inner-city kid gains extraordinary powers and becomes an urban legend as the first teenage African-American superhero.",
+    "releaseYear": "2000",
+    "releaseDate": "2000-09-23"
+  },
+  {
+    "id": "tt0209106",
+    "imdbId": "tt0209106",
+    "tmdbId": 197727,
+    "type": "movie",
+    "title": "Little Go Beep",
+    "poster": "https://image.tmdb.org/t/p/w500/fUtqravAgq4nAkyRZwQRPx7UWFw.jpg",
+    "overview": "Baby Wile E. Coyote is told by his father, Cage E., that he's not to speak until he catches a roadrunner...",
+    "releaseYear": "2000",
+    "releaseDate": "2000-11-05"
+  },
+  {
+    "id": "tt0233298",
+    "imdbId": "tt0233298",
+    "tmdbId": 16234,
+    "type": "movie",
+    "title": "Batman Beyond: Return of the Joker",
+    "poster": "https://image.tmdb.org/t/p/w500/cH8wZs5vzL6YwbZpC5qWEpEacQN.jpg",
+    "overview": "The Joker is back with a vengeance, and Neo-Gotham's Dark Knight, Terry McGinnis, needs answers as he stands alone to face the old Gotham's most infamous Clown Prince of Crime.",
+    "releaseYear": "2000",
+    "releaseDate": "2000-12-12"
+  },
+  {
+    "id": "tt0260662",
+    "imdbId": "tt0260662",
+    "tmdbId": 4508,
+    "type": "series",
+    "title": "The Zeta Project",
+    "poster": "https://image.tmdb.org/t/p/w500/pv3PAeb6H5OUUQradMTbK31JCn8.jpg",
+    "overview": "Follow the futuristic adventures of Zeta, a renegade government-designed robot, and Ro, his 15-year-old streetwise companion.",
+    "releaseYear": "2001",
+    "releaseDate": "2001-01-27"
+  },
+  {
+    "id": "tt0950505",
+    "imdbId": "tt0950505",
+    "tmdbId": 1038845,
+    "type": "movie",
+    "title": "Swaroop: Bovine Bliss",
+    "poster": "https://image.tmdb.org/t/p/w500/t6lFcP23WeWrtF8dfLsUBBG1OVz.jpg",
+    "overview": "A comedy pilot for the what could've been the first series starring Indian immigrants in America. Swaroop is a 10 year old kid, smart, resourceful and a good heart. In this episode, next door neighbor \"Steve\" wins a live cow in a poker game.",
+    "releaseYear": "2001",
+    "releaseDate": "2001-07-27"
+  },
+  {
+    "id": "tt0332240",
+    "imdbId": "tt0332240",
+    "tmdbId": 509944,
+    "type": "movie",
+    "title": "The Matwix",
+    "poster": "https://image.tmdb.org/t/p/w500/zYA0uZz56aRTX85H5iTvhzb51e0.jpg",
+    "overview": "A Looney Tunes parody of the iconic 1999 film The Matrix.",
+    "releaseYear": "2001",
+    "releaseDate": "2001-09-10"
+  },
+  {
+    "id": "tt0618170",
+    "imdbId": "tt0618170",
+    "tmdbId": 300386,
+    "type": "movie",
+    "title": "Justice League: Secret Origins",
+    "poster": "https://image.tmdb.org/t/p/w500/4pfH0wH9hDETB06Y62MITnjBkY9.jpg",
+    "overview": "When global catastrophe strikes, the World's Greatest Super Heroes answer the call to join Justice League. Justice League works together as a team to overcome a dangerous array of intersteller invaders and world conquering megalomaniacs.",
+    "releaseYear": "2001",
+    "releaseDate": "2001-11-17"
+  },
+  {
+    "id": "tt0275137",
+    "imdbId": "tt0275137",
+    "tmdbId": 1618,
+    "type": "series",
+    "title": "Justice League",
+    "poster": "https://image.tmdb.org/t/p/w500/caIAQIoM9NLZofT8fz8t47W1gYe.jpg",
+    "overview": "The long-awaited rebirth of the greatest superhero team of all time: Batman, Superman, Wonder Woman, The Flash, Hawkgirl, Green Lantern, and Martian Manhunter.",
+    "releaseYear": "2001",
+    "releaseDate": "2001-11-17"
+  },
+  {
+    "id": "tt0303151",
+    "imdbId": "tt0303151",
+    "tmdbId": 14787,
+    "type": "movie",
+    "title": "Tom and Jerry: The Magic Ring",
+    "poster": "https://image.tmdb.org/t/p/w500/fF6I48WGKktHfGYYSVKPTVildWE.jpg",
+    "overview": "The Oscar-winning cat-and-mouse twosome--Tom and Jerry--returns with another adventure. When Tom and Jerry's irrepressible curiosity gets the best of them, the mysterious magic ring that Tom guards with his life ends up stuck over Jerry's head. Now, Jerry must find a way to free himself of the ring while fleeing Tom, who wants to remove the ring any way he can! Find out if the pair can conjure up a solution in this fur-raising, madcap escapade.",
+    "releaseYear": "2002",
+    "releaseDate": "2002-03-12"
+  },
+  {
+    "id": "tt0353115",
+    "imdbId": "tt0353115",
+    "tmdbId": 288,
+    "type": "series",
+    "title": "¡Mucha Lucha!",
+    "poster": "https://image.tmdb.org/t/p/w500/w12B6di7moo2otX4X4y3y3gKagz.jpg",
+    "overview": "¡Mucha Lucha! is an American-Canadian animated television series created by Eddie Mort and Lili Chin. The show is set in a town centered around lucha libre and follows the adventures of three children, Rikochet, The Flea and Buena Girl, as they struggle through the Foremost World-Renowned International School of Lucha, where they study.",
+    "releaseYear": "2002",
+    "releaseDate": "2002-08-17"
+  },
+  {
+    "id": "tt0338580",
+    "imdbId": "tt0338580",
+    "tmdbId": 670,
+    "type": "series",
+    "title": "Baby Looney Tunes",
+    "poster": "https://image.tmdb.org/t/p/w500/l7SLxIuRdyrpIVWSEDBdtxCOSCI.jpg",
+    "overview": "The world's most beloved animated characters as precocious preschoolers, discovering the world one baby step at a time.",
+    "releaseYear": "2002",
+    "releaseDate": "2002-09-07"
+  },
+  {
+    "id": "tt0306371",
+    "imdbId": "tt0306371",
+    "tmdbId": 4684,
+    "type": "series",
+    "title": "Ozzy & Drix",
+    "poster": "https://image.tmdb.org/t/p/w500/55Fo6toGvICYq8NTrluBkMPmYWc.jpg",
+    "overview": "Ozzy & Drix, also known as The Fantastic Voyage Adventures of Osmosis Jones & Drixenol and Osmosis Jones: The Animated Series, is an American animated television series based on the Warner Bros. film Osmosis Jones and it was produced by Warner Bros. Animation. It takes place inside the body of teenager Hector Cruz. The series premiered on September 14, 2002 on the Kids' WB; the final episode aired July 5, 2004. Unlike the original movie it spun off from, Ozzy & Drix was entirely animated and contained no live action. It stars Phil LaMarr as the replacement for Chris Rock as Osmosis Jones, and Jeff Bennett as the replacement for David Hyde Pierce as Drix. As of July 2011, episodes of the series are still available via the Kids WB website. The show also aired on Teletoon in Canada. The show is also slightly less violent than the movie, having the characters treated like people rather than simply cells, and having none of them killed off, unlike the movie where Thrax managed to kill off several cells. There are also new characters that replace the ones from the original movie such as Maria Amino replacing Leah Estrogen, Mayor Spryman replacing Mayor Phlegmming, Sylvian Fischer replacing Tom Colonic, Chief Gluteus replacing The Chief of Police, The Mole replacing Chill the Flu Shot and Scarlet Fever replacing Thrax.",
+    "releaseYear": "2002",
+    "releaseDate": "2002-09-14"
+  },
+  {
+    "id": "tt0306274",
+    "imdbId": "tt0306274",
+    "tmdbId": 652,
+    "type": "series",
+    "title": "What's New, Scooby-Doo?",
+    "poster": "https://image.tmdb.org/t/p/w500/qP3DZrKLSPe5WR2N066BIfB2dIq.jpg",
+    "overview": "Scooby-Doo and the Mystery, Inc. gang are launched into the 21st century, with new mysteries to solve.",
+    "releaseYear": "2002",
+    "releaseDate": "2002-09-14"
+  },
+  {
+    "id": "tt7728568",
+    "imdbId": "tt7728568",
+    "tmdbId": 1167834,
+    "type": "movie",
+    "title": "Twick or Tweety",
+    "poster": "https://image.tmdb.org/t/p/w500/pve6DBzy8Qm0itmGIvlbsklEoPV.jpg",
+    "overview": "Sylvester finally ate Tweety at Halloween night, but there are nightmares that haunt him.",
+    "releaseYear": "2002",
+    "releaseDate": "2002-10-31"
+  },
+  {
+    "id": "tt0338684",
+    "imdbId": "tt0338684",
+    "tmdbId": 612,
+    "type": "series",
+    "title": "3-South",
+    "poster": "https://image.tmdb.org/t/p/w500/vKNkhgpoC1KkW92ZQaXetijN6g2.jpg",
+    "overview": "3 South is an American animated series that aired on MTV. The show focused on two lifelong friends, Sanford and Del, and their adventures at the fictional Barder College. With the exception of their roommate Joe, nearly everyone at Barder is stupid and inept. Nonetheless, the idiotic, irresponsible, and thoughtless Sanford and Del are portrayed as the series' heroes, whereas the responsible, intelligent Joe is the de facto villain in most episodes.\n\nThe series was created by Family Guy veteran writers Mark Hentemann and Steve Callaghan, based on a short film they had created years earlier. It is to-date the only animated series produced for MTV by Warner Bros. Animation.\n\nThe show's theme song is The Flaming Lips' song \"Fight Test\" from the album Yoshimi Battles the Pink Robots.",
+    "releaseYear": "2002",
+    "releaseDate": "2002-11-07"
+  },
+  {
+    "id": "tt0381896",
+    "imdbId": "tt0381896",
+    "tmdbId": 422907,
+    "type": "movie",
+    "title": "Baby Looney Tunes: Eggs-traordinary Adventure",
+    "poster": "https://image.tmdb.org/t/p/w500/xWRYLEQYVwhkVMJ0yFaPHGIor7B.jpg",
+    "overview": "The Baby Looney Tunes characters go on a search for the true meaning of Easter.",
+    "releaseYear": "2003",
+    "releaseDate": "2003-02-11"
+  },
+  {
+    "id": "tt0357139",
+    "imdbId": "tt0357139",
+    "tmdbId": 30074,
+    "type": "movie",
+    "title": "Scooby-Doo! and the Legend of the Vampire",
+    "poster": "https://image.tmdb.org/t/p/w500/x8GJ7evV6YBISijuBuGLQjvckYA.jpg",
+    "overview": "The Yowie Yahoo starts kidnapping musicians at a concert attended by Scooby and the gang in Vampire Rock, Australia.",
+    "releaseYear": "2003",
+    "releaseDate": "2003-03-04"
+  },
+  {
+    "id": "tt6105116",
+    "imdbId": "tt6105116",
+    "tmdbId": 77757,
+    "type": "series",
+    "title": "Cartoon Monsoon",
+    "poster": "https://image.tmdb.org/t/p/w500/qUpCtMePBQUleIIFgk6jzTJHSdK.jpg",
+    "overview": "A anthology collection of cartoons made by animators from 2003 to 2004.",
+    "releaseYear": "2003",
+    "releaseDate": "2003-03-04"
+  },
+  {
+    "id": "tt0343314",
+    "imdbId": "tt0343314",
+    "tmdbId": 604,
+    "type": "series",
+    "title": "Teen Titans",
+    "poster": "https://image.tmdb.org/t/p/w500/7DCq6XbJx5WGKPvSMBxYK9uJQWQ.jpg",
+    "overview": "Fighting for truth, justice and the last slice of pizza, these five superheroes are living proof you're never too young to save the planet. Protecting Earth and beyond, the Teen Titans use martial arts and gadgetry to battle villains.",
+    "releaseYear": "2003",
+    "releaseDate": "2003-07-19"
+  },
+  {
+    "id": "tt0376390",
+    "imdbId": "tt0376390",
+    "tmdbId": 216,
+    "type": "series",
+    "title": "Duck Dodgers",
+    "poster": "https://image.tmdb.org/t/p/w500/d2PpdUKSTHSLsnlkScMyHkAxC2i.jpg",
+    "overview": "Duck Dodgers battles evil in the 24th century.",
+    "releaseYear": "2003",
+    "releaseDate": "2003-08-23"
+  },
+  {
+    "id": "tt0369903",
+    "imdbId": "tt0369903",
+    "tmdbId": 21956,
+    "type": "movie",
+    "title": "Scooby-Doo! and the Monster of Mexico",
+    "poster": "https://image.tmdb.org/t/p/w500/fv4e6pGhl4fDUdRt2WIDLDgEq7e.jpg",
+    "overview": "A friend of Fred's, Alejo Otero, invites the Scooby gang to Veracruz, Mexico. There they find a monster, El Chupacabra, terrorizing the town.",
+    "releaseYear": "2003",
+    "releaseDate": "2003-09-30"
+  },
+  {
+    "id": "tmdb_1153102",
+    "imdbId": null,
+    "tmdbId": 1153102,
+    "type": "movie",
+    "title": "Circus Peanut & Elephant Ears: Lunchtime for Leo",
+    "poster": "https://image.tmdb.org/t/p/w500/xGZa4AR57BzucSKb2bh4pcDaCzt.jpg",
+    "overview": "Carl and Francis are definitely the circus acts.",
+    "releaseYear": "2003",
+    "releaseDate": "2003-10-13"
+  },
+  {
+    "id": "tt0982860",
+    "imdbId": "tt0982860",
+    "tmdbId": 106583,
+    "type": "movie",
+    "title": "Chase Me",
+    "poster": "https://image.tmdb.org/t/p/w500/1FPibtTI3OpFVwQxnKvvubgh608.jpg",
+    "overview": "While escaping a dull party, Bruce Wayne finds Catwoman robbing a vault and gives her the chase of her life as Batman.",
+    "releaseYear": "2003",
+    "releaseDate": "2003-10-21"
+  },
+  {
+    "id": "tt0346578",
+    "imdbId": "tt0346578",
+    "tmdbId": 21683,
+    "type": "movie",
+    "title": "Batman: Mystery of the Batwoman",
+    "poster": "https://image.tmdb.org/t/p/w500/mlmhpUArJdpRPO211v3lETe3uzg.jpg",
+    "overview": "As if the Penguin wasn't enough to contend with, a new vigilante has surfaced in Gotham City, and her strong-arm tactics give Batman cause for concern. Being the World's Greatest Detective and The Dark Knight, he sets out to uncover her identity while stopping a dangerous criminal plot.",
+    "releaseYear": "2003",
+    "releaseDate": "2003-10-21"
+  },
+  {
+    "id": "tt0356197",
+    "imdbId": "tt0356197",
+    "tmdbId": 161773,
+    "type": "movie",
+    "title": "The Whizzard of Ow",
+    "poster": "https://image.tmdb.org/t/p/w500/mTk2HCNRqHPuHg87ETUpB4oRXZc.jpg",
+    "overview": "Wile E. Coyote is chasing the Road Runner (still) and comes across the Acme Book of Magic. With the power to levitate heavy boulders, fly on broomsticks, and transfigure anything to suit his need, it seems like Wile E. finally has a chance at getting his breakfast... but then again, this is Wile E. Coyote we're talking about.",
+    "releaseYear": "2003",
+    "releaseDate": "2003-11-01"
+  },
+  {
+    "id": "tt0378403",
+    "imdbId": "tt0378403",
+    "tmdbId": 140692,
+    "type": "movie",
+    "title": "Museum Scream",
+    "poster": "https://image.tmdb.org/t/p/w500/AnqQYGrZReNr1d7msnH5UcjOFzh.jpg",
+    "overview": "When Sylvester hears that a children's museum's prize exhibit is Tweety Pie, he tires to raid the museum in order to have lunch. He doesn't succeed in his mission, due to Tweety's smartness, and the children.",
+    "releaseYear": "2003",
+    "releaseDate": "2003-11-14"
+  },
+  {
+    "id": "tt0377664",
+    "imdbId": "tt0377664",
+    "tmdbId": 197232,
+    "type": "movie",
+    "title": "Cock-a-Doodle-Duel",
+    "poster": "https://image.tmdb.org/t/p/w500/jJyMEwCS8BH8ad8QfZYu32Alk19.jpg",
+    "overview": "Foghorn Leghorn's dominance over the chicken coop is threatened by a younger, sexier rooster.",
+    "releaseYear": "2004",
+    "releaseDate": "2004-03-30"
+  },
+  {
+    "id": "tt0382067",
+    "imdbId": "tt0382067",
+    "tmdbId": 197231,
+    "type": "movie",
+    "title": "Hare and Loathing in Las Vegas",
+    "poster": "https://image.tmdb.org/t/p/w500/2XzdyUBtTAOrFPHsvXjR5cjVt1Z.jpg",
+    "overview": "Bugs can't seem to lose at Sam's casino. Then Sam realizes that Bugs has been cheating -- he has rabbit's feet.",
+    "releaseYear": "2004",
+    "releaseDate": "2004-03-30"
+  },
+  {
+    "id": "tt0381437",
+    "imdbId": "tt0381437",
+    "tmdbId": 197225,
+    "type": "movie",
+    "title": "My Generation G... G... Gap",
+    "poster": "https://image.tmdb.org/t/p/w500/7zKkO0BUEvqOIhyqXuejuoOzVvk.jpg",
+    "overview": "We see Porky Pig taking his teenage daughter (Peta Pig) to a rock concert. When he realises just how wild the concert is, he will stop at nothing to get inside.",
+    "releaseYear": "2004",
+    "releaseDate": "2004-03-30"
+  },
+  {
+    "id": "tt0418141",
+    "imdbId": "tt0418141",
+    "tmdbId": 12902,
+    "type": "movie",
+    "title": "Scooby-Doo! and the Loch Ness Monster",
+    "poster": "https://image.tmdb.org/t/p/w500/hmeJnofknkSnczzN3J7Wvfn7OGI.jpg",
+    "overview": "While the gang travel to Scotland to visit Daphne's cousin and witness the annual Highland Games, they find themselves terrorized by the legendary Loch Ness Monster.",
+    "releaseYear": "2004",
+    "releaseDate": "2004-05-20"
+  },
+  {
+    "id": "tt0379267",
+    "imdbId": "tt0379267",
+    "tmdbId": 197233,
+    "type": "movie",
+    "title": "Duck Dodgers in Attack of the Drones",
+    "poster": "https://image.tmdb.org/t/p/w500/viOLnuLcK14AP3RUzfjdckhWlw8.jpg",
+    "overview": "With a hostile group of ravenous alien monsters threatening the Earth, Duck Dodgers creates robotic copies to stop them. The robots rebel, though, and Dodgers has to figure out a way to stop them.",
+    "releaseYear": "2004",
+    "releaseDate": "2004-05-25"
+  },
+  {
+    "id": "tt4608596",
+    "imdbId": "tt4608596",
+    "tmdbId": 268899,
+    "type": "movie",
+    "title": "Justice League: Starcrossed - The Movie",
+    "poster": "https://image.tmdb.org/t/p/w500/4euOQztpRoN4vJyH0wwjBCydecb.jpg",
+    "overview": "When the Thanagarians visit Earth, Hawkgirl is forced to choose between loyalty to her people and love for her friends on her adopted planet Earth.",
+    "releaseYear": "2004",
+    "releaseDate": "2004-07-13"
+  },
+  {
+    "id": "tt6025022",
+    "imdbId": "tt6025022",
+    "tmdbId": 84200,
+    "type": "series",
+    "title": "Justice League Unlimited",
+    "poster": "https://image.tmdb.org/t/p/w500/vRRvCUREeqqnp3hHdqep83eQjdP.jpg",
+    "overview": "The galaxy's most powerful superheroes return to battle the allied villains and criminal plots that endanger the universe.",
+    "releaseYear": "2004",
+    "releaseDate": "2004-07-31"
+  },
+  {
+    "id": "tt0398417",
+    "imdbId": "tt0398417",
+    "tmdbId": 2022,
+    "type": "series",
+    "title": "The Batman",
+    "poster": "https://image.tmdb.org/t/p/w500/3w7koeOR2x71XYMJDGpygxYtScI.jpg",
+    "overview": "A young billionaire Bruce Wayne fights crime and evil as the mysterious vigilante, The Batman.",
+    "releaseYear": "2004",
+    "releaseDate": "2004-09-11"
+  },
+  {
+    "id": "tt0446307",
+    "imdbId": "tt0446307",
+    "tmdbId": 73450,
+    "type": "movie",
+    "title": "Daffy Duck for President",
+    "poster": "https://image.tmdb.org/t/p/w500/cYZGwB3HdGFL9EGGr3nPx1ZUySr.jpg",
+    "overview": "Daffy Duck tries to go into the government to make a law stating that Rabbit Season shall be a minimum of 12 months, while Bugs tries to stop him by means of the U.S. constitution.",
+    "releaseYear": "2004",
+    "releaseDate": "2004-11-01"
+  },
+  {
+    "id": "tt0459425",
+    "imdbId": "tt0459425",
+    "tmdbId": 56739,
+    "type": "movie",
+    "title": "Kangaroo Jack: G'Day, U.S.A.!",
+    "poster": "https://image.tmdb.org/t/p/w500/symgTIQL4SGN0fLXNSAGkrHkvRa.jpg",
+    "overview": "Kangaroo Jack is back but this time he's animated! Three Teenagers go to the Outback, and find themselves back in Vegas - trying to get Jack home!",
+    "releaseYear": "2004",
+    "releaseDate": "2004-11-16"
+  },
+  {
+    "id": "tt0443590",
+    "imdbId": "tt0443590",
+    "tmdbId": 410547,
+    "type": "movie",
+    "title": "Mucha Lucha: The Return of El Malefico",
+    "poster": "https://image.tmdb.org/t/p/w500/5rKLz9X8ZOT6CJtf4jNpWYSVNPK.jpg",
+    "overview": "The hit TV series boldy goes bigger in an action-packed comedy/adventure starring everyone's favorite luchadoras! When the greatest evil the world has ever knows -El Malefico -surfaces from the dark recesses of Earth, it's up to Rikochet, Buena Girl & The Flea to mask-wrestle him back! Their challenge begins with a quest around the globe for the artifacts of bueno-ness & ends in Las Vegas",
+    "releaseYear": "2005",
+    "releaseDate": "2005-01-04"
+  },
+  {
+    "id": "tt0433696",
+    "imdbId": "tt0433696",
+    "tmdbId": 21078,
+    "type": "movie",
+    "title": "Tom and Jerry Blast Off to Mars!",
+    "poster": "https://image.tmdb.org/t/p/w500/oxVDcmStxKn4ChxdzfuCOLZiE9W.jpg",
+    "overview": "While carrying on their usual hi-jinks, they inadvertantly stow-away on a spaceship bound for Mars. They meet up with the local Martian residents and cause them to invade the Earth, aided by the \"Invincitron\", a vacuum-wielding giant robot. Tom, Jerry and their Martian ally, Peep, save the day.",
+    "releaseYear": "2005",
+    "releaseDate": "2005-01-18"
+  },
+  {
+    "id": "tt0433771",
+    "imdbId": "tt0433771",
+    "tmdbId": 24615,
+    "type": "movie",
+    "title": "Aloha Scooby-Doo!",
+    "poster": "https://image.tmdb.org/t/p/w500/26BP556PvenFfypUp10aFFMpQSV.jpg",
+    "overview": "The Mystery Gang goes to Hawaii for the Big Kahuna of Hanahuna Surfing Contest. However, the gang and the locals find the island invaded by the vengeful Wiki Tiki spirit and his demons.",
+    "releaseYear": "2005",
+    "releaseDate": "2005-02-08"
+  },
+  {
+    "id": "tt0437018",
+    "imdbId": "tt0437018",
+    "tmdbId": 1453,
+    "type": "series",
+    "title": "Krypto the Superdog",
+    "poster": "https://image.tmdb.org/t/p/w500/xEs98CDgA6xKeUct9Z1ZPrdWsVg.jpg",
+    "overview": "Krypto, the Superdog, chronicles the comedic canine adventures of Metropolis' day-saving superdog from Planet Krypton. Krypto jettisons to Earth after traveling across the galaxies as a test-pilot puppy aboard a malfunctioning rocket ship built by Superman's father. Landing astray on unfamiliar terrain, the fully-grown Krypto swiftly seeks out companionship on Earth and flips over Kevin Whitney, a young boy who too longs for friendship. With an amazing array of super hero powers, ranging from heat vision to super strength to flying, Krypto partners with best pal Kevin to fight evil forces that threaten the safety and well-being of the people and animals of Metropolis.",
+    "releaseYear": "2005",
+    "releaseDate": "2005-03-25"
+  },
+  {
+    "id": "tt0480461",
+    "imdbId": "tt0480461",
+    "tmdbId": 20558,
+    "type": "movie",
+    "title": "Scooby-Doo! in Where's My Mummy?",
+    "poster": "https://image.tmdb.org/t/p/w500/w9CpKZmgDfQvHe8WzFsvxxKCNyc.jpg",
+    "overview": "Scooby-Doo and the Mystery Inc. gang become involved in a supernatural mystery in Egypt.",
+    "releaseYear": "2005",
+    "releaseDate": "2005-05-13"
+  },
+  {
+    "id": "tt0487176",
+    "imdbId": "tt0487176",
+    "tmdbId": 42246,
+    "type": "movie",
+    "title": "Tom and Jerry: The Fast and the Furry",
+    "poster": "https://image.tmdb.org/t/p/w500/4pQhh5bU1KcUeXqPOteWsCkNZPK.jpg",
+    "overview": "After being evicted from their old house by Tom's owner for causing major damage, cat and mouse Tom and Jerry enter a race entitled the \"Fabulous Super Race\" to win a mansion.",
+    "releaseYear": "2005",
+    "releaseDate": "2005-09-03"
+  },
+  {
+    "id": "tt0480232",
+    "imdbId": "tt0480232",
+    "tmdbId": 10379,
+    "type": "series",
+    "title": "Coconut Fred's Fruit Salad Island",
+    "poster": "https://image.tmdb.org/t/p/w500/xBfZxGJISNXszVZQHI1Z6MbecN7.jpg",
+    "overview": "Coconut Fred's Fruit Salad Island! is a Saturday morning children's show that aired on Kids' WB in the United States, from September 17, 2005 to May 27, 2006. The show was produced by Warner Bros. Animation.\n\nCoconut Fred's Fruit Salad Island takes place on an island inhabited exclusively by fruit. The residents enjoy their own tropical paradise without a care in the world; they must share their peaceful utopia with the joyfully strange Coconut Fred, a whimsical, blissfully foolish coconut with the special ability to materialize anything he thinks about. The plot revolves around the adventures of Fred and his friends, as his boundless imagination springs to life while his friends struggle to cover up the collateral.",
+    "releaseYear": "2005",
+    "releaseDate": "2005-09-17"
+  },
+  {
+    "id": "tt0476918",
+    "imdbId": "tt0476918",
+    "tmdbId": 1977,
+    "type": "series",
+    "title": "Loonatics Unleashed",
+    "poster": "https://image.tmdb.org/t/p/w500/oHGY83FvCpMqBGjftalcBzI6tIx.jpg",
+    "overview": "Ace Bunny, Tech E. Coyote, Danger Duck, and friends are transformed into superheroes when a meteor hits the planet 700 years in the future. Now they spend their time making jokes while blasting monsters and asteroids with “neutron cannons” and whatever other weapons they have at hand.",
+    "releaseYear": "2005",
+    "releaseDate": "2005-09-17"
+  },
+  {
+    "id": "tt0454349",
+    "imdbId": "tt0454349",
+    "tmdbId": 1769,
+    "type": "series",
+    "title": "Johnny Test",
+    "poster": "https://image.tmdb.org/t/p/w500/cGceNrHpUl3utUzE502xSY8l9ST.jpg",
+    "overview": "Young Johnny is gung-ho and full of courage. Johnny's brainiac twin sisters, Susan and Mary, use Johnny as their guinea pig for their outrageous scientific experiments. If they can dream it up, Johnny will do it; as long as his genetically engineered super dog, Dukey, can come along.",
+    "releaseYear": "2005",
+    "releaseDate": "2005-09-17"
+  },
+  {
+    "id": "tt0482053",
+    "imdbId": "tt0482053",
+    "tmdbId": 69115,
+    "type": "movie",
+    "title": "The Karate Guard",
+    "poster": "https://image.tmdb.org/t/p/w500/6dAuo4eUh4BFDVcuG9RC2PLoTrj.jpg",
+    "overview": "Jerry's spiritual mentor appears and gives Jerry a gong to ring that summons a \"Karate Guard\" named Momo-sumo (played by Spike) to aid him whenever he needs help.",
+    "releaseYear": "2005",
+    "releaseDate": "2005-09-27"
+  },
+  {
+    "id": "tt0472219",
+    "imdbId": "tt0472219",
+    "tmdbId": 20077,
+    "type": "movie",
+    "title": "The Batman vs. Dracula",
+    "poster": "https://image.tmdb.org/t/p/w500/8uKIqZBXfxhflenI2LkNZIHUp7I.jpg",
+    "overview": "Gotham City is terrorized not only by recent escapees Joker and Penguin, but by the original creature of the night, Dracula! Can Batman stop the ruthless vampire before he turns everyone in the city, including The Caped Crusader, Joker and Penguin, into his mindless minions?",
+    "releaseYear": "2005",
+    "releaseDate": "2005-10-18"
+  },
+  {
+    "id": "tt0800226",
+    "imdbId": "tt0800226",
+    "tmdbId": 19323,
+    "type": "movie",
+    "title": "Superman: Brainiac Attacks",
+    "poster": "https://image.tmdb.org/t/p/w500/dMvchkFOI9teuajed3ewuwTYgI.jpg",
+    "overview": "Embittered by Superman's heroic successes and soaring popularity, Lex Luthor forms a dangerous alliance with the powerful computer/villain Brainiac. Using advanced weaponry and a special strain of Kryptonite harvested from the far reaches of outer space, Luthor specifically redesigns Brainiac to defeat the Man of Steel.",
+    "releaseYear": "2006",
+    "releaseDate": "2006-06-20"
+  },
+  {
+    "id": "tt0808508",
+    "imdbId": "tt0808508",
+    "tmdbId": 60293,
+    "type": "movie",
+    "title": "Tom and Jerry: Shiver Me Whiskers",
+    "poster": "https://image.tmdb.org/t/p/w500/8kJT2PQXBdLvT7jimzgxQFWXPBK.jpg",
+    "overview": "Dueling cat-and-mouse team Tom and Jerry hit the high seas on a hunt for buried treasure in this pirate adventure. The tale begins when crew member Tom sets sail with an infamous pirate and finds a treasure map along with stowaway Jerry. The furry swashbucklers race to a deserted island where X marks the spot, but along with battling each other, they must outwit ruthless buccaneers, angry monkeys and a giant octopus to strike it rich.",
+    "releaseYear": "2006",
+    "releaseDate": "2006-08-21"
+  },
+  {
+    "id": "tt0867418",
+    "imdbId": "tt0867418",
+    "tmdbId": 13355,
+    "type": "movie",
+    "title": "Scooby-Doo! Pirates Ahoy!",
+    "poster": "https://image.tmdb.org/t/p/w500/t1xNRp1oqPAKxPJgJ1F90jvHMGr.jpg",
+    "overview": "It's horror on the high seas when Scooby-Doo and the gang take a creepy cruise into one of the world's most mysterious places, the Bermuda Triangle! If Scooby, Shaggy and the gang can't solve this mystery, they may have to walk the plank.",
+    "releaseYear": "2006",
+    "releaseDate": "2006-09-10"
+  },
+  {
+    "id": "tt0816671",
+    "imdbId": "tt0816671",
+    "tmdbId": 16237,
+    "type": "movie",
+    "title": "Teen Titans: Trouble in Tokyo",
+    "poster": "https://image.tmdb.org/t/p/w500/4wMlDE1HzkVyYeDKuY1oDOWQlN2.jpg",
+    "overview": "After a battle with a high-tech villain named, Saiko-Tek, the Teen Titans travel to the city of Tokyo where they find themselves embroiled in a conflict with an ancient enemy.",
+    "releaseYear": "2006",
+    "releaseDate": "2006-09-15"
+  },
+  {
     "id": "tt0775372",
     "imdbId": "tt0775372",
     "tmdbId": 4028,
@@ -9,6 +1076,105 @@ module.exports = [
     "overview": "The series centers on a young Superman's adventures in the 31st century, fighting alongside a group of futuristic superheroes known as the Legion of Super-Heroes.",
     "releaseYear": "2006",
     "releaseDate": "2006-09-23"
+  },
+  {
+    "id": "tt0780438",
+    "imdbId": "tt0780438",
+    "tmdbId": 676,
+    "type": "series",
+    "title": "Tom and Jerry Tales",
+    "poster": "https://image.tmdb.org/t/p/w500/xUASqzq5b3xAeI7iwjtE7pcvx5F.jpg",
+    "overview": "Tom and Jerry Tales is an American animated television series featuring the cat-and-mouse duo Tom and Jerry.",
+    "releaseYear": "2006",
+    "releaseDate": "2006-09-23"
+  },
+  {
+    "id": "tt0850642",
+    "imdbId": "tt0850642",
+    "tmdbId": 593,
+    "type": "series",
+    "title": "Shaggy & Scooby-Doo Get a Clue!",
+    "poster": "https://image.tmdb.org/t/p/w500/5pGwh9BKmw6Ciy5EvXqm9aKPZWT.jpg",
+    "overview": "When Shaggy's rich Uncle Albert goes missing and is presumed dead, Shaggy receives an inheritance, which he uses to upgrade the Mystery Machine so it can transform itself into other types of vehicles. Before disappearing, Uncle Albert made some enemies and it is up to Shaggy and his trusty canine, Scooby-Doo, to defeat those enemies, the most dangerous of whom is evil Dr. Phineas Phibes. Armed with the upgraded Mystery Machine, a loyal robot servant and their new riches, Shaggy and Scooby must stop Dr. Phibes' evil plans and save the world.",
+    "releaseYear": "2006",
+    "releaseDate": "2006-09-23"
+  },
+  {
+    "id": "tt0896522",
+    "imdbId": "tt0896522",
+    "tmdbId": 13248,
+    "type": "movie",
+    "title": "Bah, Humduck!: A Looney Tunes Christmas",
+    "poster": "https://image.tmdb.org/t/p/w500/f568JOtSlQoevRIDBKK3YIkHbvd.jpg",
+    "overview": "In this adaptation of Charles Dickens' A Christmas Carol, Daffy Duck is the greedy proprietor of the Lucky Duck Mega-Mart and all he can think about is the money to be made during the holiday season.",
+    "releaseYear": "2006",
+    "releaseDate": "2006-11-14"
+  },
+  {
+    "id": "tt1097636",
+    "imdbId": "tt1097636",
+    "tmdbId": 13354,
+    "type": "movie",
+    "title": "Chill Out, Scooby-Doo!",
+    "poster": "https://image.tmdb.org/t/p/w500/n1SgvnX4SJ6gZEpDSQEbcmQOslJ.jpg",
+    "overview": "The gang's vacation to Paris takes a wrong turn when Scooby and Shaggy miss their flight and end up on a skydiving expedition in the Himalayas. To make matters worse, upon arrival they must outrun the Abominable Snowmonster.",
+    "releaseYear": "2007",
+    "releaseDate": "2007-08-31"
+  },
+  {
+    "id": "tt0934706",
+    "imdbId": "tt0934706",
+    "tmdbId": 13640,
+    "type": "movie",
+    "title": "Superman: Doomsday",
+    "poster": "https://image.tmdb.org/t/p/w500/itvuWm7DFWWzWgW0xgiaKzzWszP.jpg",
+    "overview": "When LexCorp accidentally unleashes a murderous creature, Superman meets his greatest challenge as a champion. Based on the \"The Death of Superman\" storyline that appeared in DC Comics' publications in the 1990s.",
+    "releaseYear": "2007",
+    "releaseDate": "2007-09-18"
+  },
+  {
+    "id": "tt1114698",
+    "imdbId": "tt1114698",
+    "tmdbId": 24696,
+    "type": "movie",
+    "title": "Tom and Jerry: A Nutcracker Tale",
+    "poster": "https://image.tmdb.org/t/p/w500/a9klAPAt6SdGuAyh4zMOveYXyg0.jpg",
+    "overview": "Christmas is never so spirited as when Tom and Jerry lock horns for the holidays in their new original movie--Tom & Jerry: A Nutcracker Tale In an empty opera house, Jerry wishes for a chance to perform -- and magically his dream comes true. The little mouse is whisked away to an enchanted kingdom where anything is possible: candy forests, singing snowflakes, even the toys spring to life! Jerry has a great time with his new friends, and when Jerry dances with the music box ballerina, he is as happy as happy can be. Unfortunately, alley cats led by Tom crash Jerry's party, kidnap the music box ballerina and wreak havoc in the holiday kingdom. It's up to Jerry to set things right -- and with help from a fellow mouse named Tuffy and more newfound friends, Jerry just may win the day!",
+    "releaseYear": "2007",
+    "releaseDate": "2007-10-02"
+  },
+  {
+    "id": "tt0902272",
+    "imdbId": "tt0902272",
+    "tmdbId": 14011,
+    "type": "movie",
+    "title": "Justice League: The New Frontier",
+    "poster": "https://image.tmdb.org/t/p/w500/bj25ueeYNkz4e5t8oMMaAOWmwOc.jpg",
+    "overview": "The human race is threatened by a powerful creature, and only the combined power of Superman, Batman, Wonder Woman, Green Lantern, Martian Manhunter and The Flash can stop it. But can they overcome their differences to thwart this enemy using the combined strength of their newly formed Justice League?",
+    "releaseYear": "2008",
+    "releaseDate": "2008-02-26"
+  },
+  {
+    "id": "tt1117563",
+    "imdbId": "tt1117563",
+    "tmdbId": 13851,
+    "type": "movie",
+    "title": "Batman: Gotham Knight",
+    "poster": "https://image.tmdb.org/t/p/w500/3i1o0sHBP0VUpuSVmkdCRKYoDBC.jpg",
+    "overview": "Six interlocking stories reveal Bruce Wayne's earliest adventures as Batman and the steps he took to become the grim avenger of Gotham City.",
+    "releaseYear": "2008",
+    "releaseDate": "2008-07-08"
+  },
+  {
+    "id": "tt1295021",
+    "imdbId": "tt1295021",
+    "tmdbId": 12903,
+    "type": "movie",
+    "title": "Scooby-Doo! and the Goblin King",
+    "poster": "https://image.tmdb.org/t/p/w500/jscb7MiWTYBjKlAb9TuNnFMSR81.jpg",
+    "overview": "Scooby-Doo and Shaggy must go into the underworld ruled by The Goblin King in order to stop a mortal named The Amazing Krudsky who wants power and is a threat to their pals: Fred, Velma, and Daphne.",
+    "releaseYear": "2008",
+    "releaseDate": "2008-09-23"
   },
   {
     "id": "tt1213218",
@@ -22,6 +1188,182 @@ module.exports = [
     "releaseDate": "2008-11-14"
   },
   {
+    "id": "tt1332026",
+    "imdbId": "tt1332026",
+    "tmdbId": 305355,
+    "type": "movie",
+    "title": "A Miser Brothers' Christmas",
+    "poster": "https://image.tmdb.org/t/p/w500/buaDjwed0PAJyte7detsLUuLdI5.jpg",
+    "overview": "Santa Claus and the mischievous brothers Heat Miser and Snow Miser are the targets of yuletide treachery when the North Wind tries to take Santa's place.",
+    "releaseYear": "2008",
+    "releaseDate": "2008-12-13"
+  },
+  {
+    "id": "tt1186373",
+    "imdbId": "tt1186373",
+    "tmdbId": 15359,
+    "type": "movie",
+    "title": "Wonder Woman",
+    "poster": "https://image.tmdb.org/t/p/w500/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg",
+    "overview": "On the mystical island of Themyscira, a proud and fierce warrior race of Amazons have raised a daughter of untold beauty, grace and strength: Princess Diana. When an Army fighter pilot, Steve Trevor, crash-lands on the island, the rebellious and headstrong Diana defies Amazonian law by accompanying Trevor back to civilization.",
+    "releaseYear": "2009",
+    "releaseDate": "2009-03-03"
+  },
+  {
+    "id": "tt1295071",
+    "imdbId": "tt1295071",
+    "tmdbId": 16440,
+    "type": "movie",
+    "title": "Tales of the Black Freighter",
+    "poster": "https://image.tmdb.org/t/p/w500/vpZNACLrZC7EeZc0iCpnCsewZEO.jpg",
+    "overview": "A mariner survives an attack from the dreaded pirates of the Black Freighter, but his struggle to return home to warn it has a horrific cost.",
+    "releaseYear": "2009",
+    "releaseDate": "2009-03-24"
+  },
+  {
+    "id": "tt1421378",
+    "imdbId": "tt1421378",
+    "tmdbId": 16390,
+    "type": "movie",
+    "title": "Scooby-Doo! and the Samurai Sword",
+    "poster": "https://image.tmdb.org/t/p/w500/qJ0UlWWrBn2fnAg4SifTJbDUuaf.jpg",
+    "overview": "The Mystery Inc. gang takes a trip to Japan and finds themselves circling Asia and the Pacific in a treasure hunt, racing against the vengeful Black Samurai and his Ninja warriors to find the legendary Sword of Fate, an ancientblade fabled to possess extraordinary supernaturalpowers.",
+    "releaseYear": "2009",
+    "releaseDate": "2009-04-07"
+  },
+  {
+    "id": "tt1384590",
+    "imdbId": "tt1384590",
+    "tmdbId": 17445,
+    "type": "movie",
+    "title": "Green Lantern: First Flight",
+    "poster": "https://image.tmdb.org/t/p/w500/ii48ohKJrDPyrGGOBVJ8XSxr5Xk.jpg",
+    "overview": "Test pilot Hal Jordan finds himself recruited as the newest member of the intergalactic police force, The Green Lantern Corps.",
+    "releaseYear": "2009",
+    "releaseDate": "2009-07-28"
+  },
+  {
+    "id": "tt0885513",
+    "imdbId": "tt0885513",
+    "tmdbId": 42520,
+    "type": "series",
+    "title": "Plastic Man",
+    "poster": "https://image.tmdb.org/t/p/w500/9oASV4eRlnd59rlO6BhOlkeqAqj.jpg",
+    "overview": "Warner Bros. Animation and Cartoon Network commissioned a Plastic Man television pilot episode \"Puddle Trouble\" in 2006. Produced by Andy Suriano and Tom Kenny, and designed and storyboarded by Stephen DeStefano. Tom Kenny also performed the voice of Plastic Man in the program. Cartoon Network decided not to pick up Plastic Man as a series and has never aired the episode. \"Puddle Trouble\" has been released on the Plastic Man: The Complete Collection DVD set.  In 2012, Andy Suriano and Tom Kenny would later collaborate, under the DC Nation label, to produce a micro-series successor to the unaired pilot.",
+    "releaseYear": "2009",
+    "releaseDate": "2009-09-01"
+  },
+  {
+    "id": "tt1398941",
+    "imdbId": "tt1398941",
+    "tmdbId": 22855,
+    "type": "movie",
+    "title": "Superman/Batman: Public Enemies",
+    "poster": "https://image.tmdb.org/t/p/w500/izvMc22ywSLFWUXZEIuJJ8dms75.jpg",
+    "overview": "United States President Lex Luthor uses the oncoming trajectory of a Kryptonite meteor to frame Superman and declare a $1 billion bounty on the heads of the Man of Steel and his ‘partner in crime’, Batman. Heroes and villains alike launch a relentless pursuit of Superman and Batman, who must unite—and recruit help—to try and stave off the action-packed onslaught, stop the meteor Luthors plot.",
+    "releaseYear": "2009",
+    "releaseDate": "2009-09-29"
+  },
+  {
+    "id": "tmdb_1019808",
+    "imdbId": null,
+    "tmdbId": 1019808,
+    "type": "movie",
+    "title": "Laff Riot",
+    "poster": "https://image.tmdb.org/t/p/w500/qkecNoF7FfOgAFf4EkWz30TFuqY.jpg",
+    "overview": "Pitch pilot for the scrapped Looney Tunes series.",
+    "releaseYear": "2010",
+    "releaseDate": "2010-01-01"
+  },
+  {
+    "id": "tt1599351",
+    "imdbId": "tt1599351",
+    "tmdbId": 32916,
+    "type": "movie",
+    "title": "Scooby-Doo! Abracadabra-Doo",
+    "poster": "https://image.tmdb.org/t/p/w500/1cKL7mZW5shP9r9TlTNQX4doMQN.jpg",
+    "overview": "The gang goes on a trip to check on Velma's younger sister, Madelyn. She's been studying stage magic at the Whirlen Merlin Magic Academy, where apparently there have been sightings of a giant griffin. The gang decides to investigate.",
+    "releaseYear": "2010",
+    "releaseDate": "2010-02-16"
+  },
+  {
+    "id": "tt1601188",
+    "imdbId": "tt1601188",
+    "tmdbId": 38180,
+    "type": "movie",
+    "title": "DC Showcase: The Spectre",
+    "poster": "https://image.tmdb.org/t/p/w500/mgHfhPVVyre2tN6ubG0Xa9RIl9Z.jpg",
+    "overview": "As Detective Jim Corrigan investigates a murder, The Spectre delivers horrific justice to the perpetrators.",
+    "releaseYear": "2010",
+    "releaseDate": "2010-02-23"
+  },
+  {
+    "id": "tt1494772",
+    "imdbId": "tt1494772",
+    "tmdbId": 30061,
+    "type": "movie",
+    "title": "Justice League: Crisis on Two Earths",
+    "poster": "https://image.tmdb.org/t/p/w500/tN2lodc5g7Fkkus6I6Ch2tNTgb5.jpg",
+    "overview": "A heroic version of Lex Luthor from an alternate universe appears to recruit the Justice League to help save his Earth from the Crime Syndicate, an evil version of the League. What ensues is the ultimate battle of good versus evil in a war that threatens both planets and, through a devious plan launched by Batman's counterpart Owlman, puts the balance of all existence in peril.",
+    "releaseYear": "2010",
+    "releaseDate": "2010-02-23"
+  },
+  {
+    "id": "tt1660055",
+    "imdbId": "tt1660055",
+    "tmdbId": 18123,
+    "type": "series",
+    "title": "Scooby-Doo! Mystery Incorporated",
+    "poster": "https://image.tmdb.org/t/p/w500/mu8zU2jQfPbGO5bC6RHYrSypxUd.jpg",
+    "overview": "This incarnation of the popular cartoon series finds Scooby and the gang living in Crystal Cove, a small town with a long history of ghost sightings, monster tales and other mysteries ripe for the sleuths to solve once and for all. But the longstanding Crystal Cove residents, who bank on the town's reputation to attract tourists, are prepared to do what it takes to protect their turf.",
+    "releaseYear": "2010",
+    "releaseDate": "2010-07-12"
+  },
+  {
+    "id": "tt1606600",
+    "imdbId": "tt1606600",
+    "tmdbId": 41988,
+    "type": "movie",
+    "title": "DC Showcase: Jonah Hex",
+    "poster": "https://image.tmdb.org/t/p/w500/8ihhhHxvC2SvdWPV9mmMDVXgcWo.jpg",
+    "overview": "When a ruthless brothel madame murders Jonah Hex's current quarry, the disfigured bounty hunter plans to make her pay.",
+    "releaseYear": "2010",
+    "releaseDate": "2010-07-27"
+  },
+  {
+    "id": "tt1569923",
+    "imdbId": "tt1569923",
+    "tmdbId": 40662,
+    "type": "movie",
+    "title": "Batman: Under the Red Hood",
+    "poster": "https://image.tmdb.org/t/p/w500/7lmHqHg1rG9b4U8MjuyQjmJ7Qm0.jpg",
+    "overview": "One part vigilante, one part criminal kingpin, Red Hood begins cleaning up Gotham with the efficiency of Batman, but without following the same ethical code.",
+    "releaseYear": "2010",
+    "releaseDate": "2010-07-27"
+  },
+  {
+    "id": "tt1675852",
+    "imdbId": "tt1675852",
+    "tmdbId": 48740,
+    "type": "movie",
+    "title": "Coyote Falls",
+    "poster": "https://image.tmdb.org/t/p/w500/76rz994icSRNHBZuAHmsRwVROsy.jpg",
+    "overview": "Wile E. Coyote has ordered an ACME bungee cord and has set up a birdseed trap under a highway bridge. It’s a \"foolproof\" plan that takes everything into consideration... except oncoming traffic.",
+    "releaseYear": "2010",
+    "releaseDate": "2010-07-30"
+  },
+  {
+    "id": "tt1722638",
+    "imdbId": "tt1722638",
+    "tmdbId": 43956,
+    "type": "movie",
+    "title": "Tom and Jerry Meet Sherlock Holmes",
+    "poster": "https://image.tmdb.org/t/p/w500/8YLgPSsiDrZMO4yxycMZNcdE5iW.jpg",
+    "overview": "Tom and Jerry need to learn to work together in order to help Sherlock Holmes with an investigation of a jewel theft. But still, they are cat and mouse!",
+    "releaseYear": "2010",
+    "releaseDate": "2010-08-24"
+  },
+  {
     "id": "tt1773355",
     "imdbId": "tt1773355",
     "tmdbId": 355142,
@@ -31,6 +1373,61 @@ module.exports = [
     "overview": "The Joker kidnaps Batman, Superman and the rest of the DC Super Friends and puts them against their worst enemies in their own secret base, the Hall of Justice.",
     "releaseYear": "2010",
     "releaseDate": "2010-08-26"
+  },
+  {
+    "id": "tt1718438",
+    "imdbId": "tt1718438",
+    "tmdbId": 33428,
+    "type": "series",
+    "title": "MAD",
+    "poster": "https://image.tmdb.org/t/p/w500/lpMdJzQUD0gXafoFo5L92DNg9QU.jpg",
+    "overview": "Mad is an American animated sketch comedy series created by Kevin Shinick and produced by Warner Bros. Animation. Based upon the magazine of the same name, each episode is a collection of short animated parodies of television shows, movies, games, celebrities, and other media using various types of animation instead of the usual animation style that Warner Bros. Animation is known for. The series premiered on the evening of September 6, 2010 on Cartoon Network. It has been described as a \"kid-friendly version of Robot Chicken\".",
+    "releaseYear": "2010",
+    "releaseDate": "2010-09-06"
+  },
+  {
+    "id": "tt1731767",
+    "imdbId": "tt1731767",
+    "tmdbId": 45752,
+    "type": "movie",
+    "title": "Scooby-Doo! Camp Scare",
+    "poster": "https://image.tmdb.org/t/p/w500/zurVOCpOLwLTBknYlgcXHWE0xvu.jpg",
+    "overview": "Scooby and the gang experience outdoor fun as they go back to Fred's old summer camp. As summer goes on, it becomes increasingly clear that the spooky camp stories told by the fireplace, are more real than they've though and soon, it's up to the gang to try and solve the mystery of camp scare.",
+    "releaseYear": "2010",
+    "releaseDate": "2010-09-14"
+  },
+  {
+    "id": "tt1714841",
+    "imdbId": "tt1714841",
+    "tmdbId": 48741,
+    "type": "movie",
+    "title": "Fur of Flying",
+    "poster": "https://image.tmdb.org/t/p/w500/fnBecUruOZTDaJyO5HvNY7CiH1t.jpg",
+    "overview": "Wile E. Coyote fashions himself a homemade helicopter helmet, utilizing an assortment of mail order products. Soaring through the sky and over the cliffs, it's a surefire way to catch the Road Runner... assuming he can avoid military testing grounds.",
+    "releaseYear": "2010",
+    "releaseDate": "2010-09-24"
+  },
+  {
+    "id": "tt1663633",
+    "imdbId": "tt1663633",
+    "tmdbId": 46718,
+    "type": "movie",
+    "title": "DC Showcase: Green Arrow",
+    "poster": "https://image.tmdb.org/t/p/w500/71ygTkiXFZ7r3xrSmyeyh0vUFoE.jpg",
+    "overview": "At an airport, the Emerald Archer must protect a young princess from assassins.",
+    "releaseYear": "2010",
+    "releaseDate": "2010-09-28"
+  },
+  {
+    "id": "tt1673430",
+    "imdbId": "tt1673430",
+    "tmdbId": 45162,
+    "type": "movie",
+    "title": "Superman/Batman: Apocalypse",
+    "poster": "https://image.tmdb.org/t/p/w500/3zZKtQAMcCWEq6EVh2mraJOAajY.jpg",
+    "overview": "Batman discovers a mysterious teen-aged girl with superhuman powers and a connection to Superman. When the girl comes to the attention of Darkseid, the evil overlord of Apokolips, events take a decidedly dangerous turn.",
+    "releaseYear": "2010",
+    "releaseDate": "2010-09-28"
   },
   {
     "id": "tt1701223",
@@ -55,6 +1452,39 @@ module.exports = [
     "releaseDate": "2010-11-26"
   },
   {
+    "id": "tt1714889",
+    "imdbId": "tt1714889",
+    "tmdbId": 60823,
+    "type": "movie",
+    "title": "Rabid Rider",
+    "poster": "https://image.tmdb.org/t/p/w500/geJboIqjTSVff8SorZjNHTuM7Pf.jpg",
+    "overview": "Road Runner and Wile E. Coyote are back! The lovable characters have transitioned to the third dimension in the new series of animated shorts being produced by Warner Brothers. Wile E. Coyote is up to his old tricks in newfangled stereoscopic 3D. Hilarity ensues as per usual, check out the crazy antics in Looney Tunes: Rabid Rider",
+    "releaseYear": "2010",
+    "releaseDate": "2010-12-17"
+  },
+  {
+    "id": "tt1699114",
+    "imdbId": "tt1699114",
+    "tmdbId": 56590,
+    "type": "movie",
+    "title": "All Star Superman",
+    "poster": "https://image.tmdb.org/t/p/w500/cfVEMf0JgFEIG5i4gKHVac0CA2y.jpg",
+    "overview": "Lex Luthor enacts his plan to rid the world of Superman, once and for all. Succeeding with solar radiation poisoning, the Man of Steel is slowly dying. With what little times remains, the Last Son of Krypton must confront the revealing of his secret identity to Lois Lane and face Luthor in a final battle.",
+    "releaseYear": "2011",
+    "releaseDate": "2011-01-01"
+  },
+  {
+    "id": "tt1726839",
+    "imdbId": "tt1726839",
+    "tmdbId": 32605,
+    "type": "series",
+    "title": "The Looney Tunes Show",
+    "poster": "https://image.tmdb.org/t/p/w500/bZWdejWhkgJmXjdQ70DjiJS7v7O.jpg",
+    "overview": "Bugs Bunny, Daffy Duck and the rest of the “Looney Tunes” characters are back with more adventures for a new generation of viewers. The animated series features roommates Bugs and Daffy moving out of the woods and into the suburbs, interacting with their neighbors, who happen to be other \"Looney Tunes\" favorites -- including Sylvester, Tweety, Porky Pig and Foghorn Leghorn.",
+    "releaseYear": "2011",
+    "releaseDate": "2011-05-03"
+  },
+  {
     "id": "tt1683043",
     "imdbId": "tt1683043",
     "tmdbId": 65291,
@@ -64,6 +1494,61 @@ module.exports = [
     "overview": "As the home planet of the Green Lantern Corps faces a battle with an ancient enemy, Hal Jordan prepares new recruit Arisia for the coming conflict by relating stories of the first Green Lantern and several of Hal's comrades.",
     "releaseYear": "2011",
     "releaseDate": "2011-06-07"
+  },
+  {
+    "id": "tt1666278",
+    "imdbId": "tt1666278",
+    "tmdbId": 38165,
+    "type": "series",
+    "title": "ThunderCats",
+    "poster": "https://image.tmdb.org/t/p/w500/9DRhh5eRLtg6lNBCahEfLtyE0Sp.jpg",
+    "overview": "The ThunderCats are on the move! After the kingdom of Thundera is attacked by the lizard people, Lion-O leads Tygra, Cheetara and the other heroes on a quest for the Book of Omens and the magic stones of legend. But he'll have to face villains like Mumm-Ra, the ancient evil sorceror, and Slithe, the dangerous lizard general. Luckily, he has the Sword of Omens and its amazing powers at his disposal.",
+    "releaseYear": "2011",
+    "releaseDate": "2011-07-29"
+  },
+  {
+    "id": "tt2027255",
+    "imdbId": "tt2027255",
+    "tmdbId": 72972,
+    "type": "movie",
+    "title": "Tom and Jerry & The Wizard of Oz",
+    "poster": "https://image.tmdb.org/t/p/w500/yGMytVwulyLuYuTTfuNxC7UKYm1.jpg",
+    "overview": "After a deadly storm, Tom and Jerry find themselves stranded on an unknown island ruled by the evil Wizard of Oz. As they try to find their way back home, they worry for their master Dorothy's safety.",
+    "releaseYear": "2011",
+    "releaseDate": "2011-08-13"
+  },
+  {
+    "id": "tt1777608",
+    "imdbId": "tt1777608",
+    "tmdbId": 67900,
+    "type": "movie",
+    "title": "Scooby-Doo! Legend of the Phantosaur",
+    "poster": "https://image.tmdb.org/t/p/w500/zER4fuEw6qlMkC3mBGcht0r2Iqw.jpg",
+    "overview": "A relaxing spa getaway evolves into a prehistoric panic when Scooby-Doo and the gang uncover the horrible Phantosaur, an ancient legend come to life to protect hidden treasures buried in secret desert caves. But this scare-a-saurus doesn’t stand a chance with Shaggy around, after he finds his inner hero with the help of new-age hypnosis. Like, it makes him more brave and less hungry!",
+    "releaseYear": "2011",
+    "releaseDate": "2011-09-03"
+  },
+  {
+    "id": "tt1672723",
+    "imdbId": "tt1672723",
+    "tmdbId": 69735,
+    "type": "movie",
+    "title": "Batman: Year One",
+    "poster": "https://image.tmdb.org/t/p/w500/mLZRhulJcDsxZWTdfx0trtk6y07.jpg",
+    "overview": "A wealthy playboy named Bruce Wayne and a Chicago cop named Jim Gordon both return to Gotham City where their lives unexpectedly intersect.",
+    "releaseYear": "2011",
+    "releaseDate": "2011-09-27"
+  },
+  {
+    "id": "tt1986806",
+    "imdbId": "tt1986806",
+    "tmdbId": 76420,
+    "type": "movie",
+    "title": "DC Showcase: Catwoman",
+    "poster": "https://image.tmdb.org/t/p/w500/pLImznZnHHZAEWnmL9pFbOLUcgr.jpg",
+    "overview": "Catwoman attempts to track down a mysterious cargo shipment that is linked to a Gotham City crime boss called Rough Cut.",
+    "releaseYear": "2011",
+    "releaseDate": "2011-10-18"
   },
   {
     "id": "tt2263761",
@@ -99,6 +1584,50 @@ module.exports = [
     "releaseDate": "2011-11-11"
   },
   {
+    "id": "tt2116900",
+    "imdbId": "tt2116900",
+    "tmdbId": 113736,
+    "type": "movie",
+    "title": "I Tawt I Taw a Puddy Tat",
+    "poster": "https://image.tmdb.org/t/p/w500/8VdVBJY7sMZZtajSnQUE734ck4J.jpg",
+    "overview": "In 1950, Mel Blanc recorded some novelty songs for Capitol Records in the voices of his characters he did for Warner Bros. Cartoons. Now, his voices from one of those records, with a new arrangement based on the originals by Billy May, are in this new computer animated short in order to illustrate the characterizations of Tweety and Sylvester in all their violent glory!",
+    "releaseYear": "2011",
+    "releaseDate": "2011-11-17"
+  },
+  {
+    "id": "tt2332565",
+    "imdbId": "tt2332565",
+    "tmdbId": 1474706,
+    "type": "movie",
+    "title": "Snarf: Butterfly Blues",
+    "poster": "https://image.tmdb.org/t/p/w500/kObmZc00Q4NFh9SbNEOQeMkmUbn.jpg",
+    "overview": "Snarf is in charge of watching Baby Lion-O. When a butterfly catches Baby Lion-O's attention, he follows it through town, narrowly avoiding disaster along the way. Snarf does his best to catch up with and save Baby Lion-O, but ends up suffering the consequences that Baby Lion-O escapes. At the end of the day, when Snarf believes he failed by losing Baby Lion-O, the butterfly returns, along with Baby Lion-O. King Claudus congratulates Snarf on a job well done and appoints him as Baby Lion-O's personal caretaker. As Snarf prepares Baby Lion-O for bed, several butterflies appear, much to Baby Lion-O's delight, and to Snarf's chagrin.",
+    "releaseYear": "2011",
+    "releaseDate": "2011-12-06"
+  },
+  {
+    "id": "tt2226319",
+    "imdbId": "tt2226319",
+    "tmdbId": 103977,
+    "type": "movie",
+    "title": "Daffy's Rhapsody",
+    "poster": "https://image.tmdb.org/t/p/w500/8gPamvM4Q3cCc5pIfKCIsxq4iCN.jpg",
+    "overview": "Elmer Fudd attends a musical concert, only to find it's Daffy Duck performing a song about escaping hunters, and Elmer is unable to contain himself, donning his hunting gear and chasing the duck as he finishes his song.",
+    "releaseYear": "2012",
+    "releaseDate": "2012-02-10"
+  },
+  {
+    "id": "tt2027128",
+    "imdbId": "tt2027128",
+    "tmdbId": 76589,
+    "type": "movie",
+    "title": "Justice League: Doom",
+    "poster": "https://image.tmdb.org/t/p/w500/jmEAGjDAIZdQQNASygPsATBgKBC.jpg",
+    "overview": "An adaptation of Mark Waid's \"Tower of Babel\" story from the JLA comic. Vandal Savage steals confidential files Batman has compiled on the members of the Justice League, and learns all their weaknesses.",
+    "releaseYear": "2012",
+    "releaseDate": "2012-02-28"
+  },
+  {
     "id": "tt2266141",
     "imdbId": "tt2266141",
     "tmdbId": 293546,
@@ -108,6 +1637,28 @@ module.exports = [
     "overview": "The misadventures of the original stretchable superhero.",
     "releaseYear": "2012",
     "releaseDate": "2012-03-03"
+  },
+  {
+    "id": "tmdb_41906",
+    "imdbId": null,
+    "tmdbId": 41906,
+    "type": "series",
+    "title": "DC Nation Shorts",
+    "poster": "https://image.tmdb.org/t/p/w500/pIHUHhTGgCdIxXynP7gzMaUjJsa.jpg",
+    "overview": "DC Nation Shorts are a series of shorts that air on Cartoon Network on Saturdays at 10/9c. The shorts are a part of the DC Nation block that premiered on March 3, 2012 and are produced by Warner Bros. Animation. The shorts are aired alongside Green Lantern: The Animated Series and Young Justice. On June 8, 2012, Cartoon Network announced that it would revive the Teen Titans animated series as Teen Titans Go! based on the New Teen Titans shorts and air it on the DC Nation block in 2013.",
+    "releaseYear": "2012",
+    "releaseDate": "2012-03-03"
+  },
+  {
+    "id": "tt2162709",
+    "imdbId": "tt2162709",
+    "tmdbId": 81900,
+    "type": "movie",
+    "title": "Scooby-Doo! Music of the Vampire",
+    "poster": "https://image.tmdb.org/t/p/w500/rgbshmGOSWmMx8G9H0OD2q1Z7Mr.jpg",
+    "overview": "Scooby and the gang have their first musical mystery in “Scooby Doo: Music of the Vampire.” It begins when they take a sing-a-long road trip into bayou country to attend the “Vampire-Palooza Festival” – an outdoor fair dedicated to all things Draculian. At first it looks as if they’re in for some fun and lots of Southern snacks, but events soon turn scary when a real live vampire comes to life, bursts from his coffin and threatens all the townsfolk. On top of that, this baritone blood sucker seems intent on taking Daphne as his vampire bride! Could the vampire be a descendant of a famous vampire hunter who is trying to sell his book? Or perhaps he’s the local politician, who has been trying to make his name in the press by attacking the vampires as downright unwholesome. The answers are to be found in a final song-filled showdown in the swamp in which our heroes unmask one of their most macabre monsters yet.",
+    "releaseYear": "2012",
+    "releaseDate": "2012-03-07"
   },
   {
     "id": "tt2294159",
@@ -165,6 +1716,17 @@ module.exports = [
     "releaseDate": "2012-05-26"
   },
   {
+    "id": "tt2224455",
+    "imdbId": "tt2224455",
+    "tmdbId": 103269,
+    "type": "movie",
+    "title": "Superman vs. The Elite",
+    "poster": "https://image.tmdb.org/t/p/w500/kozJARWRoGHlOu6UVCdVPD4n8Jm.jpg",
+    "overview": "The Man of Steel finds himself outshone by a new team of ruthless superheroes who hold his idealism in contempt.",
+    "releaseYear": "2012",
+    "releaseDate": "2012-06-12"
+  },
+  {
     "id": "tt2273962",
     "imdbId": "tt2273962",
     "tmdbId": 55853,
@@ -176,6 +1738,17 @@ module.exports = [
     "releaseDate": "2012-07-14"
   },
   {
+    "id": "tt3682184",
+    "imdbId": "tt3682184",
+    "tmdbId": 284908,
+    "type": "movie",
+    "title": "Scooby-Doo! Spooky Games",
+    "poster": "https://image.tmdb.org/t/p/w500/3zlCZ6n5XTQkw0uU9qwJoCcR73t.jpg",
+    "overview": "Shaggy is selected to participate in the World Invitational Games in London, England.",
+    "releaseYear": "2012",
+    "releaseDate": "2012-07-17"
+  },
+  {
     "id": "tt2381287",
     "imdbId": "tt2381287",
     "tmdbId": 145174,
@@ -185,6 +1758,61 @@ module.exports = [
     "overview": "The Robot Chicken DC Comics Special brings you the awesomeness of the DC Comics universe of characters as only Robot Chicken can, with amazing guest stars and the stop-motion sketch comedy you've come to love.",
     "releaseYear": "2012",
     "releaseDate": "2012-09-09"
+  },
+  {
+    "id": "tt2313197",
+    "imdbId": "tt2313197",
+    "tmdbId": 123025,
+    "type": "movie",
+    "title": "Batman: The Dark Knight Returns, Part 1",
+    "poster": "https://image.tmdb.org/t/p/w500/rVr2Tdp2LcL3DheXUrVN345Myhg.jpg",
+    "overview": "Batman has not been seen for ten years. A new breed of criminal ravages Gotham City, forcing 55-year-old Bruce Wayne back into the cape and cowl. But, does he still have what it takes to fight crime in a new era?",
+    "releaseYear": "2012",
+    "releaseDate": "2012-09-25"
+  },
+  {
+    "id": "tt2235542",
+    "imdbId": "tt2235542",
+    "tmdbId": 119321,
+    "type": "movie",
+    "title": "Big Top Scooby-Doo!",
+    "poster": "https://image.tmdb.org/t/p/w500/i0zImtsknzWLl5OvAQ23Y3gfEYZ.jpg",
+    "overview": "When Scooby and the gang hear of a werewolf plaguing a traveling circus, they go undercover as circus performers to get to the bottom.",
+    "releaseYear": "2012",
+    "releaseDate": "2012-10-09"
+  },
+  {
+    "id": "tt3328510",
+    "imdbId": "tt3328510",
+    "tmdbId": 245881,
+    "type": "movie",
+    "title": "Scooby-Doo! Haunted Holidays",
+    "poster": "https://image.tmdb.org/t/p/w500/jCnHwIKptAzm2V5Ho9qko3VpMvL.jpg",
+    "overview": "Scooby-Doo and the gang participate in a toy store's holiday parade where they discover the abandoned haunted clock tower with a troubled past. A sinister snowman haunts the streets and accompanied with a large blizzard, threatens to close down the toy store for good.",
+    "releaseYear": "2012",
+    "releaseDate": "2012-10-16"
+  },
+  {
+    "id": "tt2586070",
+    "imdbId": "tt2586070",
+    "tmdbId": 151535,
+    "type": "movie",
+    "title": "Scooby-Doo! Mask of the Blue Falcon",
+    "poster": "https://image.tmdb.org/t/p/w500/qcSjTyzy1IOt2W7nR4X3uWUx2xj.jpg",
+    "overview": "The Mega Mondo Pop Cartoon-a-Con in sunny California marks the spot for mystery in this all-new original Scooby-Doo adventure! The Mystery Inc. pals -- Fred, Daphne, Velma, Shaggy and Scooby -- head to the annual convention, but they're not there to crack their next case. They want to meet their favorite comic book characters and see a megabucks movie premiere, an explosive big-screen remake of the classic cartoon The Adventures of Blue Falcon, featuring Shaggy and Scooby's favorite superheroes: caped avenger Blue Falcon and his trusty but bumbling robo-pup, Dynomutt.",
+    "releaseYear": "2012",
+    "releaseDate": "2012-12-15"
+  },
+  {
+    "id": "tt2166834",
+    "imdbId": "tt2166834",
+    "tmdbId": 142061,
+    "type": "movie",
+    "title": "Batman: The Dark Knight Returns, Part 2",
+    "poster": "https://image.tmdb.org/t/p/w500/d1TqoVkyL4x0dlu9w3F9Ah4LjNv.jpg",
+    "overview": "Batman has stopped the reign of terror that The Mutants had cast upon his city.  Now an old foe wants a reunion and the government wants The Man of Steel to put a stop to Batman.",
+    "releaseYear": "2013",
+    "releaseDate": "2013-01-03"
   },
   {
     "id": "tt2304199",
@@ -218,6 +1846,17 @@ module.exports = [
     "overview": "The adventures of the Justice League on a comedic animal version that includes Bat-Mongoose, Wonder Wombat, and Super-Manatee",
     "releaseYear": "2013",
     "releaseDate": "2013-01-26"
+  },
+  {
+    "id": "tt2617456",
+    "imdbId": "tt2617456",
+    "tmdbId": 166076,
+    "type": "movie",
+    "title": "Superman: Unbound",
+    "poster": "https://image.tmdb.org/t/p/w500/nnZKtmVSnueWd4pjk1BekLJxXRL.jpg",
+    "overview": "Superman and Supergirl take on the cybernetic being known as Brainiac, who boasts that he possesses \"the knowledge and strength of 10,000 worlds.\"",
+    "releaseYear": "2013",
+    "releaseDate": "2013-04-23"
   },
   {
     "id": "tt2771780",
@@ -308,6 +1947,50 @@ module.exports = [
     "releaseDate": "2013-07-13"
   },
   {
+    "id": "tt3043386",
+    "imdbId": "tt3043386",
+    "tmdbId": 210769,
+    "type": "movie",
+    "title": "Scooby-Doo! Adventures: The Mystery Map",
+    "poster": "https://image.tmdb.org/t/p/w500/pulFY8KAuF6BiySNkVHgAN7cI0H.jpg",
+    "overview": "When Shaggy and Scooby find a mysterious pirate's treasure map in their triple-extra-large Scooby snack pizza, the whole Mystery Inc. gang sets out from their treehouse to find the lost booty of Gnarlybeard and the Phantom Parrot, encountering some suspicious individuals along the way who are also involved in the hunt. The tale is told in brand-new way to see the Scooby-Doo series: entirely through puppets!  Pilot for unproduced puppet series based on \"A Pup Named Scooby-Doo\", released direct-to-DVD.",
+    "releaseYear": "2013",
+    "releaseDate": "2013-07-21"
+  },
+  {
+    "id": "tt2820466",
+    "imdbId": "tt2820466",
+    "tmdbId": 183011,
+    "type": "movie",
+    "title": "Justice League: The Flashpoint Paradox",
+    "poster": "https://image.tmdb.org/t/p/w500/hg6RYpSb3vU4i3yQDtE1YhSZNh5.jpg",
+    "overview": "The Flash finds himself in a war-torn alternate timeline and teams up with alternate versions of his fellow heroes to restore the timeline.",
+    "releaseYear": "2013",
+    "releaseDate": "2013-07-30"
+  },
+  {
+    "id": "tt3108584",
+    "imdbId": "tt3108584",
+    "tmdbId": 199753,
+    "type": "movie",
+    "title": "Tom and Jerry's Giant Adventure",
+    "poster": "https://image.tmdb.org/t/p/w500/pwMfAavFAysc9cQELGerQErmQhE.jpg",
+    "overview": "Tom And Jerry are among the last animals living in Storybook Town, a fairy tale-inspired theme park \"where dreams come true, if you believe.\"",
+    "releaseYear": "2013",
+    "releaseDate": "2013-08-04"
+  },
+  {
+    "id": "tt3025994",
+    "imdbId": "tt3025994",
+    "tmdbId": 203696,
+    "type": "movie",
+    "title": "Scooby-Doo! Stage Fright",
+    "poster": "https://image.tmdb.org/t/p/w500/yI12z4mrNDl75no6zxQS2pBswG4.jpg",
+    "overview": "Join Scooby-Doo, Shaggy and the Mystery Inc. crew as they head to Chicago for Talent Star, a hit talent show in which Fred and Daphne are finalists with some high hopes. Unlucky for them, the competition is frightful as the show is being broadcast from an opera house with a history of horrors and a particularly vengeful phantom that has cursed the show's production.",
+    "releaseYear": "2013",
+    "releaseDate": "2013-08-10"
+  },
+  {
     "id": "tt3081442",
     "imdbId": "tt3081442",
     "tmdbId": 292997,
@@ -328,6 +2011,17 @@ module.exports = [
     "overview": "Doom Patrol was a series of animated shorts about the world's strangest heroes. Written by Tom Peyer and directed by Thomas Perkins, the shorts took much inspiration from Arnold Drake's original run on Doom Patrol.",
     "releaseYear": "2013",
     "releaseDate": "2013-08-24"
+  },
+  {
+    "id": "tt3328418",
+    "imdbId": "tt3328418",
+    "tmdbId": 286387,
+    "type": "movie",
+    "title": "Scooby-Doo! and the Spooky Scarecrow",
+    "poster": "https://image.tmdb.org/t/p/w500/tq2Xc3fp47F0nQsFGsnxmX8H2NS.jpg",
+    "overview": "Scooby-Doo and the rest of the ghost-busting gang visit a quiet farm town where everyone is preparing for the annual Halloween harvest celebration.",
+    "releaseYear": "2013",
+    "releaseDate": "2013-09-10"
   },
   {
     "id": "tt3209004",
@@ -363,6 +2057,28 @@ module.exports = [
     "releaseDate": "2014-01-21"
   },
   {
+    "id": "tt3060952",
+    "imdbId": "tt3060952",
+    "tmdbId": 217993,
+    "type": "movie",
+    "title": "Justice League: War",
+    "poster": "https://image.tmdb.org/t/p/w500/pdNprWYdgcB8z4FLD3BhRmhEys1.jpg",
+    "overview": "The world is under attack by an alien armada led by the powerful Apokoliptian, Darkseid. A group of superheroes consisting of Superman, Batman, Wonder Woman, The Flash, Green Lantern, Cyborg, and Shazam must set aside their differences and gather together to defend Earth.",
+    "releaseYear": "2014",
+    "releaseDate": "2014-01-21"
+  },
+  {
+    "id": "tt2337576",
+    "imdbId": "tt2337576",
+    "tmdbId": 258893,
+    "type": "movie",
+    "title": "Scooby-Doo! WrestleMania Mystery",
+    "poster": "https://image.tmdb.org/t/p/w500/vgnxicD1qvhTrh4db9F7hJLoOaa.jpg",
+    "overview": "The mystery begins when Shaggy and Scooby win tickets to \"WrestleMania\" and convince the crew to go with them to WWE City. But this city harbors a spooky secret - a ghastly Ghost Bear holds the town in his terrifying grip! To protect the coveted WWE Championship Title, the gang gets help from WWE Superstars like John Cena, Triple H, Sin Cara, Brodus Clay, AJ Lee, The Miz and Kane. Watch Scooby and the gang grapple with solving this case before it's too late.",
+    "releaseYear": "2014",
+    "releaseDate": "2014-03-11"
+  },
+  {
     "id": "tt3578794",
     "imdbId": "tt3578794",
     "tmdbId": 263484,
@@ -372,6 +2088,28 @@ module.exports = [
     "overview": "The Robot Chicken crew takes a peek at what happens when the DC villains end up on the same beach as the DC heroes on spring break!",
     "releaseYear": "2014",
     "releaseDate": "2014-04-06"
+  },
+  {
+    "id": "tt3643208",
+    "imdbId": "tt3643208",
+    "tmdbId": 264170,
+    "type": "movie",
+    "title": "Batman: Strange Days",
+    "poster": "https://image.tmdb.org/t/p/w500/doNcszmSj14ik6owOlGx5Ul9hwC.jpg",
+    "overview": "A lost tale from Batman's past, the Dark Knight tracks a strange giant to the mysterious lair of Hugo Strange.",
+    "releaseYear": "2014",
+    "releaseDate": "2014-04-09"
+  },
+  {
+    "id": "tt3559124",
+    "imdbId": "tt3559124",
+    "tmdbId": 47480,
+    "type": "series",
+    "title": "The Tom and Jerry Show",
+    "poster": "https://image.tmdb.org/t/p/w500/41EWXLXTZO4MLb2BL28mWZuydyq.jpg",
+    "overview": "The iconic cat and mouse rivals are back in a fresh take on the classic series. Preserving the look, characters and sensibility of the original, this series shines a brightly colored, high-definition lens on the madcap slapstick and never-ending battle that has made Tom and Jerry two of the most beloved characters of all time.",
+    "releaseYear": "2014",
+    "releaseDate": "2014-04-09"
   },
   {
     "id": "tt3673346",
@@ -385,6 +2123,17 @@ module.exports = [
     "releaseDate": "2014-04-16"
   },
   {
+    "id": "tt3643216",
+    "imdbId": "tt3643216",
+    "tmdbId": 269246,
+    "type": "movie",
+    "title": "Batman Beyond",
+    "poster": "https://image.tmdb.org/t/p/w500/dDD8EwK7LHhfq2gmJznS94QSFaD.jpg",
+    "overview": "This short celebrating 75 years of Batman from artist Darwyn Cooke returns fans to the world of Batman Beyond as Terry McGinnis' futuristic Dark Knight faces his most formidable foe of all - himself.",
+    "releaseYear": "2014",
+    "releaseDate": "2014-04-19"
+  },
+  {
     "id": "tt3081532",
     "imdbId": "tt3081532",
     "tmdbId": 246090,
@@ -394,6 +2143,39 @@ module.exports = [
     "overview": "Billy Batson is gifted with the magical ability to transform into the hero Shazam by saying his name. Billy, being only a kid, uses these special powers in ridiculous ways.",
     "releaseYear": "2014",
     "releaseDate": "2014-04-30"
+  },
+  {
+    "id": "tt3807092",
+    "imdbId": "tt3807092",
+    "tmdbId": 297102,
+    "type": "movie",
+    "title": "Scooby-Doo! Ghastly Goals",
+    "poster": "https://image.tmdb.org/t/p/w500/dlpVgPDZRKwPGDyRQnryKTHinR0.jpg",
+    "overview": "While on vacation in Brazil, Scooby-Doo and the gang encounter a mythical beast at a game of soccer.",
+    "releaseYear": "2014",
+    "releaseDate": "2014-05-13"
+  },
+  {
+    "id": "tt3139072",
+    "imdbId": "tt3139072",
+    "tmdbId": 251519,
+    "type": "movie",
+    "title": "Son of Batman",
+    "poster": "https://image.tmdb.org/t/p/w500/yHx8OLSKc3VtIBB5lIe90c0fHOX.jpg",
+    "overview": "Batman learns he has a violent, unruly pre-teen son, secretly raised by the terrorist group known as The League of Assassins.",
+    "releaseYear": "2014",
+    "releaseDate": "2014-05-13"
+  },
+  {
+    "id": "tt8480208",
+    "imdbId": "tt8480208",
+    "tmdbId": 536883,
+    "type": "movie",
+    "title": "Flash in the Pain",
+    "poster": "https://image.tmdb.org/t/p/w500/3pxAyRhorgeKMcaXjzFIKJByneU.jpg",
+    "overview": "Wile E. Coyote receives an ACME Transporter, a teleportation device worn on the forearm and tries to catch the Road Runner.",
+    "releaseYear": "2014",
+    "releaseDate": "2014-06-10"
   },
   {
     "id": "tt3851668",
@@ -407,6 +2189,39 @@ module.exports = [
     "releaseDate": "2014-07-05"
   },
   {
+    "id": "tt4006794",
+    "imdbId": "tt4006794",
+    "tmdbId": 287233,
+    "type": "movie",
+    "title": "Tom and Jerry: The Lost Dragon",
+    "poster": "https://image.tmdb.org/t/p/w500/s2Tegfa5IOUkFx988FgTFZth189.jpg",
+    "overview": "Tom and Jerry find a dragon egg, and help the baby dragon find its mother.",
+    "releaseYear": "2014",
+    "releaseDate": "2014-07-27"
+  },
+  {
+    "id": "tt3919322",
+    "imdbId": "tt3919322",
+    "tmdbId": 284995,
+    "type": "movie",
+    "title": "Scooby-Doo! Frankencreepy",
+    "poster": "https://image.tmdb.org/t/p/w500/9Ql1KEdLPr0bl5503qFiUscDT1q.jpg",
+    "overview": "Velma discovers she's inherited her great-great-uncle's cursed castle in Transylvania, Pennsylvania. The team decide to go there on a spooky adventure.",
+    "releaseYear": "2014",
+    "releaseDate": "2014-08-05"
+  },
+  {
+    "id": "tt3139086",
+    "imdbId": "tt3139086",
+    "tmdbId": 242643,
+    "type": "movie",
+    "title": "Batman: Assault on Arkham",
+    "poster": "https://image.tmdb.org/t/p/w500/b9KxvIAZkl2f57kjObj8Z9z9LhL.jpg",
+    "overview": "Batman works desperately to find a bomb planted by the Joker while Amanda Waller sends her newly-formed Suicide Squad to break into Arkham Asylum and recover vital information stolen by the Riddler.",
+    "releaseYear": "2014",
+    "releaseDate": "2014-08-12"
+  },
+  {
     "id": "tt4189294",
     "imdbId": "tt4189294",
     "tmdbId": 300424,
@@ -418,6 +2233,72 @@ module.exports = [
     "releaseDate": "2014-10-27"
   },
   {
+    "id": "tt3038546",
+    "imdbId": "tt3038546",
+    "tmdbId": 61949,
+    "type": "series",
+    "title": "Mike Tyson Mysteries",
+    "poster": "https://image.tmdb.org/t/p/w500/iQq8OApBL5sCgtLGnKKWwAgN8Zy.jpg",
+    "overview": "Mike Tyson is taking the fight from the boxing ring to the streets … by solving mysteries! Aided by the Mike Tyson Mystery Team — the Ghost of the Marquess of Queensberry, Mike’s adopted Korean daughter and a pigeon who was once a man — Mike Tyson will answer any plea sent to him.",
+    "releaseYear": "2014",
+    "releaseDate": "2014-10-27"
+  },
+  {
+    "id": "tt5033328",
+    "imdbId": "tt5033328",
+    "tmdbId": 307650,
+    "type": "movie",
+    "title": "Tom and Jerry Santa's Little Helpers",
+    "poster": "https://image.tmdb.org/t/p/w500/19vyZMsHvUe4NuFW8jq0ACgpmaQ.jpg",
+    "overview": "An all-new holiday special, Santa’s Little Helpers has Jerry and Tuffy living the good life in Santa’s workshop until the unfortunate day in which Tom is rescued by the Clause family. With Tom in the house, merry mayhem ensues at the North Pole, but when the dust settles, the destructive duo needs to work together to save Christmas and learn the true meaning of friendship.",
+    "releaseYear": "2014",
+    "releaseDate": "2014-11-19"
+  },
+  {
+    "id": "tt4147830",
+    "imdbId": "tt4147830",
+    "tmdbId": 312100,
+    "type": "movie",
+    "title": "Elf: Buddy's Musical Christmas",
+    "poster": "https://image.tmdb.org/t/p/w500/aDh6YHqaCPfA8iLVoBXPdVusiPy.jpg",
+    "overview": "Santa narrates the story of Buddy's travels to New York City to meet the father he never knew he had. Along the way his unrelenting cheer transforms the lives of everyone he meets and opens his father's eyes to the magic of Christmas.",
+    "releaseYear": "2014",
+    "releaseDate": "2014-12-16"
+  },
+  {
+    "id": "tt3878542",
+    "imdbId": "tt3878542",
+    "tmdbId": 297556,
+    "type": "movie",
+    "title": "Justice League: Throne of Atlantis",
+    "poster": "https://image.tmdb.org/t/p/w500/iaYZA8teYeIxmR8wRrEED5wwR0u.jpg",
+    "overview": "After the events of Justice League: War, Ocean Master and Black Manta have declared a war against the surface in retaliation of the aftermath of Apokoliptian-tyrant Darkseid's planetary invasion. Queen Atlanna seeks out her other son, Ocean Master’s half-brother Arthur Curry, a half-human with aquatic powers with no knowledge of his Atlantean heritage, to restore balance.  Living with powers he doesn’t understand and seeing the danger around him, Curry takes steps to embrace his destiny, joining the Justice League, and with his new teammates he battles to save Earth from total destruction.",
+    "releaseYear": "2015",
+    "releaseDate": "2015-01-13"
+  },
+  {
+    "id": "tt7516768",
+    "imdbId": "tt7516768",
+    "tmdbId": 506452,
+    "type": "movie",
+    "title": "Nightwing and Robin",
+    "poster": "https://image.tmdb.org/t/p/w500/9BFTFHTynUf3XfJKDt9svkr15Di.jpg",
+    "overview": "A 45 second short film set during the events of Justice League: Throne of Atlantis. The two main characters are called upon by Batman to find and capture the Scarecrow.",
+    "releaseYear": "2015",
+    "releaseDate": "2015-01-14"
+  },
+  {
+    "id": "tt4215766",
+    "imdbId": "tt4215766",
+    "tmdbId": 302960,
+    "type": "movie",
+    "title": "Scooby-Doo! Moon Monster Madness",
+    "poster": "https://image.tmdb.org/t/p/w500/gwyT0ljh8mVViwO6N5p4ACcIsW5.jpg",
+    "overview": "It's one giant step for dog-kind as Scooby-Doo and the Gang blast off for an epic, other-worldly adventure in this all-new original movie! After winning the last 5 seats in a lottery, Scooby-Doo, Shaggy, Fred, Daphne and Velma are off to space in billionaire Sly Baron's brand new ship, the Sly Star One. It's all gravity-free fun until a mysterious alien begins destroying the ship! As the ship breaks down, the crew is forced to land on Sly Baron's base... on the dark side of the moon! Will the gang unravel this alien mystery? Will Scooby-Doo and Shaggy find snacks on the moon? Will Fred ever take his space helmet off?! Journey to the outer limits with Scooby-Doo to find out!",
+    "releaseYear": "2015",
+    "releaseDate": "2015-02-03"
+  },
+  {
     "id": "tt4189260",
     "imdbId": "tt4189260",
     "tmdbId": 322456,
@@ -427,6 +2308,116 @@ module.exports = [
     "overview": "Superman’s clone, Bizarro, has become an embarrassing problem. Chaos and destruction follow Bizarro everywhere as he always hears the opposite of what is said, says the opposite of what he means and does the opposite of what is right. And when the citizens of Metropolis keep confusing Bizarro with Superman, the Man of Steel decides it’s time to find a new home for him…on another planet! It’s up to the Justice League to come to terms with their backward counterparts and team up with them to stop Darkseid and save the galaxy!",
     "releaseYear": "2015",
     "releaseDate": "2015-02-10"
+  },
+  {
+    "id": "tt2948202",
+    "imdbId": "tt2948202",
+    "tmdbId": 308447,
+    "type": "movie",
+    "title": "The Flintstones and WWE: Stone Age SmackDown!",
+    "poster": "https://image.tmdb.org/t/p/w500/sEC1hwyG7pJaUazMtiroc31e3gK.jpg",
+    "overview": "The WWE comes to town in the new animated film teaming the Flintstones with Bedrock-ready versions of John Cena, Daniel Bryan and more.",
+    "releaseYear": "2015",
+    "releaseDate": "2015-03-17"
+  },
+  {
+    "id": "tt4324274",
+    "imdbId": "tt4324274",
+    "tmdbId": 321528,
+    "type": "movie",
+    "title": "Batman vs. Robin",
+    "poster": "https://image.tmdb.org/t/p/w500/aGp9XDXmVM5lCKHWtgBC15S7XLr.jpg",
+    "overview": "Damian Wayne is having a hard time coping with his father's \"no killing\" rule. Meanwhile, Gotham is going through hell with threats such as the insane Dollmaker, and the secretive Court of Owls.",
+    "releaseYear": "2015",
+    "releaseDate": "2015-04-03"
+  },
+  {
+    "id": "tt5794246",
+    "imdbId": "tt5794246",
+    "tmdbId": 340884,
+    "type": "movie",
+    "title": "Scooby-Doo! and the Beach Beastie",
+    "poster": "https://image.tmdb.org/t/p/w500/6tqBzcWJ1MVeP2emyVEHTQHPyJA.jpg",
+    "overview": "Scooby-Doo and the gang investigates a new ghost at a water park resort.",
+    "releaseYear": "2015",
+    "releaseDate": "2015-05-05"
+  },
+  {
+    "id": "tt4437640",
+    "imdbId": "tt4437640",
+    "tmdbId": 327418,
+    "type": "movie",
+    "title": "Batman Unlimited: Animal Instincts",
+    "poster": "https://image.tmdb.org/t/p/w500/9e6iPMBr9rQKPoK8g3YDTVvI5ud.jpg",
+    "overview": "Gotham City is under siege by a series of bizarre crimes and only the world's greatest detective, Batman, can unravel the mystery! The trail leads to none other than the Penguin and his Animilitia, an animal-inspired squad of villains including Silverback, Cheetah, Killer Croc and the monstrous Man-Bat.",
+    "releaseYear": "2015",
+    "releaseDate": "2015-05-12"
+  },
+  {
+    "id": "tt4759674",
+    "imdbId": "tt4759674",
+    "tmdbId": 63266,
+    "type": "series",
+    "title": "Justice League: Gods and Monsters Chronicles",
+    "poster": "https://image.tmdb.org/t/p/w500/sytZtuGtxKX6L6hyyMKtK41hLTa.jpg",
+    "overview": "In an alternative history Zod is Superman's father, Batman is a vampiric Man-Bat, and Wonder Woman is the child of Ares, God of War. When these dark heroes form an alliance, the question everyone asks is will they save the world, or rule it?",
+    "releaseYear": "2015",
+    "releaseDate": "2015-06-08"
+  },
+  {
+    "id": "tt4692656",
+    "imdbId": "tt4692656",
+    "tmdbId": 343977,
+    "type": "movie",
+    "title": "Tom and Jerry: Spy Quest",
+    "poster": "https://image.tmdb.org/t/p/w500/5tCVbv0OlEdhBSnK0f7xO39uLwn.jpg",
+    "overview": "Two groups of classic cartoon characters come together in this fun-filled crossover with the popular action-adventure series Jonny Quest. Fans of all ages won't want to miss this heart-stopping romp as Tom and Jerry join Jonny Quest and his pal Hadji and embark on a dangerous spy mission in order to save the world.",
+    "releaseYear": "2015",
+    "releaseDate": "2015-06-09"
+  },
+  {
+    "id": "tt4324302",
+    "imdbId": "tt4324302",
+    "tmdbId": 323027,
+    "type": "movie",
+    "title": "Justice League: Gods and Monsters",
+    "poster": "https://image.tmdb.org/t/p/w500/9EoqQuEZKmQIYjexoUbkxMcMCVr.jpg",
+    "overview": "In an alternate universe, very different versions of DC's Trinity fight against the government after they are framed for an embassy bombing.",
+    "releaseYear": "2015",
+    "releaseDate": "2015-06-18"
+  },
+  {
+    "id": "tt4717798",
+    "imdbId": "tt4717798",
+    "tmdbId": 347688,
+    "type": "movie",
+    "title": "Scooby-Doo! and KISS: Rock and Roll Mystery",
+    "poster": "https://image.tmdb.org/t/p/w500/nTkQZPXZl9yx3tfPS9TSDZBdhHC.jpg",
+    "overview": "Get ready to Rock! Scooby-Doo and the Mystery Inc. Gang team up with the one and only KISS in this all-new, out-of-this-world adventure! We join the Gang at KISS World – the all-things-KISS theme park, as they investigate a series of strange hauntings. With help from KISS, they discover that the Crimson Witch has returned to summon The Destroyer from the alternate dimension of Kissteria! The evil duos ghastly plan, to destroy the earth! Can the Gang's cunning and KISS's power of rock save the day?!",
+    "releaseYear": "2015",
+    "releaseDate": "2015-07-09"
+  },
+  {
+    "id": "tt4840666",
+    "imdbId": "tt4840666",
+    "tmdbId": 349045,
+    "type": "movie",
+    "title": "Looney Tunes: Rabbits Run",
+    "poster": "https://image.tmdb.org/t/p/w500/fEzGg81jV0OBjy3rxQtfU9WMlOt.jpg",
+    "overview": "Lola Bunny invents a perfume with the adverse effect of turning people invisible, sending her and cab driver Bugs Bunny on the run from the FBI, while another shady group seeks the formula.",
+    "releaseYear": "2015",
+    "releaseDate": "2015-08-04"
+  },
+  {
+    "id": "tt4729754",
+    "imdbId": "tt4729754",
+    "tmdbId": 342917,
+    "type": "movie",
+    "title": "Batman Unlimited: Monster Mayhem",
+    "poster": "https://image.tmdb.org/t/p/w500/jceXBNFMPLAKlo2MPJGJlXJBQJL.jpg",
+    "overview": "The Joker is aided in his Halloween quest to render modern technology useless and take over Gotham City by Solomon Grundy, Silver Banshee, Clayface and Scarecrow.",
+    "releaseYear": "2015",
+    "releaseDate": "2015-08-18"
   },
   {
     "id": "tt4938416",
@@ -451,6 +2442,17 @@ module.exports = [
     "releaseDate": "2015-08-25"
   },
   {
+    "id": "tt4558858",
+    "imdbId": "tt4558858",
+    "tmdbId": 65763,
+    "type": "series",
+    "title": "New Looney Tunes",
+    "poster": "https://image.tmdb.org/t/p/w500/AdROLFTm3nSnqcmkhPabqdRuETZ.jpg",
+    "overview": "Wabbit is an animated series starring Bugs Bunny. The series features many other Looney Tunes characters including Wile E. Coyote, Yosemite Sam, and the Tasmanian Devil.",
+    "releaseYear": "2015",
+    "releaseDate": "2015-09-21"
+  },
+  {
     "id": "tt5582302",
     "imdbId": "tt5582302",
     "tmdbId": 64365,
@@ -462,6 +2464,17 @@ module.exports = [
     "releaseDate": "2015-10-01"
   },
   {
+    "id": "tt4215734",
+    "imdbId": "tt4215734",
+    "tmdbId": 64228,
+    "type": "series",
+    "title": "Be Cool, Scooby-Doo!",
+    "poster": "https://image.tmdb.org/t/p/w500/rJksJvJnvrVQL9dMdqy1XwjD5KQ.jpg",
+    "overview": "The gang decide to go traveling in the Mystery Machine, seeking fun and adventure during what could possibly be their last summer break together. However, havoc-wreaking monsters seem to be drawn to them, appearing almost every stop of the way.",
+    "releaseYear": "2015",
+    "releaseDate": "2015-10-05"
+  },
+  {
     "id": "tt5028778",
     "imdbId": "tt5028778",
     "tmdbId": 363863,
@@ -471,6 +2484,50 @@ module.exports = [
     "overview": "The Robot Chicken DC Comics Special 3: Magical Friendship surrenders DC Comics' multitude of Super Heroes and Super-Villains to the demented whims of the award-winning Robot Chicken for a triumphant third time. This time around, Batman and Superman’s bromance takes a competitive turn and the fate of the universe somehow hangs in the balance!",
     "releaseYear": "2015",
     "releaseDate": "2015-10-18"
+  },
+  {
+    "id": "tt5377164",
+    "imdbId": "tt5377164",
+    "tmdbId": 370086,
+    "type": "movie",
+    "title": "LEGO Scooby-Doo! Knight Time Terror",
+    "poster": "https://image.tmdb.org/t/p/w500/A2DTc2QGOkKlEhEg3CKJtXOv5bI.jpg",
+    "overview": "Mystery Inc. is summoned to investigate occurrences in a haunted villa, where a black knight terrorizes anybody who tries to get close to treasure hidden by the former owner of the building.",
+    "releaseYear": "2015",
+    "releaseDate": "2015-11-25"
+  },
+  {
+    "id": "tt4870838",
+    "imdbId": "tt4870838",
+    "tmdbId": 366924,
+    "type": "movie",
+    "title": "Batman: Bad Blood",
+    "poster": "https://image.tmdb.org/t/p/w500/ktjbGsGm5GKlHDvvwQajXvDW2BN.jpg",
+    "overview": "When Batman goes missing, it takes the entire Bat \"family\" - including Batwoman and Batwing - to keep the peace in Gotham and unravel the mystery behind the Dark Knight's disappearance.",
+    "releaseYear": "2016",
+    "releaseDate": "2016-01-19"
+  },
+  {
+    "id": "tt5548284",
+    "imdbId": "tt5548284",
+    "tmdbId": 392536,
+    "type": "movie",
+    "title": "LEGO Scooby-Doo! Haunted Hollywood",
+    "poster": "https://image.tmdb.org/t/p/w500/fZ53SvgcryXaWctiiRtlxR1p4Uq.jpg",
+    "overview": "The gang find themselves in a tinsel-town twist! While on a VIP tour of the legendary Brickton Studios, Scooby and friends get a first-hand experience of the rumored hauntings when classic movie monsters drop in for a creepy casting call.",
+    "releaseYear": "2016",
+    "releaseDate": "2016-01-28"
+  },
+  {
+    "id": "tt5444412",
+    "imdbId": "tt5444412",
+    "tmdbId": 65564,
+    "type": "series",
+    "title": "Bunnicula",
+    "poster": "https://image.tmdb.org/t/p/w500/zpL2TN3GsvwiA0XJjpaJSwdV5Wo.jpg",
+    "overview": "A dark comedic adventure about the titular Bunnicula, a vampire rabbit, Mina, his owner, and her two pets, Chester the cat and Harold the dog.  Instead of blood, Bunnicula feeds on carrots to sustain himself which gives him super abilities which come in handy on his and his friends escapades.",
+    "releaseYear": "2016",
+    "releaseDate": "2016-02-06"
   },
   {
     "id": "tt5251438",
@@ -495,6 +2552,28 @@ module.exports = [
     "releaseDate": "2016-03-19"
   },
   {
+    "id": "tt5091548",
+    "imdbId": "tt5091548",
+    "tmdbId": 379291,
+    "type": "movie",
+    "title": "Justice League vs. Teen Titans",
+    "poster": "https://image.tmdb.org/t/p/w500/mrphHnLo1ywe7yGcA5WhYlx9v3n.jpg",
+    "overview": "Robin is sent by Batman to work with the Teen Titans after his volatile behavior botches up a Justice League mission. The Titans must then step up to face Trigon after he possesses the League and threatens to conquer the world.",
+    "releaseYear": "2016",
+    "releaseDate": "2016-03-26"
+  },
+  {
+    "id": "tt5737408",
+    "imdbId": "tt5737408",
+    "tmdbId": 403510,
+    "type": "movie",
+    "title": "Tom and Jerry: Back to Oz",
+    "poster": "https://image.tmdb.org/t/p/w500/kilE7AJV1gEecTzW51XNi8YHBvs.jpg",
+    "overview": "After capturing the good witch, the villainous King Gnome creates havoc throughout Oz as he needs Dorothy's ruby slippers to take control of the Emerald City. So, it is up to Tom and Jerry to save the land of Oz!",
+    "releaseYear": "2016",
+    "releaseDate": "2016-06-21"
+  },
+  {
     "id": "tt5612702",
     "imdbId": "tt5612702",
     "tmdbId": 396330,
@@ -506,6 +2585,39 @@ module.exports = [
     "releaseDate": "2016-06-21"
   },
   {
+    "id": "tt4196868",
+    "imdbId": "tt4196868",
+    "tmdbId": 409122,
+    "type": "movie",
+    "title": "Scooby-Doo! and WWE: Curse of the Speed Demon",
+    "poster": "https://image.tmdb.org/t/p/w500/wRrvPis7C8YfbOBuuyUoZel7MC4.jpg",
+    "overview": "When Scooby and Mystery Inc. visit an off-road racing competition, it's not long before strange events start to occur. A mysterious phantom racer, known only as Inferno, is causing chaos and is determined to sabotage the race. It's up to Scooby-Doo, Shaggy and their new driving partner, The Undertaker, to save the race and solve the mystery.",
+    "releaseYear": "2016",
+    "releaseDate": "2016-07-23"
+  },
+  {
+    "id": "tt5896146",
+    "imdbId": "tt5896146",
+    "tmdbId": 411802,
+    "type": "movie",
+    "title": "Batman Unlimited: Mechs vs. Mutants",
+    "poster": "https://image.tmdb.org/t/p/w500/3re2aBFRYk4KDcoAxoyr8ZTOXX8.jpg",
+    "overview": "Mr. Freeze turns Killer Croc and Bane into super-sized monsters, and they bash their way through downtown Gotham until the Caped Crusader and his team of heroes join the fight in their giant robot mechs.",
+    "releaseYear": "2016",
+    "releaseDate": "2016-07-24"
+  },
+  {
+    "id": "tt4853102",
+    "imdbId": "tt4853102",
+    "tmdbId": 382322,
+    "type": "movie",
+    "title": "Batman: The Killing Joke",
+    "poster": "https://image.tmdb.org/t/p/w500/lrQ3LeNIN0nmviZ692seNBUl1Pq.jpg",
+    "overview": "As Batman hunts for the escaped Joker, the Clown Prince of Crime attacks the Gordon family to prove a diabolical point mirroring his own fall into madness.",
+    "releaseYear": "2016",
+    "releaseDate": "2016-07-24"
+  },
+  {
     "id": "tt5836262",
     "imdbId": "tt5836262",
     "tmdbId": 401650,
@@ -515,6 +2627,17 @@ module.exports = [
     "overview": "Wonder Woman, Supergirl, Batgirl, Harley Quinn, Bumblebee, Poison Ivy and Katana band together to navigate the twists and turns of high school in DC Super Hero Girls: Hero of the Year.",
     "releaseYear": "2016",
     "releaseDate": "2016-08-09"
+  },
+  {
+    "id": "tt6027168",
+    "imdbId": "tt6027168",
+    "tmdbId": 107953,
+    "type": "series",
+    "title": "Right Now Kapow",
+    "poster": "https://image.tmdb.org/t/p/w500/wnfEa3SP1iSQ91RbkcA66pv7XuV.jpg",
+    "overview": "Right Now Kapow is an animated sketch comedy television show featuring the main characters Diamond, Moon, Plant, Dog, Candy, and Ice Cream.",
+    "releaseYear": "2016",
+    "releaseDate": "2016-09-19"
   },
   {
     "id": "tt5973626",
@@ -539,6 +2662,17 @@ module.exports = [
     "releaseDate": "2016-12-16"
   },
   {
+    "id": "tmdb_658191",
+    "imdbId": null,
+    "tmdbId": 658191,
+    "type": "movie",
+    "title": "Dorothy and The Wizard of Oz: The Wizard, The Witch, and The Crystal Ball",
+    "poster": "https://image.tmdb.org/t/p/w500/c1aeZ2FRlHHKESlAsJlIBZ4MVK7.jpg",
+    "overview": "Dorothy and crew discover the Wicked Witch is alive./The Wizard discovers the Wicked Witch is alive./Dorothy and her friends are sucked into the Wicked Witch's crystal ball./Dorothy and crew escape the crystal ball as does the Wicked Witch.",
+    "releaseYear": "2017",
+    "releaseDate": "2017-01-01"
+  },
+  {
     "id": "tt2494376",
     "imdbId": "tt2494376",
     "tmdbId": 408220,
@@ -559,6 +2693,28 @@ module.exports = [
     "overview": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
     "releaseYear": "2017",
     "releaseDate": "2017-02-08"
+  },
+  {
+    "id": "tt6425560",
+    "imdbId": "tt6425560",
+    "tmdbId": 427564,
+    "type": "movie",
+    "title": "Scooby-Doo! Shaggy's Showdown",
+    "poster": "https://image.tmdb.org/t/p/w500/rqw4Cis6dliACGzaejR5icXjA52.jpg",
+    "overview": "When the Scooby gang visits a dude ranch, they discover that it and the nearby town have been haunted by a ghostly cowboy, Dapper Jack, who fires real fire from his fire irons. The mystery only deepens when it’s discovered that the ghost is also the long lost relative of Shaggy Rogers!",
+    "releaseYear": "2017",
+    "releaseDate": "2017-02-14"
+  },
+  {
+    "id": "tt6415248",
+    "imdbId": "tt6415248",
+    "tmdbId": 444510,
+    "type": "movie",
+    "title": "The Jetsons & WWE: Robo-WrestleMania",
+    "poster": "https://image.tmdb.org/t/p/w500/5IGnSewlijRC8lqYJVpYcszSu6M.jpg",
+    "overview": "Blast off to adventure in this animated feature where our favorite space-age family, The Jetsons, meet the superstars of WWE! When George unearths WWE’s Big Show, who has been frozen for 100 years, the futuristic face-off begins! Once thawed, Big Show wastes no time in taking the WWE belt from the current robot champ as well as taking total control of Orbit City. It’s up to The Jetsons to travel back in time and enlist help from WWE’s brightest stars: Sheamus, Alicia Fox, Roman Reigns, Seth Rollins and the Uso brothers. Can this cosmic tag-team prevail and set this twisted time-warp straight? Tune in and see with The Jetsons and WWE!",
+    "releaseYear": "2017",
+    "releaseDate": "2017-02-28"
   },
   {
     "id": "tt6315800",
@@ -649,6 +2805,39 @@ module.exports = [
     "releaseDate": "2017-06-14"
   },
   {
+    "id": "tt7050978",
+    "imdbId": "tt7050978",
+    "tmdbId": 76941,
+    "type": "series",
+    "title": "Dorothy and the Wizard of Oz",
+    "poster": "https://image.tmdb.org/t/p/w500/ptIwxwpr7g9LZs0JLqOI82Z8lks.jpg",
+    "overview": "With her friends by her side and her ruby slippers on her feet, Dorothy follows the Yellow Brick Road toward magical mischief and embarks on exciting adventures that only a land like Oz can bring.",
+    "releaseYear": "2017",
+    "releaseDate": "2017-06-26"
+  },
+  {
+    "id": "tt6803390",
+    "imdbId": "tt6803390",
+    "tmdbId": 455411,
+    "type": "movie",
+    "title": "Tom and Jerry: Willy Wonka & the Chocolate Factory",
+    "poster": "https://image.tmdb.org/t/p/w500/pzWt8ECED9kGm4LSXLSkPGBWpjE.jpg",
+    "overview": "The classic Roald Dahl tale gets a modern twist when Tom and Jerry enter the amazing world of Willy Wonka's Chocolate Factory.",
+    "releaseYear": "2017",
+    "releaseDate": "2017-06-28"
+  },
+  {
+    "id": "tt6946580",
+    "imdbId": "tt6946580",
+    "tmdbId": 461054,
+    "type": "movie",
+    "title": "LEGO Scooby-Doo! Blowout Beach Bash",
+    "poster": "https://image.tmdb.org/t/p/w500/oryn9TbZE1vmlFkcFLYfZkx8CyB.jpg",
+    "overview": "Mystery, Inc. heads to Blowout Beach for a real swinging beach party when the Ghost Pirates threaten to harsh the good vibes.",
+    "releaseYear": "2017",
+    "releaseDate": "2017-07-11"
+  },
+  {
     "id": "tt7158814",
     "imdbId": "tt7158814",
     "tmdbId": 460135,
@@ -671,6 +2860,17 @@ module.exports = [
     "releaseDate": "2017-07-21"
   },
   {
+    "id": "tt5520388",
+    "imdbId": "tt5520388",
+    "tmdbId": 74916,
+    "type": "series",
+    "title": "Wacky Races",
+    "poster": "https://image.tmdb.org/t/p/w500/rgmUxN8vPB4WvvWKEhEpWs8SR9D.jpg",
+    "overview": "Wacky Races (2017) is a reboot of the classic 1968 Hanna-Barbera animated series, bringing a fresh, modern take on the original premise while retaining much of the core essence that made the original show so beloved. The 2017 version, created by Warner Bros. Animation, aired on the Boomerang network and introduced a new generation to the zany, high-speed races of the characters.\n\nIn this updated series, the characters from the original Wacky Races return, but with a more contemporary style and new backstories. The vehicles are also revamped with more advanced technology and a few new additions to the roster, though the classic ones like Dick Dastardly’s Mean Machine and Penelope Pitstop’s Compact Pussycat are still present.",
+    "releaseYear": "2017",
+    "releaseDate": "2017-08-14"
+  },
+  {
     "id": "tt7112166",
     "imdbId": "tt7112166",
     "tmdbId": 467172,
@@ -680,6 +2880,17 @@ module.exports = [
     "overview": "Joker has come to Japan to steal the Eagle Talon Society's secret weapons in his continued scheme for pure chaos. However, the Justice League is on his trail, but there's something off with Batman. Now, it's up to Eagle Talon to go find out what's wrong with Batman, and that means going back in time to Bruce Wayne's most traumatic experience, the murder of his parents. If that wasn't enough to worry about, the Eagle Talon Society also have to keep their eyes on their production budget, especially with most of that money going towards the licensing fee for DC's popular characters. Will the Eagle Talon Society and the Justice League be able to stop the Joker before their budget dries up, and they're reduced to simple stick figures!?",
     "releaseYear": "2017",
     "releaseDate": "2017-10-21"
+  },
+  {
+    "id": "tt6874502",
+    "imdbId": "tt6874502",
+    "tmdbId": 74739,
+    "type": "series",
+    "title": "UniKitty!",
+    "poster": "https://image.tmdb.org/t/p/w500/tPpWpCmd7gx3ksYWQR7qRW86lvO.jpg",
+    "overview": "As ruler of the kingdom, Unikitty has busy days full of royal responsibilities. Unikitty is most interested in making sure everyone is happy and ridding the kingdom of negativity, but don't misunderstand her optimism, she is one kitty not to be crossed. While she may be full of boundless energy and creativity, Unikitty is a force to be reckoned with if anyone gets in the way of spreading her positive vibes, especially if anyone makes her little brother and best friend, Puppycorn, sad. Also living in the castle are Dr. Fox, the resident scientist, and Unikitty's trusty bodyguard, Hawkodile. Through it all, Unikitty and her friends make sure that every day is the happiest and most creative ever.",
+    "releaseYear": "2017",
+    "releaseDate": "2017-10-28"
   },
   {
     "id": "tt6142314",
@@ -814,6 +3025,17 @@ module.exports = [
     "releaseDate": "2018-08-28"
   },
   {
+    "id": "tt8660492",
+    "imdbId": "tt8660492",
+    "tmdbId": 533592,
+    "type": "movie",
+    "title": "Scooby-Doo! and the Gourmet Ghost",
+    "poster": "https://image.tmdb.org/t/p/w500/AtHngeqD4K1Oj01ulWc1aDJhU8H.jpg",
+    "overview": "The Scooby gang visits a culinary resort run by Fred's uncle, Bobby Flay. While enjoying the sights, a ghost attacks the guests and destroys the resort, leaving the gang to put a stop to its threat.",
+    "releaseYear": "2018",
+    "releaseDate": "2018-08-28"
+  },
+  {
     "id": "tt9177882",
     "imdbId": "tt9177882",
     "tmdbId": 539517,
@@ -823,6 +3045,28 @@ module.exports = [
     "overview": "A decade after a tragic mistake, family man Chas Chandler and occult detective John Constantine set out to cure his daughter Trish from a mysterious supernatural coma.",
     "releaseYear": "2018",
     "releaseDate": "2018-10-04"
+  },
+  {
+    "id": "tt7058884",
+    "imdbId": "tt7058884",
+    "tmdbId": 506643,
+    "type": "movie",
+    "title": "Haikara-san: Here Comes Miss Modern Part 2",
+    "poster": "https://image.tmdb.org/t/p/w500/8xlCJLPOnYcqVeCOzmXpicyCEOA.jpg",
+    "overview": "In turn of the 20th Century Japan, a period characterized by widespread innovation and social restructuring, Benio Hanamura endeavors to take modernization to new heights. With a tomboy nature, Benio rails against traditional ideas that women should take care of the home—serving their husbands rather than pursuing their own dreams. Her values as a modern woman come under fire as the one man who supports her independence, Lieutenant Shinobu Ijuin, goes missing in action. Resurfacing back in Japan, Shinobu has lost all memory of his true identity. In this stunning sequel, will Benio be able to reconnect with Shinobu before she is married off to a new man?",
+    "releaseYear": "2018",
+    "releaseDate": "2018-10-19"
+  },
+  {
+    "id": "tt9903504",
+    "imdbId": "tt9903504",
+    "tmdbId": 658188,
+    "type": "movie",
+    "title": "Dorothy's Christmas in Oz",
+    "poster": "https://image.tmdb.org/t/p/w500/lzxKYLh4yzhkhH7FqqdrPBc3rmM.jpg",
+    "overview": "Dorothy introduces Oz to Christmas and of course Oz adds a few traditions of it's own. Santa comes to deliver holiday cheer and presents to all. The Wicked Witch has kidnapped Santa in an attempt to steal his magic.",
+    "releaseYear": "2018",
+    "releaseDate": "2018-11-29"
   },
   {
     "id": "tt8457394",
@@ -836,6 +3080,17 @@ module.exports = [
     "releaseDate": "2018-12-21"
   },
   {
+    "id": "tt7167686",
+    "imdbId": "tt7167686",
+    "tmdbId": 487672,
+    "type": "movie",
+    "title": "Reign of the Supermen",
+    "poster": "https://image.tmdb.org/t/p/w500/e9TzqscNRUaG8HqEP3K1jUvi8pC.jpg",
+    "overview": "In the wake of The Death of Superman, the world is still mourning the loss of the Man of Steel following his fatal battle with the monster Doomsday. However, no sooner as his body been laid to rest than do four new bearers of the Superman shield come forward to take on the mantle. The Last Son of Krypton, Superboy, Steel, and the Cyborg Superman all attempt to fill the vacuum left by the world's greatest champion. Meanwhile, Superman's death has also signaled to the universe that Earth is vulnerable. Can these new Supermen and the rest of the heroes prove them wrong?",
+    "releaseYear": "2019",
+    "releaseDate": "2019-01-13"
+  },
+  {
     "id": "tt7167658",
     "imdbId": "tt7167658",
     "tmdbId": 487670,
@@ -847,6 +3102,17 @@ module.exports = [
     "releaseDate": "2019-01-13"
   },
   {
+    "id": "tt9260980",
+    "imdbId": "tt9260980",
+    "tmdbId": 560066,
+    "type": "movie",
+    "title": "Scooby-Doo! and the Curse of the 13th Ghost",
+    "poster": "https://image.tmdb.org/t/p/w500/hKxlzUtwyEMZDmj58ijQqr5PoZn.jpg",
+    "overview": "Mystery Inc. withdraws from solving crimes after botching a case. When Vincent Van Ghoul contacts the gang about an unfinished investigation from Daphne, Shaggy and Scooby's past, the gang springs into action to finish the job that involves catching the 13th Ghost that escaped from the Chest of Demons and is still at large.",
+    "releaseYear": "2019",
+    "releaseDate": "2019-02-05"
+  },
+  {
     "id": "tt9628244",
     "imdbId": "tt9628244",
     "tmdbId": 87491,
@@ -856,6 +3122,94 @@ module.exports = [
     "overview": "The world may know them as Wonder Woman, Supergirl and Batgirl, but not-so-typical teenagers Diana, Kara and Barbara, alongside their Super Hero friends have much more to deal with than just protecting Metropolis from some of the most sinister school-aged Super-Villains. After all, being teens is tough enough, what with school, friends, family and the chaos that comes with managing a social life. But add super powers and a secret identity to the mix, and things can get a lot more complicated.",
     "releaseYear": "2019",
     "releaseDate": "2019-03-08"
+  },
+  {
+    "id": "tt8752474",
+    "imdbId": "tt8752474",
+    "tmdbId": 537059,
+    "type": "movie",
+    "title": "Justice League vs. the Fatal Five",
+    "poster": "https://image.tmdb.org/t/p/w500/xXC0HrmyQDXlYTiHP7Tq6nzurDI.jpg",
+    "overview": "The Justice League faces a powerful new threat — the Fatal Five! Superman, Batman and Wonder Woman seek answers as the time-traveling trio of Mano, Persuader and Tharok terrorize Metropolis in search of budding Green Lantern, Jessica Cruz. With her unwilling help, they aim to free remaining Fatal Five members Emerald Empress and Validus to carry out their sinister plan. But the Justice League has also discovered an ally from another time in the peculiar Star Boy — brimming with volatile power, could he be the key to thwarting the Fatal Five? An epic battle against ultimate evil awaits!",
+    "releaseYear": "2019",
+    "releaseDate": "2019-03-29"
+  },
+  {
+    "id": "tt9775360",
+    "imdbId": "tt9775360",
+    "tmdbId": 581997,
+    "type": "movie",
+    "title": "Batman vs Teenage Mutant Ninja Turtles",
+    "poster": "https://image.tmdb.org/t/p/w500/yP3h0Pu8htyb9450mWJ9Vu1rU.jpg",
+    "overview": "Batman, Batgirl, and Robin forge an alliance with the Teenage Mutant Ninja Turtles to fight against the Turtles' sworn enemy, The Shredder, who has apparently teamed up with Ra's Al Ghul and The League of Assassins.",
+    "releaseYear": "2019",
+    "releaseDate": "2019-03-31"
+  },
+  {
+    "id": "tmdb_1004465",
+    "imdbId": null,
+    "tmdbId": 1004465,
+    "type": "movie",
+    "title": "Sick as a Hare",
+    "poster": "https://image.tmdb.org/t/p/w500/7WOFZB2H2sw59DodnpP1IaM5qrW.jpg",
+    "overview": "Bugs pretends to be sick so Elmer is forced to nurse him back to health before he can cook him.",
+    "releaseYear": "2019",
+    "releaseDate": "2019-06-12"
+  },
+  {
+    "id": "tmdb_984789",
+    "imdbId": null,
+    "tmdbId": 984789,
+    "type": "movie",
+    "title": "TNT Trouble",
+    "poster": "https://image.tmdb.org/t/p/w500/6nx8EvIe23nd2lgh5sL0NLp5FKY.jpg",
+    "overview": "Wile E. Coyote runs into some dynamite problems.",
+    "releaseYear": "2019",
+    "releaseDate": "2019-06-12"
+  },
+  {
+    "id": "tt8550340",
+    "imdbId": "tt8550340",
+    "tmdbId": 630773,
+    "type": "movie",
+    "title": "The Curse of the Monkey Bird",
+    "poster": "https://image.tmdb.org/t/p/w500/O2BdizqovLA5eitXagkA73CDjv.jpg",
+    "overview": "Daffy Duck and Porky Pig search for a cursed treasure inside a jungle temple.",
+    "releaseYear": "2019",
+    "releaseDate": "2019-06-12"
+  },
+  {
+    "id": "tt10477164",
+    "imdbId": "tt10477164",
+    "tmdbId": 608566,
+    "type": "movie",
+    "title": "Dynamite Dance",
+    "poster": "https://image.tmdb.org/t/p/w500/j9tbypipzdlTAwHzXkCHfHCNbVK.jpg",
+    "overview": "Bugs Bunny constantly teases Elmer with dynamite, to the beats of 'Dance of the Hours'.",
+    "releaseYear": "2019",
+    "releaseDate": "2019-06-12"
+  },
+  {
+    "id": "tt8456094",
+    "imdbId": "tt8456094",
+    "tmdbId": 88367,
+    "type": "series",
+    "title": "Scooby-Doo and Guess Who?",
+    "poster": "https://image.tmdb.org/t/p/w500/g7vQXsELihik4oHJwqhL6WuTJ3j.jpg",
+    "overview": "The Mystery Inc. gang solve bigger mysteries while also encountering many memorable celebrities.",
+    "releaseYear": "2019",
+    "releaseDate": "2019-06-27"
+  },
+  {
+    "id": "tt8752440",
+    "imdbId": "tt8752440",
+    "tmdbId": 537056,
+    "type": "movie",
+    "title": "Batman: Hush",
+    "poster": "https://image.tmdb.org/t/p/w500/eiVQORVyVuNNZHPAELuWtlXoQsD.jpg",
+    "overview": "A mysterious new villain known only as Hush uses a gallery of villains to destroy Batman's crime-fighting career as well as Bruce Wayne's personal life, which has been further complicated by a relationship with Selina Kyle/Catwoman.",
+    "releaseYear": "2019",
+    "releaseDate": "2019-07-19"
   },
   {
     "id": "tt10736082",
@@ -891,6 +3245,50 @@ module.exports = [
     "releaseDate": "2019-07-21"
   },
   {
+    "id": "tt10622136",
+    "imdbId": "tt10622136",
+    "tmdbId": 615774,
+    "type": "movie",
+    "title": "Scooby-Doo! Return to Zombie Island",
+    "poster": "https://image.tmdb.org/t/p/w500/vd0oIoWhEm8o7EpS0kV7RaV0Flf.jpg",
+    "overview": "Scooby-Doo and his pals win an all-expense paid vacation and embark on a trip of a lifetime to a tropical paradise. Their destination however, turns out to be Zombie Island. As soon as they arrive, they realize the place looks strangely familiar and is reminiscent of a trip they took years ago, in which they became wrapped up in a mystery involving zombies. The gang soon learns that their trip to paradise comes with a price when the zombies re-emerge and attack their hotel. Will Scooby-Doo and the Mystery Inc. gang finally solve the mystery behind Zombie Island?",
+    "releaseYear": "2019",
+    "releaseDate": "2019-09-03"
+  },
+  {
+    "id": "tt8752498",
+    "imdbId": "tt8752498",
+    "tmdbId": 537055,
+    "type": "movie",
+    "title": "Wonder Woman: Bloodlines",
+    "poster": "https://image.tmdb.org/t/p/w500/w1SBqj0fn1j72ST5i1jauWo3swT.jpg",
+    "overview": "Witness the legendary origin of renowned Justice League member Wonder Woman as she fights for good with her sword and magic lasso. Equally strong in body, heart and will, she makes it her mission to help a troubled young girl enlisted by a deadly organization known as Villainy, Inc., whose criminal members have their sights set on invading Themyscira, Wonder Woman’s paradise home. The battle will be epic, because if there's one thing an Amazon knows, it’s war!",
+    "releaseYear": "2019",
+    "releaseDate": "2019-10-04"
+  },
+  {
+    "id": "tt11229556",
+    "imdbId": "tt11229556",
+    "tmdbId": 637663,
+    "type": "movie",
+    "title": "DC Showcase: Death",
+    "poster": "https://image.tmdb.org/t/p/w500/fJLdnDKooRpY56dLD0gnskDUwU7.jpg",
+    "overview": "Vincent, an artist with unresolved inner demons, meets a mysterious girl who helps him come to terms with his creative legacy… and eventual death.",
+    "releaseYear": "2019",
+    "releaseDate": "2019-10-22"
+  },
+  {
+    "id": "tt4651448",
+    "imdbId": "tt4651448",
+    "tmdbId": 86957,
+    "type": "series",
+    "title": "Green Eggs and Ham",
+    "poster": "https://image.tmdb.org/t/p/w500/sPbNUuCOD2ilcVWf5yjjkMqyoxs.jpg",
+    "overview": "Guy-Am-I, an inventor, and his friend Sam-I-Am go on a cross-country trip that would test the limits of their friendship. As they learn to try new things, they find out what adventure brings.",
+    "releaseYear": "2019",
+    "releaseDate": "2019-11-08"
+  },
+  {
     "id": "tt7658402",
     "imdbId": "tt7658402",
     "tmdbId": 74440,
@@ -900,6 +3298,457 @@ module.exports = [
     "overview": "Harley Quinn has finally broken things off once and for all with the Joker. Now, she's trying to make it on her own as the criminal Queenpin of Gotham City, with help from Poison Ivy and a ragtag crew of DC castoffs.",
     "releaseYear": "2019",
     "releaseDate": "2019-11-29"
+  },
+  {
+    "id": "tt10394706",
+    "imdbId": "tt10394706",
+    "tmdbId": 97456,
+    "type": "series",
+    "title": "Deathstroke: Knights & Dragons",
+    "poster": "https://image.tmdb.org/t/p/w500/7WCsBrznq1RLteXUTsiqP3AYKXt.jpg",
+    "overview": "Ten years ago, Slade Wilson-aka the super-assassin called Deathstroke-made a tragic mistake and his wife and son paid a terrible price. Now, a decade later, Wilson's family is threatened once again by the murderous Jackal and the terrorists of H.IV.E. Can Deathstroke atone for the sins of the past-or will his family pay the ultimate price?",
+    "releaseYear": "2020",
+    "releaseDate": "2020-01-06"
+  },
+  {
+    "id": "tt8456280",
+    "imdbId": "tt8456280",
+    "tmdbId": 109086,
+    "type": "series",
+    "title": "Yabba-Dabba Dinosaurs",
+    "poster": "https://image.tmdb.org/t/p/w500/ywpDEYIo4KhhtGLfpCQLVmKrwwg.jpg",
+    "overview": "Pebbles Flintstone and Bam-Bam Rubble are two best friends who do everything together - go to school, hang out at the weekends, and ride giant dinosaurs! Join The Flintstones' adventures in stone age Bedrock, and revisit the familiar faces like Fred and Wilma Flintstone, Barney and Betty Rubble, Dino and all your favourite prehistoric pals!",
+    "releaseYear": "2020",
+    "releaseDate": "2020-02-03"
+  },
+  {
+    "id": "tt8435344",
+    "imdbId": "tt8435344",
+    "tmdbId": 79694,
+    "type": "series",
+    "title": "ThunderCats Roar",
+    "poster": "https://image.tmdb.org/t/p/w500/ixXYN0ODQ1NtObDYXVfh6enuxbo.jpg",
+    "overview": "Lion-O and the ThunderCats — Tygra, Panthro, Cheetara, Wilykat and Wilykit — barely escape the sudden destruction of their home world, Thundera, only to crash land on the mysterious and exotic planet of Third Earth. Lion-O, the newly appointed Lord of the ThunderCats, attempts to lead the team as they make this planet their new home. A bizarre host of creatures and villains stand in their way, including the evil Mumm-Ra, Third Earth’s wicked ruler who will let nothing, including the ThunderCats, stop his tyrannical reign over the planet.",
+    "releaseYear": "2020",
+    "releaseDate": "2020-02-22"
+  },
+  {
+    "id": "tt10985510",
+    "imdbId": "tt10985510",
+    "tmdbId": 618355,
+    "type": "movie",
+    "title": "Superman: Red Son",
+    "poster": "https://image.tmdb.org/t/p/w500/frSfz7olCSQsp2SmTyu2ciGGQiX.jpg",
+    "overview": "Set in the thick of the Cold War, Red Son introduces us to a Superman who landed in the USSR during the 1950s and grows up to become a Soviet symbol that fights for the preservation of Stalin’s brand of communism.",
+    "releaseYear": "2020",
+    "releaseDate": "2020-02-24"
+  },
+  {
+    "id": "tt11802028",
+    "imdbId": "tt11802028",
+    "tmdbId": 618352,
+    "type": "movie",
+    "title": "DC Showcase: The Phantom Stranger",
+    "poster": "https://image.tmdb.org/t/p/w500/akauuYAyzR07bIYtZzFAqzguhp6.jpg",
+    "overview": "Jess joins her friends at a party in a dilapidated mansion hosted by the mysterious Seth. When odd things begin to happen to Jess and her friends, the Phantom Stranger intervenes to save her from a dreary fate.",
+    "releaseYear": "2020",
+    "releaseDate": "2020-02-25"
+  },
+  {
+    "id": "tt9580138",
+    "imdbId": "tt9580138",
+    "tmdbId": 664767,
+    "type": "movie",
+    "title": "Mortal Kombat Legends: Scorpion's Revenge",
+    "poster": "https://image.tmdb.org/t/p/w500/iBvo3qOPcmhlqAaJcXcQHtx2qLk.jpg",
+    "overview": "After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanzo Hasashi is exiled to the torturous Netherrealm. There, in exchange for his servitude to the sinister Quan Chi, he’s given a chance to avenge his family – and is resurrected as Scorpion, a lost soul bent on revenge. Back on Earthrealm, Lord Raiden gathers a team of elite warriors – Shaolin monk Liu Kang, Special Forces officer Sonya Blade, and action star Johnny Cage – an unlikely band of heroes with one chance to save humanity. To do this, they must defeat Shang Tsung's horde of Outworld gladiators and reign over the Mortal Kombat tournament.",
+    "releaseYear": "2020",
+    "releaseDate": "2020-04-12"
+  },
+  {
+    "id": "tt12093878",
+    "imdbId": "tt12093878",
+    "tmdbId": 690369,
+    "type": "movie",
+    "title": "LEGO DC: Shazam! Magic and Monsters",
+    "poster": "https://image.tmdb.org/t/p/w500/ziIyuNNNwYqv0qbOpV9VvvdnRBb.jpg",
+    "overview": "It’s high time the Justice League took notice of Shazam, but joining the world’s greatest team of superheroes is a lot harder when they’ve all been turned into kids.",
+    "releaseYear": "2020",
+    "releaseDate": "2020-04-28"
+  },
+  {
+    "id": "tt11079148",
+    "imdbId": "tt11079148",
+    "tmdbId": 618344,
+    "type": "movie",
+    "title": "Justice League Dark: Apokolips War",
+    "poster": "https://image.tmdb.org/t/p/w500/c01Y4suApJ1Wic2xLmaq1QYcfoZ.jpg",
+    "overview": "Earth is decimated after intergalactic tyrant Darkseid has devastated the Justice League in a poorly executed war by the DC Super Heroes. Now the remaining bastions of good – the Justice League, Teen Titans, Suicide Squad and assorted others – must regroup, strategize and take the war to Darkseid in order to save the planet and its surviving inhabitants.",
+    "releaseYear": "2020",
+    "releaseDate": "2020-05-05"
+  },
+  {
+    "id": "tt12272414",
+    "imdbId": "tt12272414",
+    "tmdbId": 618350,
+    "type": "movie",
+    "title": "DC Showcase: Adam Strange",
+    "poster": "https://image.tmdb.org/t/p/w500/hUDA8NrPtyV9xP6a0n4ZH4NhVD0.jpg",
+    "overview": "On a rugged asteroid mining colony, few of the toiling workers are aware that their town drunk was ever anything but an interplanetary derelict. But when the miners open a fissure into the home of a horde of deadly alien insects, his true identity is exposed. He is space adventurer Adam Strange, whose heroic backstory is played out in flashbacks as he struggles to save the very people who have scorned him for so long.",
+    "releaseYear": "2020",
+    "releaseDate": "2020-05-19"
+  },
+  {
+    "id": "tmdb_1193102",
+    "imdbId": null,
+    "tmdbId": 1193102,
+    "type": "movie",
+    "title": "Marvin Flag Gag: Deflating Planet",
+    "poster": "https://image.tmdb.org/t/p/w500/iJyk5FVccuAfgOfzxNjtLmQZ4GE.jpg",
+    "overview": "Marvin the Martian accidentally deflates his newly-claimed planet for Mars with a flag.",
+    "releaseYear": "2020",
+    "releaseDate": "2020-05-27"
+  },
+  {
+    "id": "tmdb_984779",
+    "imdbId": null,
+    "tmdbId": 984779,
+    "type": "movie",
+    "title": "Fleece & Desist",
+    "poster": "https://image.tmdb.org/t/p/w500/pd7FFxm0iEW7MDFXilw2k056f0A.jpg",
+    "overview": "Sam Sheepdog protects his herd from a hungry Ralph Wolf.",
+    "releaseYear": "2020",
+    "releaseDate": "2020-05-27"
+  },
+  {
+    "id": "tmdb_979581",
+    "imdbId": null,
+    "tmdbId": 979581,
+    "type": "movie",
+    "title": "Bubble Dum",
+    "poster": "https://image.tmdb.org/t/p/w500/csGmIMQR6k0zai99wl7AGHoVomD.jpg",
+    "overview": "Daffy Duck faces off with a pesky piece of gum.",
+    "releaseYear": "2020",
+    "releaseDate": "2020-05-27"
+  },
+  {
+    "id": "tmdb_979567",
+    "imdbId": null,
+    "tmdbId": 979567,
+    "type": "movie",
+    "title": "Firehouse Frenzy",
+    "poster": "https://image.tmdb.org/t/p/w500/kQoOn39Y0uYE02fATOuf3VCinL2.jpg",
+    "overview": "Daffy Duck and Porky Pig make lousy firefighters.",
+    "releaseYear": "2020",
+    "releaseDate": "2020-05-27"
+  },
+  {
+    "id": "tmdb_979566",
+    "imdbId": null,
+    "tmdbId": 979566,
+    "type": "movie",
+    "title": "Big League Beast",
+    "poster": "https://image.tmdb.org/t/p/w500/xRTJxQ6FeE4j8cS1qiA68xWwcAB.jpg",
+    "overview": "When Bugs Bunny overstays his welcome, Dr. Frankenbeans unleashes Gossamer to get rid of him.",
+    "releaseYear": "2020",
+    "releaseDate": "2020-05-27"
+  },
+  {
+    "id": "tmdb_979564",
+    "imdbId": null,
+    "tmdbId": 979564,
+    "type": "movie",
+    "title": "Harm Wrestling",
+    "poster": "https://image.tmdb.org/t/p/w500/qdV4zwRNLZHAmCok4mFOopY1c1D.jpg",
+    "overview": "No one messes with arm-wrestling champ Yosemite Sam - until Bugs Bunny comes along.",
+    "releaseYear": "2020",
+    "releaseDate": "2020-05-27"
+  },
+  {
+    "id": "tt8543208",
+    "imdbId": "tt8543208",
+    "tmdbId": 102321,
+    "type": "series",
+    "title": "Looney Tunes Cartoons",
+    "poster": "https://image.tmdb.org/t/p/w500/2pDQfZMJq95hckoaez9ou93Hmqy.jpg",
+    "overview": "A series of short form cartoons starring the iconic and beloved Looney Tunes characters. Bugs Bunny, Daffy Duck, Porky Pig and other marquee Looney Tunes characters are featured in their classic pairings in simple, gag-driven and visually vibrant stories.",
+    "releaseYear": "2020",
+    "releaseDate": "2020-05-27"
+  },
+  {
+    "id": "tt17519382",
+    "imdbId": "tt17519382",
+    "tmdbId": 1238766,
+    "type": "movie",
+    "title": "Happy Birthday Bugs Bunny!",
+    "poster": "https://image.tmdb.org/t/p/w500/6caqB7NTU3H0XFd8tDgxHtYtD6u.jpg",
+    "overview": "Everyone has gathered for this very special occasion, and of course, Elmer would not miss out on this great opportunity to give Bugs a very very special cake...",
+    "releaseYear": "2020",
+    "releaseDate": "2020-07-27"
+  },
+  {
+    "id": "tt12876132",
+    "imdbId": "tt12876132",
+    "tmdbId": 703771,
+    "type": "movie",
+    "title": "Deathstroke: Knights & Dragons - The Movie",
+    "poster": "https://image.tmdb.org/t/p/w500/vFIHbiy55smzi50RmF8LQjmpGcx.jpg",
+    "overview": "The assassin Deathstroke tries to save his family from the wrath of H.I.V.E. and the murderous Jackal.",
+    "releaseYear": "2020",
+    "releaseDate": "2020-08-04"
+  },
+  {
+    "id": "tt11079116",
+    "imdbId": "tt11079116",
+    "tmdbId": 618354,
+    "type": "movie",
+    "title": "Superman: Man of Tomorrow",
+    "poster": "https://image.tmdb.org/t/p/w500/n9GtiJiBETVFayQy7YnVdF9AucU.jpg",
+    "overview": "It’s the dawn of a new age of heroes, and Metropolis has just met its first. But as Daily Planet intern Clark Kent – working alongside reporter Lois Lane – secretly wields his alien powers of flight, super-strength and x-ray vision in the battle for good, there’s even greater trouble on the horizon.",
+    "releaseYear": "2020",
+    "releaseDate": "2020-08-23"
+  },
+  {
+    "id": "tt12838958",
+    "imdbId": "tt12838958",
+    "tmdbId": 721656,
+    "type": "movie",
+    "title": "Happy Halloween, Scooby-Doo!",
+    "poster": "https://image.tmdb.org/t/p/w500/ojSrGq5qIBObrodYilJQPXSYv6r.jpg",
+    "overview": "Scooby-Doo and the gang team up with their pals, Bill Nye The Science Guy and Elvira Mistress of the Dark, to solve this mystery of gigantic proportions and save Crystal Cove!",
+    "releaseYear": "2020",
+    "releaseDate": "2020-10-06"
+  },
+  {
+    "id": "tt12794046",
+    "imdbId": "tt12794046",
+    "tmdbId": 618353,
+    "type": "movie",
+    "title": "DC Showcase - Batman: Death in the Family",
+    "poster": "https://image.tmdb.org/t/p/w500/k8Q9ulyRE8fkvZMkAM9LPYMKctb.jpg",
+    "overview": "Tragedy strikes the Batman's life again when Robin Jason Todd tracks down his birth mother only to run afoul of the Joker. An adaptation of the 1988 comic book storyline of the same name.",
+    "releaseYear": "2020",
+    "releaseDate": "2020-10-13"
+  },
+  {
+    "id": "tt6951546",
+    "imdbId": "tt6951546",
+    "tmdbId": 107124,
+    "type": "series",
+    "title": "Animaniacs",
+    "poster": "https://image.tmdb.org/t/p/w500/wmPZzLov9OhiknK4jW4qE6mgvHf.jpg",
+    "overview": "Yakko, Wakko and Dot return for all-new big laughs and the occasional epic takedown of authority figures in serious need of an ego check. Joining the Warners are Starbox & Cindy on their latest play date while Pinky and the Brain's ideas for world domination lead them to all new adventures.",
+    "releaseYear": "2020",
+    "releaseDate": "2020-11-20"
+  },
+  {
+    "id": "tt12885852",
+    "imdbId": "tt12885852",
+    "tmdbId": 732450,
+    "type": "movie",
+    "title": "Batman: Soul of the Dragon",
+    "poster": "https://image.tmdb.org/t/p/w500/uDhnTtSxU5a8DtZdbbin3aZmkmU.jpg",
+    "overview": "Bruce Wayne faces a deadly menace from his past, with the help of three former classmates: world-renowned martial artists Richard Dragon, Ben Turner and Lady Shiva.",
+    "releaseYear": "2021",
+    "releaseDate": "2021-01-12"
+  },
+  {
+    "id": "tt14318566",
+    "imdbId": "tt14318566",
+    "tmdbId": 1238748,
+    "type": "movie",
+    "title": "High Hopes",
+    "poster": "https://image.tmdb.org/t/p/w500/HL9vV62YN2ilkXG8Bn9sa0v6a1.jpg",
+    "overview": "Sylvester tries to capture Tweety while Granny takes some much needed “me-time.”",
+    "releaseYear": "2021",
+    "releaseDate": "2021-01-23"
+  },
+  {
+    "id": "tt14318564",
+    "imdbId": "tt14318564",
+    "tmdbId": 821348,
+    "type": "movie",
+    "title": "Hole Lotta Trouble",
+    "poster": "https://image.tmdb.org/t/p/w500/7qzcYUpW4kikDDD3VW8iOE42UoO.jpg",
+    "overview": "Elmer Fudd chases Bugs down a rabbit hole, but Bugs has a few tricks up his sleeve.",
+    "releaseYear": "2021",
+    "releaseDate": "2021-01-29"
+  },
+  {
+    "id": "tt14109952",
+    "imdbId": "tt14109952",
+    "tmdbId": 799018,
+    "type": "movie",
+    "title": "The House That Cat Built",
+    "poster": "https://image.tmdb.org/t/p/w500/6ACzNBuI9n8v38iQmyNC0diyFQN.jpg",
+    "overview": "When Jerry invades Tom's new extra-deluxe, extra-large cat castle, Tom is determined to get Jerry out.",
+    "releaseYear": "2021",
+    "releaseDate": "2021-02-20"
+  },
+  {
+    "id": "tt14109950",
+    "imdbId": "tt14109950",
+    "tmdbId": 799012,
+    "type": "movie",
+    "title": "On a Roll",
+    "poster": "https://image.tmdb.org/t/p/w500/AmPHbFZ4gb0K1dmXRyZVxybhBji.jpg",
+    "overview": "When a sushi chef sees Jerry scurrying around his restaurant, he tells Tom to earn his keep by catching that sushi-stealing mouse.",
+    "releaseYear": "2021",
+    "releaseDate": "2021-02-20"
+  },
+  {
+    "id": "tt13676256",
+    "imdbId": "tt13676256",
+    "tmdbId": 682254,
+    "type": "movie",
+    "title": "Scooby-Doo! The Sword and the Scoob",
+    "poster": "https://image.tmdb.org/t/p/w500/sCoG0ibohbPrnyomtzegSuBL40L.jpg",
+    "overview": "An evil sorceress transports the gang back to the age of chivalrous knights, spell-casting wizards, and fire-breathing dragons.",
+    "releaseYear": "2021",
+    "releaseDate": "2021-02-24"
+  },
+  {
+    "id": "tt14577038",
+    "imdbId": "tt14577038",
+    "tmdbId": 791343,
+    "type": "movie",
+    "title": "DC Showcase: Kamandi: The Last Boy on Earth!",
+    "poster": "https://image.tmdb.org/t/p/w500/lDebLQqHbrxN6S6wAchaH0GabZT.jpg",
+    "overview": "Kamandi and his friends Prince Tuftan of the Tiger Kingdom and humanoid mutant Ben Boxer are kidnapped by a gorilla cult dedicated to finding the reincarnation of their god, The Mighty One. Golgan, the cult’s leader, puts Kamandi’s team through a series of deadly tests to find if any of them know the secret of … The Mighty One.",
+    "releaseYear": "2021",
+    "releaseDate": "2021-04-27"
+  },
+  {
+    "id": "tt13804084",
+    "imdbId": "tt13804084",
+    "tmdbId": 736069,
+    "type": "movie",
+    "title": "Justice Society: World War II",
+    "poster": "https://image.tmdb.org/t/p/w500/tOUJvmdjppmPYZOoykWmerSspMT.jpg",
+    "overview": "When the Flash finds himself dropped into the middle of World War II, he joins forces with Wonder Woman and her top-secret team known as the Justice Society of America.",
+    "releaseYear": "2021",
+    "releaseDate": "2021-04-27"
+  },
+  {
+    "id": "tt14851194",
+    "imdbId": "tt14851194",
+    "tmdbId": 834404,
+    "type": "movie",
+    "title": "Teen Titans Go! See Space Jam",
+    "poster": "https://image.tmdb.org/t/p/w500/xBOipwFIZS2uLk0FwmKpysCx4HD.jpg",
+    "overview": "The Teen Titans are visited by the Nerdlucks, the Space Jam villains who tried to capture Michael Jordan and the Looney Tunes. Astonished to discover his fellow Titans have never seen Space Jam, Cyborg organizes an exclusive watch party.",
+    "releaseYear": "2021",
+    "releaseDate": "2021-06-20"
+  },
+  {
+    "id": "tt14324650",
+    "imdbId": "tt14324650",
+    "tmdbId": 736073,
+    "type": "movie",
+    "title": "Batman: The Long Halloween, Part One",
+    "poster": "https://image.tmdb.org/t/p/w500/sR7gppb0YGjwLvE6Vnj6wYv5MnW.jpg",
+    "overview": "Following a brutal series of murders taking place on Halloween, Thanksgiving, and Christmas, Gotham City's young vigilante known as the Batman sets out to pursue the mysterious serial killer alongside police officer James Gordon and district attorney Harvey Dent.",
+    "releaseYear": "2021",
+    "releaseDate": "2021-06-21"
+  },
+  {
+    "id": "tt14948338",
+    "imdbId": "tt14948338",
+    "tmdbId": 791344,
+    "type": "movie",
+    "title": "DC Showcase: The Losers",
+    "poster": "https://image.tmdb.org/t/p/w500/m63tjpijO5bWXIoAm26YKy5xY6c.jpg",
+    "overview": "The legendary rag-tag team of World War II outcasts – Captain Storm, Johnny Cloud, “Mile-a Minute” Jones, rookie Gunner and Sarge – find themselves marooned on an uncharted island in the South Pacific that is completely overrun with dinosaurs! Their would-be ally on this deadly mission, the mysterious and beautiful Fan Long of the Chinese Security Agency, tells them their job is to rescue the scientists that have been sent to study the time/space anomaly. Perhaps… but what is her mission?",
+    "releaseYear": "2021",
+    "releaseDate": "2021-06-22"
+  },
+  {
+    "id": "tt14833766",
+    "imdbId": "tt14833766",
+    "tmdbId": 127445,
+    "type": "series",
+    "title": "Tom and Jerry in New York",
+    "poster": "https://image.tmdb.org/t/p/w500/bLVyhu8d9oIanVqVLCV0b1jqhzE.jpg",
+    "overview": "Follow the iconic cat and mouse duo as they settle in to their new digs at the Royal Gate Hotel and unleash mayhem across the big city, inciting hilarious chaos uptown, downtown and everywhere their manic escapades take them.",
+    "releaseYear": "2021",
+    "releaseDate": "2021-07-01"
+  },
+  {
+    "id": "tt14402926",
+    "imdbId": "tt14402926",
+    "tmdbId": 736074,
+    "type": "movie",
+    "title": "Batman: The Long Halloween, Part Two",
+    "poster": "https://image.tmdb.org/t/p/w500/5X1n5q08mZ7NpNpxehMFODxfNYq.jpg",
+    "overview": "As Gotham City's young vigilante, the Batman, struggles to pursue a brutal serial killer, district attorney Harvey Dent gets caught in a feud involving the criminal family of the Falcones.",
+    "releaseYear": "2021",
+    "releaseDate": "2021-07-26"
+  },
+  {
+    "id": "tt15129756",
+    "imdbId": "tt15129756",
+    "tmdbId": 791346,
+    "type": "movie",
+    "title": "DC Showcase: Blue Beetle",
+    "poster": "https://image.tmdb.org/t/p/w500/6ssj7xaCoDhOekcasPCWbfjLfwR.jpg",
+    "overview": "SUFFERIN' SCARABS! Silver Age Blue Beetle is back! Thrill to the adventures of Ted Kord, alias the Blue Beetle, as he teams up with fellow Charlton Comics heroes Captain Atom, The Questions and Nightshade to battle the nefarious finagler of feelings, Doctor Spectro!",
+    "releaseYear": "2021",
+    "releaseDate": "2021-07-27"
+  },
+  {
+    "id": "tt11198220",
+    "imdbId": "tt11198220",
+    "tmdbId": 128071,
+    "type": "series",
+    "title": "Jellystone!",
+    "poster": "https://image.tmdb.org/t/p/w500/7SwSAG48QvvMy8jlAgm3LGt3VGq.jpg",
+    "overview": "Welcome to Jellystone! Travel to a magical town where you’ll meet new and old friends, including Yogi Bear, Cindy Bear, Boo Boo, and Huckleberry Hound…and Jabberjaw and Top Cat and Snagglepuss and El Kabong and Wally Gator and Johnny Quest and Hadji and Shag Rugg and Captain Caveman and a whole lot more.",
+    "releaseYear": "2021",
+    "releaseDate": "2021-07-29"
+  },
+  {
+    "id": "tt14901058",
+    "imdbId": "tt14901058",
+    "tmdbId": 841755,
+    "type": "movie",
+    "title": "Mortal Kombat Legends: Battle of the Realms",
+    "poster": "https://image.tmdb.org/t/p/w500/ablrE8IbWcIrAxMmm4gnPn75AMS.jpg",
+    "overview": "When Shao Kahn's Outworld barbarians terrorize Earthrealm, Lord Raiden is determined to put an end to the carnage once and for all. This leaves one option: a final Mortal Kombat tournament for the future of Earthrealm – win it or lose everything. Raiden's elite fighters Liu Kang, Johnny Cage, Sonya Blade, and a few new faces kick the action into overdrive as they go head-to-head with Outworld's most bloodthirsty warriors. But deep in the Netherrealm, an unspeakable scheme by the malevolent Shinnok unfolds, threatening to obliterate existence.",
+    "releaseYear": "2021",
+    "releaseDate": "2021-08-30"
+  },
+  {
+    "id": "tt10473710",
+    "imdbId": "tt10473710",
+    "tmdbId": 131478,
+    "type": "series",
+    "title": "Little Ellen",
+    "poster": "https://image.tmdb.org/t/p/w500/avs0E7SmdKtmqdg4f5mILMnKIRY.jpg",
+    "overview": "Explore the world through the eyes of a hilarious and unpredictable seven-year-old Ellen DeGeneres. On her adventures in her musical hometown of New Orleans, Little Ellen takes big risks and makes big mistakes, but she's always able to laugh at herself and bounce back when things don't go as planned.",
+    "releaseYear": "2021",
+    "releaseDate": "2021-09-13"
+  },
+  {
+    "id": "tt14903892",
+    "imdbId": "tt14903892",
+    "tmdbId": 843906,
+    "type": "movie",
+    "title": "Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog",
+    "poster": "https://image.tmdb.org/t/p/w500/rlQJnQfPgaSGQtyMw35VOIqoIsj.jpg",
+    "overview": "With Mystery, Inc. on the tail of a strange object in Nowhere, Kansas, the strange hometown of Eustace, Muriel, and Courage, the gang soon find themselves contending with a giant cicada monster and her winged warriors.",
+    "releaseYear": "2021",
+    "releaseDate": "2021-09-14"
+  },
+  {
+    "id": "tt5012504",
+    "imdbId": "tt5012504",
+    "tmdbId": 831405,
+    "type": "movie",
+    "title": "Injustice",
+    "poster": "https://image.tmdb.org/t/p/w500/rzrSeqqpm1BwJ3tcTznztBtLLSD.jpg",
+    "overview": "When Lois Lane is killed, an unhinged Superman decides to take control of the Earth. Determined to stop him, Batman creates a team of freedom-fighting heroes. But when superheroes go to war, can the world survive?",
+    "releaseYear": "2021",
+    "releaseDate": "2021-10-09"
   },
   {
     "id": "tt11639062",
@@ -913,6 +3762,138 @@ module.exports = [
     "releaseDate": "2021-10-14"
   },
   {
+    "id": "tt15554066",
+    "imdbId": "tt15554066",
+    "tmdbId": 833516,
+    "type": "movie",
+    "title": "Scooby-Doo, Where Are You Now!",
+    "poster": "https://image.tmdb.org/t/p/w500/tXaFwcbXYpmG5QAhM3qezr7mp8S.jpg",
+    "overview": "After 52 years of solving mysteries, the Scooby gang reunite at Warner Bros. Studios to reminisce about their favorite cases and how they were filmed. But it turns out that the back lot may have its OWN monster problem. Fred, Daphne, Velma, Shaggy, and Scooby-Doo investigate this mystery while celebrating the legacy of the franchise.",
+    "releaseYear": "2021",
+    "releaseDate": "2021-10-29"
+  },
+  {
+    "id": "tt15554088",
+    "imdbId": "tt15554088",
+    "tmdbId": 903954,
+    "type": "movie",
+    "title": "Beebo Saves Christmas",
+    "poster": "https://image.tmdb.org/t/p/w500/177Jlgh6fEUCn49gXLWcDux0q3F.jpg",
+    "overview": "When Sprinkles, an efficiency-obsessed elf, decides that Christmas would run better without Santa Claus, Beebo and his friends travel to the North Pole to help discover what truly makes Christmas meaningful.",
+    "releaseYear": "2021",
+    "releaseDate": "2021-12-01"
+  },
+  {
+    "id": "tt15831226",
+    "imdbId": "tt15831226",
+    "tmdbId": 892153,
+    "type": "movie",
+    "title": "Tom and Jerry Cowboy Up!",
+    "poster": "https://image.tmdb.org/t/p/w500/muIaHotSaSUQr0KZCIJOYQEe7y2.jpg",
+    "overview": "This time, the rivals team up to help a cowgirl and her brother save their homestead from a greedy land-grabber, and they’re going to need some help! Jerry’s three precocious nephews are all ready for action, and Tom is rounding up a posse of prairie dogs. But can a ragtag band of varmints defeat a deceitful desperado determined to deceive a damsel in distress? No matter what happens with Tom and Jerry in the saddle, it’ll be a rootin’ tootin’ good time!",
+    "releaseYear": "2022",
+    "releaseDate": "2022-01-24"
+  },
+  {
+    "id": "tt15248702",
+    "imdbId": "tt15248702",
+    "tmdbId": 862491,
+    "type": "movie",
+    "title": "Catwoman: Hunted",
+    "poster": "https://image.tmdb.org/t/p/w500/iu01cvxs3eLQzra3YNF1pbpXIZa.jpg",
+    "overview": "Catwoman's attempt to steal a priceless jewel puts her squarely in the crosshairs of both a powerful consortium of villains and the ever-resourceful Interpol, not to mention Batwoman.",
+    "releaseYear": "2022",
+    "releaseDate": "2022-02-07"
+  },
+  {
+    "id": "tt18305072",
+    "imdbId": "tt18305072",
+    "tmdbId": 791348,
+    "type": "movie",
+    "title": "DC Showcase - Constantine: The House of Mystery",
+    "poster": "https://image.tmdb.org/t/p/w500/nKLa8IginSnGQAAsr1kzIqiDmkf.jpg",
+    "overview": "John Constantine wakes up in the eerie House of Mystery with no recollection of how he got there. Fortunately, Zatanna and his friends are all there. Unfortunately, they have a bad habit of turning into demons and ripping him to shreds, over and over again!",
+    "releaseYear": "2022",
+    "releaseDate": "2022-05-02"
+  },
+  {
+    "id": "tt18250460",
+    "imdbId": "tt18250460",
+    "tmdbId": 913205,
+    "type": "movie",
+    "title": "Teen Titans Go! & DC Super Hero Girls: Mayhem in the Multiverse",
+    "poster": "https://image.tmdb.org/t/p/w500/sCOt6rm6bcppXeYIHalAXJGIZZE.jpg",
+    "overview": "With the help of an ancient Kryptonian power, Lex Luthor unites the world’s Super-Villains to capture all of Earth's Super Heroes, until…only the DC Super Hero Girls are left to stop the Legion of Doom. Our heroes must cross dimensions to rescue their fellow Super Heroes from the Phantom Zone, but a fortuitous wrong turn leads them to Titans Tower – where they find much-needed allies in the Teen Titans!",
+    "releaseYear": "2022",
+    "releaseDate": "2022-05-24"
+  },
+  {
+    "id": "tt18951472",
+    "imdbId": "tt18951472",
+    "tmdbId": 952217,
+    "type": "movie",
+    "title": "King Tweety",
+    "poster": "https://image.tmdb.org/t/p/w500/jJatuRAVIsxAIszL3QTxrbIzxzc.jpg",
+    "overview": "Everyone's favorite yellow canary unexpectedly becomes next in line for the crown when the queen of an island paradise disappears. His Little Highness’ entourage includes motorbike daredevil Granny and sly Sylvester, whose allegiance is tested when he uncovers a sinister plot to eliminate Tweety for good.",
+    "releaseYear": "2022",
+    "releaseDate": "2022-06-13"
+  },
+  {
+    "id": "tt21050232",
+    "imdbId": "tt21050232",
+    "tmdbId": 203687,
+    "type": "series",
+    "title": "Bugs Bunny Builders",
+    "poster": "https://image.tmdb.org/t/p/w500/llYAgSgJBH1EnC17e2d5WnxgP5K.jpg",
+    "overview": "At ACME Construction Company, Bugs Bunny and Lola Bunny manage an inept crew of builders. By working together as a team, Daffy Duck, Porky Pig, Tweety, and others use their tools and wild vehicles to pull off some of the looniest construction jobs ever.",
+    "releaseYear": "2022",
+    "releaseDate": "2022-07-25"
+  },
+  {
+    "id": "tt20192230",
+    "imdbId": "tt20192230",
+    "tmdbId": 887357,
+    "type": "movie",
+    "title": "Green Lantern: Beware My Power",
+    "poster": "https://image.tmdb.org/t/p/w500/nS41LN1m2HYvVotvgOTcbPW2cjL.jpg",
+    "overview": "Recently discharged Marine sniper John Stewart is at a crossroads in his life, one which is only complicated by receiving an extraterrestrial ring which grants him the powers of the Green Lantern of Earth. Unfortunately, the ring doesn't come with instructions - but it does come with baggage, like a horde of interplanetary killers bent on eliminating every Green Lantern in the universe. Now, with the aid of the light-hearted Green Arrow, Adam Strange and Hawkgirl, this reluctant soldier must journey into the heart of a galactic Rann/Thanagar war and somehow succeed where all other Green Lanterns have failed.",
+    "releaseYear": "2022",
+    "releaseDate": "2022-07-26"
+  },
+  {
+    "id": "tt21958986",
+    "imdbId": "tt21958986",
+    "tmdbId": 1018403,
+    "type": "movie",
+    "title": "Tom and Jerry: Snowman's Land",
+    "poster": "https://image.tmdb.org/t/p/w500/memqWrs4zmLgMBfzTfebrOXbytG.jpg",
+    "overview": "It’s time to chase that holiday spirit with Tom and Jerry! With magic in the air, Jerry and his nephew, Tuffy, make a snow mouse that miraculously comes to life! To keep their new friend, Larry the snow mouse from melting, Tuffy and Jerry must race him to the fabled Snowman’s Village. In hot pursuit, Tom and devious Dr. Doublevay have their own plans for Larry’s magic.",
+    "releaseYear": "2022",
+    "releaseDate": "2022-09-06"
+  },
+  {
+    "id": "tt21919270",
+    "imdbId": "tt21919270",
+    "tmdbId": 1015724,
+    "type": "movie",
+    "title": "Trick or Treat Scooby-Doo!",
+    "poster": "https://image.tmdb.org/t/p/w500/wZccw4Hj9ZF1yimnfPsX9rl3HvB.jpg",
+    "overview": "Mystery Inc. has cracked the case to top all cases! They’ve tracked down Coco Diablo, the head of a notorious costume crime syndicate. With Coco and her kitty in prison, Mystery Inc. thinks that they can finally enjoy a break. Wrong! Suddenly, menacing doppelgänger ghosts of the Scooby crew and favorite classic foes show up in Coolsville to threaten Halloween. Now it’s up to the meddling kids to unmask the latest scoundrel and save Halloween!",
+    "releaseYear": "2022",
+    "releaseDate": "2022-10-04"
+  },
+  {
+    "id": "tt21477618",
+    "imdbId": "tt21477618",
+    "tmdbId": 1007401,
+    "type": "movie",
+    "title": "Mortal Kombat Legends: Snow Blind",
+    "poster": "https://image.tmdb.org/t/p/w500/8wyOdQRVrpoUb2wMdGHykaD17GM.jpg",
+    "overview": "The vicious, power-mad Kano is determined to take over Earthrealm, one soul at a time. Assisted by a trio of cold Black Dragon mercenaries, he embarks on a brutal assault from town to defenseless town. The choice is simple: kneel or be annihilated. Kenshi, a rebel warrior, calls on Kuai Liang, the only one powerful enough to challenge the malevolent Kano. But Kuai Liang has given up the ways of the warrior, and Kenshi is too undisciplined to defeat Kano himself. If Kuai Liang cannot break through the glacier of doubt that holds him back, Earthrealm will fall.",
+    "releaseYear": "2022",
+    "releaseDate": "2022-10-09"
+  },
+  {
     "id": "tt13292830",
     "imdbId": "tt13292830",
     "tmdbId": 155780,
@@ -922,6 +3903,83 @@ module.exports = [
     "overview": "The Batwheels are a team of sentient super-powered crimefighting vehicles that help Batman, Robin and Batgirl—as well as a host of additional DC Super Heroes—keep Gotham City safe. Created only recently by the Batcomputer, our mechanized heroes must navigate the growing pains of being a newly formed super-team as well as the growing pains that come with just being a kid.",
     "releaseYear": "2022",
     "releaseDate": "2022-10-15"
+  },
+  {
+    "id": "tt21197740",
+    "imdbId": "tt21197740",
+    "tmdbId": 886396,
+    "type": "movie",
+    "title": "Batman and Superman: Battle of the Super Sons",
+    "poster": "https://image.tmdb.org/t/p/w500/mvffaexT5kA3chOnGxwBSlRoshh.jpg",
+    "overview": "After discovering he has powers, 11-year-old Jonathan Kent and assassin-turned-Boy-Wonder Damian Wayne must join forces to rescue their fathers (Superman & Batman) and save the planet from the malevolent alien force known as Starro.",
+    "releaseYear": "2022",
+    "releaseDate": "2022-10-17"
+  },
+  {
+    "id": "tt14153790",
+    "imdbId": "tt14153790",
+    "tmdbId": 126725,
+    "type": "series",
+    "title": "Velma",
+    "poster": "https://image.tmdb.org/t/p/w500/zxkNhuPSHeDv3yA7sFu2RuEOGgR.jpg",
+    "overview": "Jinkies! This raucous reimagining of the Scooby-Doo franchise unravels the mysterious origins of Mystery, Inc. – as seen through the eyes of the gang’s beloved bespectacled detective Velma.",
+    "releaseYear": "2023",
+    "releaseDate": "2023-01-12"
+  },
+  {
+    "id": "tt22769820",
+    "imdbId": "tt22769820",
+    "tmdbId": 1003580,
+    "type": "movie",
+    "title": "Legion of Super-Heroes",
+    "poster": "https://image.tmdb.org/t/p/w500/3whQLi8RI7h2h2Si2KTDFJxfEcR.jpg",
+    "overview": "Kara, devastated by the loss of Krypton, struggles to adjust to her new life on Earth. Her cousin, Superman, mentors her and suggests she leave their space-time to attend the Legion Academy in the 31st century, where she makes new friends and a new enemy: Brainiac 5. Meanwhile, she must contend with a mysterious group called the Dark Circle as it searches for a powerful weapon held in the Academy’s vault.",
+    "releaseYear": "2023",
+    "releaseDate": "2023-02-07"
+  },
+  {
+    "id": "tt24223450",
+    "imdbId": "tt24223450",
+    "tmdbId": 1003579,
+    "type": "movie",
+    "title": "Batman: The Doom That Came to Gotham",
+    "poster": "https://image.tmdb.org/t/p/w500/sKWN5ZzDxnfVixUavs09HfBCCA3.jpg",
+    "overview": "Explorer Bruce Wayne accidentally unleashes an ancient evil, and returns to Gotham after being away for two decades. There, Batman battles Lovecraftian supernatural forces and encounters allies and enemies such as Green Arrow, Ra's al Ghul, Mr. Freeze, Killer Croc, Two-Face and James Gordon.",
+    "releaseYear": "2023",
+    "releaseDate": "2023-03-10"
+  },
+  {
+    "id": "tt24548912",
+    "imdbId": "tt24548912",
+    "tmdbId": 997776,
+    "type": "movie",
+    "title": "Justice League x RWBY: Super Heroes & Huntsmen, Part One",
+    "poster": "https://image.tmdb.org/t/p/w500/lCwLDdFH8oNRzUH0qgucdRGACAJ.jpg",
+    "overview": "Superman, Batman, Wonder Woman, Flash, Cyborg, Green Lantern and Vixen are transported to the strange world of Remnant and find themselves turned into teenagers. Meanwhile, Remnant heroes Ruby, Weiss, Blake and Yang must combine forces with the Justice League to uncover why their planet has been mysteriously altered before a superpowered Grimm destroys everything.",
+    "releaseYear": "2023",
+    "releaseDate": "2023-04-25"
+  },
+  {
+    "id": "tt9860690",
+    "imdbId": "tt9860690",
+    "tmdbId": 90808,
+    "type": "series",
+    "title": "Gremlins: Secrets of the Mogwai",
+    "poster": "https://image.tmdb.org/t/p/w500/fkkBQsWgRX7OFxzV0jtCM88a0Xq.jpg",
+    "overview": "Set in 1920s Shanghai, ten-year-old Sam and 12-year-old Elle return the Mogwai Gizmo back home to the lush and perilous Valley of Jade.",
+    "releaseYear": "2023",
+    "releaseDate": "2023-05-23"
+  },
+  {
+    "id": "tt27469256",
+    "imdbId": "tt27469256",
+    "tmdbId": 1109207,
+    "type": "movie",
+    "title": "Taz: Quest for Burger",
+    "poster": "https://image.tmdb.org/t/p/w500/kL4GDXHnwknt5oyD9eyyi693gbB.jpg",
+    "overview": "After an outlaw abducts her father and steals her town’s food supply, a feisty adolescent bandicoot named Quinn recruits the Tasmanian Devil to help her find the thief. Taz may be an ill-tempered rogue with a fearsome reputation, but he and Quinn will have to work together to track the criminal through the wilds of Tasmania and save her community.",
+    "releaseYear": "2023",
+    "releaseDate": "2023-06-06"
   },
   {
     "id": "tt14681924",
@@ -935,6 +3993,149 @@ module.exports = [
     "releaseDate": "2023-07-07"
   },
   {
+    "id": "tt27687527",
+    "imdbId": "tt27687527",
+    "tmdbId": 1003581,
+    "type": "movie",
+    "title": "Justice League: Warworld",
+    "poster": "https://image.tmdb.org/t/p/w500/pHdSS5G3wDwJp6jWgMpbSjNiTbr.jpg",
+    "overview": "Until now, the Justice League has been a loose association of superpowered individuals. But when they are swept away to Warworld, a place of unending brutal gladiatorial combat, Batman, Superman, Wonder Woman and the others must somehow unite to form an unbeatable resistance able to lead an entire planet to freedom.",
+    "releaseYear": "2023",
+    "releaseDate": "2023-07-25"
+  },
+  {
+    "id": "tt27712788",
+    "imdbId": "tt27712788",
+    "tmdbId": 1121575,
+    "type": "movie",
+    "title": "Babylon 5: The Road Home",
+    "poster": "https://image.tmdb.org/t/p/w500/qlXLiFKf2kvJ4K2VDBC5Z048vm3.jpg",
+    "overview": "Travel across the galaxy with John Sheridan as he unexpectedly finds himself transported through multiple timelines and alternate realities in a quest to find his way back home. Along the way he reunites with some familiar faces, while discovering cosmic new revelations about the history, purpose, and meaning of the Universe.",
+    "releaseYear": "2023",
+    "releaseDate": "2023-08-14"
+  },
+  {
+    "id": "tt13362852",
+    "imdbId": "tt13362852",
+    "tmdbId": 155779,
+    "type": "series",
+    "title": "Tiny Toons Looniversity",
+    "poster": "https://image.tmdb.org/t/p/w500/siC9LhWsSTpUvuSGNsCQZGE8zcI.jpg",
+    "overview": "Follow Babs and Buster Bunny, Sweetie Bird, Hamton J. Pig, and Plucky Duck as they learn what it takes to be a professional toon.",
+    "releaseYear": "2023",
+    "releaseDate": "2023-09-09"
+  },
+  {
+    "id": "tt28508231",
+    "imdbId": "tt28508231",
+    "tmdbId": 1146348,
+    "type": "movie",
+    "title": "Scooby-Doo! and Krypto, Too!",
+    "poster": "https://image.tmdb.org/t/p/w500/ntMOnvlYYnio7Fx3xqBu9B1Sz7f.jpg",
+    "overview": "When the Justice League goes missing and villains overrun Metropolis, there's only one team that can solve this mystery: Scooby-Doo and the gang! But wait, there's a new dog in town – Krypto – Superman's Superdog with Super Powers. Mystery Inc. will need all the help it can get when phantoms menace the Justice League's headquarters.",
+    "releaseYear": "2023",
+    "releaseDate": "2023-09-25"
+  },
+  {
+    "id": "tt28786861",
+    "imdbId": "tt28786861",
+    "tmdbId": 1150537,
+    "type": "movie",
+    "title": "Justice League x RWBY: Super Heroes & Huntsmen, Part Two",
+    "poster": "https://image.tmdb.org/t/p/w500/o9qmCvnJLCqMuKsrZ0tWvSCEWTz.jpg",
+    "overview": "On the heels of successfully escaping a deadly digital trap, the members of the Justice League emerge in their own world to discover that Grimm, ravenous creatures from Remnant, have overtaken Earth! In order to defeat the monsters, they must call on their new friends – Team RWBY – for help!",
+    "releaseYear": "2023",
+    "releaseDate": "2023-10-17"
+  },
+  {
+    "id": "tt22698070",
+    "imdbId": "tt22698070",
+    "tmdbId": 1034062,
+    "type": "movie",
+    "title": "Mortal Kombat Legends: Cage Match",
+    "poster": "https://image.tmdb.org/t/p/w500/1eKWqTHp4OgKdx1QX1O9LxKHr1M.jpg",
+    "overview": "In 1980s Hollywood, action star Johnny Cage is looking to become an A-list actor. But when his costar, Jennifer, goes missing from set, Johnny finds himself thrust into a world filled with shadows, danger, and deceit. As he embarks on a bloody journey, Johnny quickly discovers the City of Angels has more than a few devils in its midst. He faces off against a sinister secret society plotting a nefarious scheme, but the brutal fight against the bloodthirsty warriors of the Netherrealm is just beginning.",
+    "releaseYear": "2023",
+    "releaseDate": "2023-10-17"
+  },
+  {
+    "id": "tt28500997",
+    "imdbId": "tt28500997",
+    "tmdbId": 217288,
+    "type": "series",
+    "title": "Tom and Jerry",
+    "poster": "https://image.tmdb.org/t/p/w500/bCOxX1rjJOhn8jsW93ptOzWGip6.jpg",
+    "overview": "Tom and Jerry as you've never seen them before! With a fresh new look that was born and bred in Asia, they are ready for their adventures in the region. Starting off with Singapore, Tom and Jerry chase each other through the Marina Barrage, Joo Chiat or Bishan Park. Look out also for the Singapore River or your favourite HDB estate! Totally at home with our balmy weather because like true blue Singaporeans, they know exactly how to cool down. Their \"kiasu\" ways come in handy too as they make a new friend with Merli.",
+    "releaseYear": "2023",
+    "releaseDate": "2023-10-21"
+  },
+  {
+    "id": "tt15352526",
+    "imdbId": "tt15352526",
+    "tmdbId": 870359,
+    "type": "movie",
+    "title": "Urkel Saves Santa: The Movie!",
+    "poster": "https://image.tmdb.org/t/p/w500/hSBIk1EQrt2DJHQHjYqQCHQeHRt.jpg",
+    "overview": "The holiday season has arrived, and brilliant but accident-prone Steve Urkel has already ruined his local celebration by publicly humiliating a shopping mall Santa. In his attempt to make things right and score some nice points with the big guy in the North Pole, Steve creates an invention that only makes things worse. Using his big brain and even bigger heart, Steve must find the real Santa to see if together they can help the city rediscover the holiday spirit.",
+    "releaseYear": "2023",
+    "releaseDate": "2023-11-21"
+  },
+  {
+    "id": "tt15352516",
+    "imdbId": "tt15352516",
+    "tmdbId": 870358,
+    "type": "movie",
+    "title": "Merry Little Batman",
+    "poster": "https://image.tmdb.org/t/p/w500/2J70guF8wcErbYbRgZUBcvShgI1.jpg",
+    "overview": "This Christmas, Damian Wayne wants to be a superhero like his dad – the one and only Batman. When Damian is left home alone while Batman takes on Gotham’s worst supervillains on Christmas Eve, he stumbles upon a villainous plot to steal Christmas and leaps at the chance to save the day.",
+    "releaseYear": "2023",
+    "releaseDate": "2023-12-08"
+  },
+  {
+    "id": "tt29195117",
+    "imdbId": "tt29195117",
+    "tmdbId": 1155089,
+    "type": "movie",
+    "title": "Justice League: Crisis on Infinite Earths Part One",
+    "poster": "https://image.tmdb.org/t/p/w500/mcRVsjMbhFstRK9z2oGRHiIvulr.jpg",
+    "overview": "Death is coming. Worse than death: oblivion. Not just for our Earth, but for everyone, everywhere, in every universe! Against this ultimate destruction, the mysterious Monitor has gathered the greatest team of Super Heroes ever assembled. But what can the combined might of Superman, Wonder Woman, Batman, The Flash, Green Lantern and hundreds of Super Heroes from multiple Earths even do to save all of reality from an unstoppable antimatter armageddon?!",
+    "releaseYear": "2024",
+    "releaseDate": "2024-01-08"
+  },
+  {
+    "id": "tt30150907",
+    "imdbId": "tt30150907",
+    "tmdbId": 1209288,
+    "type": "movie",
+    "title": "Justice League: Crisis on Infinite Earths Part Two",
+    "poster": "https://image.tmdb.org/t/p/w500/g8ak4QAGLZpqMs3CpnFHWWfIzJQ.jpg",
+    "overview": "An endless army of shadow demons bent on the destruction of all reality swarms over our world and all parallel Earths! The only thing opposing them is the mightiest team of metahumans ever assembled. But not even the combined power of Superman, Batman, Wonder Woman, Green Lantern and all their fellow superheroes can slow down the onslaught of this invincible horde. What mysterious force is driving them? And how do the long-buried secrets of the Monitor and Supergirl threaten to crush our last defense?",
+    "releaseYear": "2024",
+    "releaseDate": "2024-04-22"
+  },
+  {
+    "id": "tt28279848",
+    "imdbId": "tt28279848",
+    "tmdbId": 229926,
+    "type": "series",
+    "title": "Suicide Squad Isekai",
+    "poster": "https://image.tmdb.org/t/p/w500/AbVwsBJnLoqJzPJn8dlGFSGfygy.jpg",
+    "overview": "In the crime-ridden city of Gotham, Amanda Waller, the head of A.R.G.U.S., assembles a group of notorious criminals—Harley Quinn, Deadshot, Peacemaker, Clayface and King Shark—for a mission into an otherworldly realm that's connected to this world through a gate. It's a realm of swords and magic where orcs rampage and dragons rule the skies. Can Harley Quinn and her crew conquer this perilous realm?",
+    "releaseYear": "2024",
+    "releaseDate": "2024-06-27"
+  },
+  {
+    "id": "tt30150917",
+    "imdbId": "tt30150917",
+    "tmdbId": 1209290,
+    "type": "movie",
+    "title": "Justice League: Crisis on Infinite Earths Part Three",
+    "poster": "https://image.tmdb.org/t/p/w500/a3q8NkM8uTh9E23VsbUOdDSbBeN.jpg",
+    "overview": "Now fully revealed as the ultimate threat to existence, the Anti-Monitor wages an unrelenting attack on the surviving Earths that struggle for survival in a pocket universe. One by one, these worlds and all their inhabitants are vaporized! On the planets that remain, even time itself is shattered, and heroes from the past join the Justice League and their rag-tag allies against the epitome of evil. But as they make their last stand, will the sacrifice of the superheroes be enough to save us all?",
+    "releaseYear": "2024",
+    "releaseDate": "2024-07-15"
+  },
+  {
     "id": "tt19853518",
     "imdbId": "tt19853518",
     "tmdbId": 200753,
@@ -946,6 +4147,72 @@ module.exports = [
     "releaseDate": "2024-07-18"
   },
   {
+    "id": "tmdb_260183",
+    "imdbId": null,
+    "tmdbId": 260183,
+    "type": "series",
+    "title": "Looney Tunes Presents: Sports Talk With Bugs Bunny",
+    "poster": "https://image.tmdb.org/t/p/w500/svXzRFIwmp2IsiiXLcgtFuEO7Dr.jpg",
+    "overview": "Bugs Bunny meets his favorite athletes to learn about what it takes to compete with the very best in the game!",
+    "releaseYear": "2024",
+    "releaseDate": "2024-07-26"
+  },
+  {
+    "id": "tt15352542",
+    "imdbId": "tt15352542",
+    "tmdbId": 870360,
+    "type": "movie",
+    "title": "The Day the Earth Blew Up: A Looney Tunes Movie",
+    "poster": "https://image.tmdb.org/t/p/w500/s2lB1kaYCdGSnZX5meQCiOR6HfX.jpg",
+    "overview": "Porky and Daffy, the classic animated odd couple, turn into unlikely heroes when their antics at the local bubble gum factory uncover a secret alien mind control plot. Against all odds, the two are determined to save their town (and the world!)...that is if they don't drive each other crazy in the process.",
+    "releaseYear": "2024",
+    "releaseDate": "2024-08-01"
+  },
+  {
+    "id": "tt14681596",
+    "imdbId": "tt14681596",
+    "tmdbId": 125909,
+    "type": "series",
+    "title": "Batman: Caped Crusader",
+    "poster": "https://image.tmdb.org/t/p/w500/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
+    "overview": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the Batman. His one-man crusade for justice attracts unexpected allies within the GCPD and City Hall, but his heroic actions spawn deadly, unforeseen ramifications.",
+    "releaseYear": "2024",
+    "releaseDate": "2024-08-01"
+  },
+  {
+    "id": "tt32627540",
+    "imdbId": "tt32627540",
+    "tmdbId": 1155058,
+    "type": "movie",
+    "title": "Watchmen: Chapter I",
+    "poster": "https://image.tmdb.org/t/p/w500/tE2vZ6HdlmKaBh0wpsvHCf7HJKo.jpg",
+    "overview": "In 1985, the murder of a government-sponsored superhero draws his outlawed colleagues out of retirement and into a mystery that threatens to upend their personal lives and the world itself.",
+    "releaseYear": "2024",
+    "releaseDate": "2024-08-12"
+  },
+  {
+    "id": "tt32627545",
+    "imdbId": "tt32627545",
+    "tmdbId": 1299652,
+    "type": "movie",
+    "title": "Watchmen: Chapter II",
+    "poster": "https://image.tmdb.org/t/p/w500/4rBObJFpiWJOG7aIlRrOUniAkBs.jpg",
+    "overview": "Suspicious of the events ensnaring their former colleagues, Nite Owl and Silk Spectre are spurred out of retirement to investigate. As they grapple with personal ethics, inner demons and a society turned against them, they race the clock to uncover a deepening plot that might trigger global nuclear war.",
+    "releaseYear": "2024",
+    "releaseDate": "2024-11-25"
+  },
+  {
+    "id": "tt14824600",
+    "imdbId": "tt14824600",
+    "tmdbId": 839033,
+    "type": "movie",
+    "title": "The Lord of the Rings: The War of the Rohirrim",
+    "poster": "https://image.tmdb.org/t/p/w500/23WCoDo6wzBfzbX7BGTNwVUqZfi.jpg",
+    "overview": "A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance for the death of his father, forces Helm Hammerhand, the King of Rohan, and his people to make a daring last stand in the ancient stronghold of the Hornburg.",
+    "releaseYear": "2024",
+    "releaseDate": "2024-12-05"
+  },
+  {
     "id": "tt26545355",
     "imdbId": "tt26545355",
     "tmdbId": 219543,
@@ -955,6 +4222,28 @@ module.exports = [
     "overview": "Follow the exploits of the Creature Commandos, a secret team of incarcerated monsters recruited for missions deemed too dangerous for humans. When all else fails... they're your last, worst option.",
     "releaseYear": "2024",
     "releaseDate": "2024-12-05"
+  },
+  {
+    "id": "tt35128989",
+    "imdbId": "tt35128989",
+    "tmdbId": 277587,
+    "type": "series",
+    "title": "DC Metal Force",
+    "poster": "https://image.tmdb.org/t/p/w500/9S2CtfSartZUFc0MX4h7aOPm1.jpg",
+    "overview": "A mysterious entity has brought the powers of good and evil together to participate in the ultimate super-powered showdown!",
+    "releaseYear": "2024",
+    "releaseDate": "2024-12-06"
+  },
+  {
+    "id": "tt32508210",
+    "imdbId": "tt32508210",
+    "tmdbId": 1297763,
+    "type": "movie",
+    "title": "Batman Ninja vs. Yakuza League",
+    "poster": "https://image.tmdb.org/t/p/w500/sVVT6GYFErVv0Lcc9NvqCu0iOxO.jpg",
+    "overview": "The Batman family has returned to the present to discover that Japan has disappeared, and a giant island - Hinomoto - is now in the sky over Gotham City.  At the top sit the Yakuza, a group of superpowered individuals who reign without honor or humanity and look suspiciously like the Justice League. Now, it’s up to Batman and his allies to save Gotham!",
+    "releaseYear": "2025",
+    "releaseDate": "2025-03-17"
   },
   {
     "id": "tt37900794",
@@ -979,6 +4268,17 @@ module.exports = [
     "releaseDate": "2025-08-13"
   },
   {
+    "id": "tt21110654",
+    "imdbId": "tt21110654",
+    "tmdbId": 987400,
+    "type": "movie",
+    "title": "Aztec Batman: Clash of Empires",
+    "poster": "https://image.tmdb.org/t/p/w500/aNkBvhwnYC9itaHDzlnJPfuZcoO.jpg",
+    "overview": "In the time of the Aztec empire, tragedy strikes Yohualli Coatl when his father is murdered by Spanish conquistadors. To warn King Moctezuma and his high priest, Yoka, of imminent danger, Yohualli escapes to Tenochtitlán. There, he trains in the temple of the bat god Tzinacan with his mentor, developing equipment and weaponry to confront the Spanish invasion and avenge his father’s death. Along the way, he encounters key figures like the fierce Jaguar Woman and the conquistador Hernán Cortés.",
+    "releaseYear": "2025",
+    "releaseDate": "2025-09-18"
+  },
+  {
     "id": "tt37930373",
     "imdbId": "tt37930373",
     "tmdbId": 1529648,
@@ -988,6 +4288,17 @@ module.exports = [
     "overview": "When a black cat crosses Krypto's path, he's determined to catch it before Halloween night is through!",
     "releaseYear": "2025",
     "releaseDate": "2025-09-30"
+  },
+  {
+    "id": "tt27621333",
+    "imdbId": "tt27621333",
+    "tmdbId": 225361,
+    "type": "series",
+    "title": "BAT-FAM",
+    "poster": "https://image.tmdb.org/t/p/w500/8C34YTylNBt4DWM1a9oAAXqmTSr.jpg",
+    "overview": "Follow Batman, Alfred, and young Damian Wayne—who has taken on the mantle of Little Batman—alongside a few newcomers to Wayne Manor, as they navigate the fun and frustrations of life as a super family",
+    "releaseYear": "2025",
+    "releaseDate": "2025-11-10"
   },
   {
     "id": "tt37930374",
@@ -1010,6 +4321,17 @@ module.exports = [
     "overview": "A fun day at the beach goes sideways when some sneaky foes get between Krypto and his hot dog.",
     "releaseYear": "2026",
     "releaseDate": "2026-04-18"
+  },
+  {
+    "id": "tt32333324",
+    "imdbId": "tt32333324",
+    "tmdbId": 1560520,
+    "type": "movie",
+    "title": "Batman: Knightfall Part 1: Knightfall",
+    "poster": "https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+    "overview": "Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!",
+    "releaseYear": "2026",
+    "releaseDate": "2026-06-23"
   },
   {
     "id": "tt33549695",
