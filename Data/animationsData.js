@@ -11297,6 +11297,22 @@ module.exports = [
     ]
   },
   {
+    "tmdbId": 231801,
+    "title": "Get Jiro",
+    "type": "series",
+    "imdbId": "tt33406999",
+    "id": "dc_tt33406999",
+    "releaseYear": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/mCdnYVwES1QQ783bJMmZdYmULji.jpg",
+    "ratings": [],
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      }
+    ]
+  },
+  {
     "tmdbId": 1364797,
     "title": "Dynamic Duo",
     "type": "movie",

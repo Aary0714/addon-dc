@@ -143,6 +143,17 @@
     "releaseDate": "2026-08-16"
   },
   {
+    "id": "tt33406999",
+    "imdbId": "tt33406999",
+    "tmdbId": 231801,
+    "type": "series",
+    "title": "Get Jiro",
+    "poster": "https://image.tmdb.org/t/p/w500/mCdnYVwES1QQ783bJMmZdYmULji.jpg",
+    "overview": "In a post-apocalyptic, near-future Los Angeles where culinary culture reigns supreme, the world's most powerful figures are chefs, and food is both currency and a demarcation of class, the mysterious sushi chef Jiro sets out on a quest for vengeance.",
+    "releaseYear": "2026",
+    "releaseDate": "2026-10-04"
+  },
+  {
     "id": "tt34890576",
     "imdbId": "tt34890576",
     "tmdbId": 1400940,
