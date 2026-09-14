@@ -71,7 +71,7 @@
     "tmdbId": 320096,
     "type": "series",
     "title": "Krypto Saves the Day!",
-    "poster": "https://image.tmdb.org/t/p/w500/peMK4Kze9OxRGOdIOi0wn4lKYkr.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/g0mWNUELRT1Oa2Phqt0YrqJeXX1.jpg",
     "overview": "Krypto the Superdog wants to be a good boy, but he can't help but make mischief for the citizens of Metropolis.",
     "releaseYear": "2025",
     "releaseDate": "2025-08-13"
@@ -143,6 +143,17 @@
     "releaseDate": "2026-08-16"
   },
   {
+    "id": "tt45502117",
+    "imdbId": "tt45502117",
+    "tmdbId": 1767987,
+    "type": "movie",
+    "title": "Krypto Saves the Day!: Space Busted",
+    "poster": "https://image.tmdb.org/t/p/w500/vQYwy5A4PVq7r41W9zrU1pPs1Of.jpg",
+    "overview": "Supergirl takes Krypto the Superdog on an adventure into space! Can he save the aliens he meets along the way?",
+    "releaseYear": "2026",
+    "releaseDate": "2026-09-10"
+  },
+  {
     "id": "tt33406999",
     "imdbId": "tt33406999",
     "tmdbId": 231801,
@@ -160,7 +171,7 @@
     "type": "movie",
     "title": "Clayface",
     "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-    "overview": "Follow the terrifying descent into hell of a promising Hollywood actor who has become a monster driven by revenge, exploring the loss of identity and humanity, the ravages of toxic love and the dark side of scientific ambition.",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
     "releaseYear": "2026",
     "releaseDate": "2026-10-21"
   },
@@ -170,7 +181,7 @@
     "tmdbId": 1523140,
     "type": "movie",
     "title": "Man of Tomorrow",
-    "poster": "https://image.tmdb.org/t/p/w500/i3N9AKd9KbdrdvTVeXBjC8NIy7f.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/tYLgfKk3cEk7LskgxWyW37Nty01.jpg",
     "overview": "Superman and Lex Luthor find themselves forced to work together—to a certain degree—against a much, much bigger threat when Brainiac sets his sights on Earth.",
     "releaseYear": "2027",
     "releaseDate": "2027-07-07"

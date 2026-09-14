@@ -9223,6 +9223,22 @@ module.exports = [
     ]
   },
   {
+    "tmdbId": 984782,
+    "title": "Shower Shuffle",
+    "type": "movie",
+    "imdbId": "tmdb_984782",
+    "id": "dc_tmdb_984782",
+    "releaseYear": "2020",
+    "poster": "https://image.tmdb.org/t/p/w500/oqF3V2AuZfRsDZWcECAw0Tq6Qwj.jpg",
+    "ratings": [],
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      }
+    ]
+  },
+  {
     "tmdbId": 732450,
     "title": "Batman: Soul of the Dragon",
     "type": "movie",
@@ -11304,6 +11320,22 @@ module.exports = [
     "id": "dc_tt33406999",
     "releaseYear": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/mCdnYVwES1QQ783bJMmZdYmULji.jpg",
+    "ratings": [],
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      }
+    ]
+  },
+  {
+    "tmdbId": 1767987,
+    "title": "Krypto Saves the Day!: Space Busted",
+    "type": "movie",
+    "imdbId": "tt45502117",
+    "id": "dc_tt45502117",
+    "releaseYear": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/vQYwy5A4PVq7r41W9zrU1pPs1Of.jpg",
     "ratings": [],
     "genres": [
       {
