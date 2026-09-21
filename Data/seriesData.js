@@ -247,7 +247,7 @@ module.exports = [
     "tmdbId": 110492,
     "type": "series",
     "title": "Peacemaker",
-    "poster": "https://image.tmdb.org/t/p/w500/eYzbGcYnOUlvj2fa76pTgIXogd7.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/yb4F1Oocq8GfQt6iIuAgYEBokhG.jpg",
     "overview": "The continuing story of Peacemaker, a vainglorious superhero/supervillain who believes in peace at any cost — no matter how many people he has to kill. After a miraculous recovery from his duel with Bloodsport, Peacemaker soon discovers that his freedom comes at a price.",
     "releaseYear": "2022",
     "releaseDate": "2022-01-13"
