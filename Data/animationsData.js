@@ -11345,6 +11345,30 @@ module.exports = [
     ]
   },
   {
+    "tmdbId": 1389765,
+    "title": "Batman: Knightfall Part 2: Knightquest",
+    "type": "movie",
+    "imdbId": "tt38807532",
+    "id": "dc_tt38807532",
+    "releaseYear": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/4zWHei7BJ4dP0DDK4FJ7em9ET7e.jpg",
+    "ratings": [],
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ]
+  },
+  {
     "tmdbId": 1364797,
     "title": "Dynamic Duo",
     "type": "movie",
