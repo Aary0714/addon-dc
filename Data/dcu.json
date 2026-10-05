@@ -154,15 +154,15 @@
     "releaseDate": "2026-09-10"
   },
   {
-    "id": "tt33406999",
-    "imdbId": "tt33406999",
-    "tmdbId": 231801,
-    "type": "series",
-    "title": "Get Jiro",
-    "poster": "https://image.tmdb.org/t/p/w500/7sPonRG42zGId0ERvN3q5OHsjkl.jpg",
-    "overview": "In a post-apocalyptic, near-future Los Angeles where culinary culture reigns supreme, the world's most powerful figures are chefs, and food is both currency and a demarcation of class, the mysterious sushi chef Jiro sets out on a quest for vengeance.",
+    "id": "tmdb_1786298",
+    "imdbId": null,
+    "tmdbId": 1786298,
+    "type": "movie",
+    "title": "Krypto Saves the Day!: Robo-Pal",
+    "poster": null,
+    "overview": "Lex Luthor deploys a robo-dog to hunt Superman and Supergirl, but the mission unravels when Krypto and the machine become best friends.",
     "releaseYear": "2026",
-    "releaseDate": "2026-10-04"
+    "releaseDate": "2026-10-03"
   },
   {
     "id": "tt34890576",
@@ -204,8 +204,8 @@
     "type": "movie",
     "title": "Dynamic Duo",
     "poster": "https://image.tmdb.org/t/p/w500/byZZQsE933kaBCq6i2yGQnJF6TN.jpg",
-    "overview": "Two would-be Robins – orphaned teenagers Dick Grayson and Jason Todd  –  goof around Gotham as they are swayed by two very different adult figures in their lives – respectively, Batman and the Red Hood.",
+    "overview": "Follow the early days of Dick Grayson and Jason Todd and explore how their friendship becomes tested by their diverging ideas for what their future should be.",
     "releaseYear": "2028",
-    "releaseDate": "2028-09-22"
+    "releaseDate": "2028-09-21"
   }
 ]
