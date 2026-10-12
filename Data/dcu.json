@@ -82,7 +82,7 @@
     "tmdbId": 1529648,
     "type": "movie",
     "title": "Krypto Saves the Day!: Halloween Havoc",
-    "poster": "https://image.tmdb.org/t/p/w500/xVQgm5rZxmvRW8ttngCsnqmmitY.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/cg7fF5EuqQbIsygRSGEdGoiRBDy.jpg",
     "overview": "When a black cat crosses Krypto's path, he's determined to catch it before Halloween night is through!",
     "releaseYear": "2025",
     "releaseDate": "2025-09-30"
@@ -93,7 +93,7 @@
     "tmdbId": 1529650,
     "type": "movie",
     "title": "Krypto Saves the Day!: Package Pandemonium",
-    "poster": "https://image.tmdb.org/t/p/w500/rmk3dVvXlIuZLkh776PIHOrqtJW.jpg",
+    "poster": null,
     "overview": "Krypto smells something special in a holiday package, and in his eagerness to grab the gift he makes a mess of Metropolis's festivities.",
     "releaseYear": "2025",
     "releaseDate": "2025-11-28"
@@ -104,7 +104,7 @@
     "tmdbId": 1529651,
     "type": "movie",
     "title": "Krypto Saves the Day!: Coastal Catastrophe",
-    "poster": "https://image.tmdb.org/t/p/w500/yOk1Rw2TAknrkGS3PKs3MUyNje4.jpg",
+    "poster": null,
     "overview": "A fun day at the beach goes sideways when some sneaky foes get between Krypto and his hot dog.",
     "releaseYear": "2026",
     "releaseDate": "2026-04-18"
@@ -154,15 +154,26 @@
     "releaseDate": "2026-09-10"
   },
   {
+    "id": "tt33406999",
+    "imdbId": "tt33406999",
+    "tmdbId": 231801,
+    "type": "series",
+    "title": "GET JIRO",
+    "poster": "https://image.tmdb.org/t/p/w500/li3TH09EF6JyHPVoTvub4nPOfwU.jpg",
+    "overview": "In a post-apocalyptic, near-future Los Angeles where culinary culture reigns supreme, the world's most powerful figures are chefs, and food is both currency and a demarcation of class, the mysterious sushi chef Jiro sets out on a quest for vengeance.",
+    "releaseYear": "2026",
+    "releaseDate": "2026-10-04"
+  },
+  {
     "id": "tmdb_1786298",
     "imdbId": null,
     "tmdbId": 1786298,
     "type": "movie",
     "title": "Krypto Saves the Day!: Robo-Pal",
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/w500/vuW5SGi8nnYD4LMRW88gC9cH2a4.jpg",
     "overview": "Lex Luthor deploys a robo-dog to hunt Superman and Supergirl, but the mission unravels when Krypto and the machine become best friends.",
     "releaseYear": "2026",
-    "releaseDate": "2026-10-03"
+    "releaseDate": "2026-10-08"
   },
   {
     "id": "tt34890576",

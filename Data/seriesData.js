@@ -99,6 +99,17 @@ module.exports = [
     "releaseDate": "2017-02-02"
   },
   {
+    "id": "tt6045840",
+    "imdbId": "tt6045840",
+    "tmdbId": 71663,
+    "type": "series",
+    "title": "Black Lightning",
+    "poster": "https://image.tmdb.org/t/p/w500/h1xbvvO6oqchfLe6xh0yLNnQxeM.jpg",
+    "overview": "Jefferson Pierce is a man wrestling with a secret. As the father of two daughters and principal of a charter high school that also serves as a safe haven for young people in a New Orleans neighborhood overrun by gang violence, he is a hero to his community.",
+    "releaseYear": "2018",
+    "releaseDate": "2018-01-16"
+  },
+  {
     "id": "tt4276624",
     "imdbId": "tt4276624",
     "tmdbId": 71340,

@@ -1486,6 +1486,17 @@ module.exports = [
     ]
   },
   {
+    "tmdbId": 1786298,
+    "title": "Krypto Saves the Day!: Robo-Pal",
+    "type": "movie",
+    "imdbId": "tmdb_1786298",
+    "id": "dc_tmdb_1786298",
+    "releaseYear": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/vuW5SGi8nnYD4LMRW88gC9cH2a4.jpg",
+    "ratings": [],
+    "genres": []
+  },
+  {
     "tmdbId": 1523140,
     "title": "Man of Tomorrow",
     "type": "movie",
