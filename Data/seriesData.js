@@ -280,7 +280,7 @@ module.exports = [
     "tmdbId": 195868,
     "type": "series",
     "title": "Gotham Knights",
-    "poster": "https://image.tmdb.org/t/p/w500/5riy7SdIhMhhYcDqeEOICVvXEHS.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/tbCGmkR3TRDug4weDnHEGCu3WEC.jpg",
     "overview": "In the aftermath of Bruce Wayne's murder, his rebellious adopted son forges an unlikely alliance with the children of Batman's enemies when they are all framed for killing the Caped Crusader.",
     "releaseYear": "2023",
     "releaseDate": "2023-03-14"
@@ -346,7 +346,7 @@ module.exports = [
     "tmdbId": 95350,
     "type": "series",
     "title": "Lanterns",
-    "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
     "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
     "releaseYear": "2026",
     "releaseDate": "2026-08-16"

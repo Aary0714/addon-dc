@@ -1438,6 +1438,22 @@ module.exports = [
     ]
   },
   {
+    "tmdbId": 1800288,
+    "title": "Adventures in the Making of Superman",
+    "type": "movie",
+    "imdbId": "tmdb_1800288",
+    "id": "dc_tmdb_1800288",
+    "releaseYear": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/sGIMndKyUOLh2yaib84THEoUMxP.jpg",
+    "ratings": [],
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ]
+  },
+  {
     "tmdbId": 1081003,
     "title": "Supergirl",
     "type": "movie",

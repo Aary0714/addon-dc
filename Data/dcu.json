@@ -55,6 +55,17 @@
     "releaseDate": "2025-07-24"
   },
   {
+    "id": "tmdb_1800288",
+    "imdbId": null,
+    "tmdbId": 1800288,
+    "type": "movie",
+    "title": "Adventures in the Making of Superman",
+    "poster": "https://image.tmdb.org/t/p/w500/sGIMndKyUOLh2yaib84THEoUMxP.jpg",
+    "overview": "Join James Gunn and the cast of Superman on their incredible filmmaking journey. This documentary offers an in-depth look at the filmmaking process, told with unparalleled access.",
+    "releaseYear": "2025",
+    "releaseDate": "2025-08-11"
+  },
+  {
     "id": "tt37900794",
     "imdbId": "tt37900794",
     "tmdbId": 1529346,
@@ -82,7 +93,7 @@
     "tmdbId": 1529648,
     "type": "movie",
     "title": "Krypto Saves the Day!: Halloween Havoc",
-    "poster": "https://image.tmdb.org/t/p/w500/cg7fF5EuqQbIsygRSGEdGoiRBDy.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/r5NYKFDUlP3KNYatoofaFWeB3vv.jpg",
     "overview": "When a black cat crosses Krypto's path, he's determined to catch it before Halloween night is through!",
     "releaseYear": "2025",
     "releaseDate": "2025-09-30"
@@ -137,7 +148,7 @@
     "tmdbId": 95350,
     "type": "series",
     "title": "Lanterns",
-    "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
     "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
     "releaseYear": "2026",
     "releaseDate": "2026-08-16"
@@ -170,7 +181,7 @@
     "tmdbId": 1786298,
     "type": "movie",
     "title": "Krypto Saves the Day!: Robo-Pal",
-    "poster": "https://image.tmdb.org/t/p/w500/vuW5SGi8nnYD4LMRW88gC9cH2a4.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/3Oja90hQVxQKRRlQwqRA0t1CjwU.jpg",
     "overview": "Lex Luthor deploys a robo-dog to hunt Superman and Supergirl, but the mission unravels when Krypto and the machine become best friends.",
     "releaseYear": "2026",
     "releaseDate": "2026-10-08"
