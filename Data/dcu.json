@@ -55,17 +55,6 @@
     "releaseDate": "2025-07-24"
   },
   {
-    "id": "tmdb_1800288",
-    "imdbId": null,
-    "tmdbId": 1800288,
-    "type": "movie",
-    "title": "Adventures in the Making of Superman",
-    "poster": "https://image.tmdb.org/t/p/w500/sGIMndKyUOLh2yaib84THEoUMxP.jpg",
-    "overview": "Join James Gunn and the cast of Superman on their incredible filmmaking journey. This documentary offers an in-depth look at the filmmaking process, told with unparalleled access.",
-    "releaseYear": "2025",
-    "releaseDate": "2025-08-11"
-  },
-  {
     "id": "tt37900794",
     "imdbId": "tt37900794",
     "tmdbId": 1529346,
@@ -115,7 +104,7 @@
     "tmdbId": 1529651,
     "type": "movie",
     "title": "Krypto Saves the Day!: Coastal Catastrophe",
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/w500/hkf0Oty4U32n9f078QU48UAAUpL.jpg",
     "overview": "A fun day at the beach goes sideways when some sneaky foes get between Krypto and his hot dog.",
     "releaseYear": "2026",
     "releaseDate": "2026-04-18"
@@ -192,10 +181,10 @@
     "tmdbId": 1400940,
     "type": "movie",
     "title": "Clayface",
-    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
     "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
     "releaseYear": "2026",
-    "releaseDate": "2026-10-21"
+    "releaseDate": "2026-10-19"
   },
   {
     "id": "tt37833661",
