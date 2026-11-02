@@ -1513,6 +1513,17 @@ module.exports = [
     "genres": []
   },
   {
+    "tmdbId": 1811860,
+    "title": "The Suicide Squad: Is It Canon? The Official Podcast",
+    "type": "movie",
+    "imdbId": "tt50307756",
+    "id": "dc_tt50307756",
+    "releaseYear": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/Akt7X49HSFVg1vhvZUiAJUhG3fH.jpg",
+    "ratings": [],
+    "genres": []
+  },
+  {
     "tmdbId": 1523140,
     "title": "Man of Tomorrow",
     "type": "movie",

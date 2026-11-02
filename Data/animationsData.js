@@ -1860,6 +1860,34 @@ module.exports = [
     ]
   },
   {
+    "tmdbId": 679,
+    "title": "Xiaolin Showdown",
+    "type": "series",
+    "imdbId": "tt0386993",
+    "id": "dc_tt0386993",
+    "releaseYear": "2003",
+    "poster": "https://image.tmdb.org/t/p/w500/mxxwz1kYyb5DBttl2VvmHgdDoRe.jpg",
+    "ratings": [],
+    "genres": [
+      {
+        "id": 10759,
+        "name": "Action & Adventure"
+      },
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10762,
+        "name": "Kids"
+      }
+    ]
+  },
+  {
     "tmdbId": 197232,
     "title": "Cock-a-Doodle-Duel",
     "type": "movie",

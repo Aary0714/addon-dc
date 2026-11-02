@@ -187,12 +187,23 @@
     "releaseDate": "2026-10-19"
   },
   {
+    "id": "tt50307756",
+    "imdbId": "tt50307756",
+    "tmdbId": 1811860,
+    "type": "movie",
+    "title": "The Suicide Squad: Is It Canon? The Official Podcast",
+    "poster": "https://image.tmdb.org/t/p/w500/Akt7X49HSFVg1vhvZUiAJUhG3fH.jpg",
+    "overview": "In this one-episode special, James Gunn, Jennifer Holland and Steve Agee revisit The Suicide Squad and determine what is and is not canon moving forward in the DC Universe.",
+    "releaseYear": "2026",
+    "releaseDate": "2026-10-29"
+  },
+  {
     "id": "tt37833661",
     "imdbId": "tt37833661",
     "tmdbId": 1523140,
     "type": "movie",
     "title": "Man of Tomorrow",
-    "poster": "https://image.tmdb.org/t/p/w500/tYLgfKk3cEk7LskgxWyW37Nty01.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/ms7BhVucvjxV74HkX8JLmFlQ6p2.jpg",
     "overview": "Superman and Lex Luthor find themselves forced to work together—to a certain degree—against a much, much bigger threat when Brainiac sets his sights on Earth.",
     "releaseYear": "2027",
     "releaseDate": "2027-07-07"
