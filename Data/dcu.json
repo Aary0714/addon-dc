@@ -198,6 +198,17 @@
     "releaseDate": "2026-10-29"
   },
   {
+    "id": "tt50703072",
+    "imdbId": "tt50703072",
+    "tmdbId": 1819616,
+    "type": "movie",
+    "title": "Krypto Saves the Day!: Tales of Puppy Past",
+    "poster": "https://image.tmdb.org/t/p/w500/8ZQANnjl9NDT5DUwm80v4oviXHF.jpg",
+    "overview": "A holiday scrapbook sends Superman and Supergirl reminiscing about puppy Krypto's earliest Christmases on Earth.",
+    "releaseYear": "2026",
+    "releaseDate": "2026-11-05"
+  },
+  {
     "id": "tt37833661",
     "imdbId": "tt37833661",
     "tmdbId": 1523140,

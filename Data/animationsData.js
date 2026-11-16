@@ -11397,6 +11397,26 @@ module.exports = [
     ]
   },
   {
+    "tmdbId": 1819616,
+    "title": "Krypto Saves the Day!: Tales of Puppy Past",
+    "type": "movie",
+    "imdbId": "tt50703072",
+    "id": "dc_tt50703072",
+    "releaseYear": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/8ZQANnjl9NDT5DUwm80v4oviXHF.jpg",
+    "ratings": [],
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ]
+  },
+  {
     "tmdbId": 1364797,
     "title": "Dynamic Duo",
     "type": "movie",
